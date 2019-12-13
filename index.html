@@ -3,18 +3,43 @@
 <head>
     <link href="css/style.css" rel="stylesheet" type="text/css">
     <link href="css/tableStyle.css" rel="stylesheet" type="text/css">
+    <link href="css/dropdown.css" rel="stylesheet" type="text/css">
+    <link href="css/buttons.css" rel="stylesheet" type="text/css">
     <script src="https://d3js.org/d3.v4.min.js"></script>
     <style>
     
     </style>
 </head>
+
 <body>
-   
+
     <header>Overskrift</header>
     <div id = 'container'>
-
     <div id = 'table'>
         <p>Tabell delen</p>
+
+        <div class="navbar">
+            <div class="dropdown">
+                <button class="dropbtn">Sort by
+                    <i class="fa fa-caret-down"></i>
+                </button>
+                <div class="dropdown-content">
+                    <a href="#">Ranking</a>
+                    <a href="#">Country</a>
+                    <a href="#">Size (number of students)</a>
+                    <a href="#">Number of international students</a>
+                </div>
+            </div>
+        </div>
+    <div class="buttonHolder">
+        <a href="#" class="previous round">&#8249;</a>
+        <a href="#" class="next round">&#8250;</a>
+    </div>
+
+    </div>
+
+    <div id = 'map'>
+        <p>Kart delen</p>
     </div>
     <div id = 'map'>
             <p>Kart delen</p>
