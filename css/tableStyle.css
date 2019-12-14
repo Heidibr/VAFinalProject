@@ -1,0 +1,18 @@
+table {
+    
+    border:1px solid grey;
+    border-collapse:collapse;
+    vertical-align:middle;
+    margin-top: 5px;
+    background: white;
+
+}
+tr,td,th{
+    border:1px solid grey;
+    text-align: left;
+    padding: 4px;
+    border-collapse:collapse;
+    vertical-align:middle;
+    background: white;
+}
+   
