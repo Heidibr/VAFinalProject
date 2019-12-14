@@ -1,0 +1,5002 @@
+[
+  {
+    "Overall Rank": 1,
+    "Institution Name": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY (MIT)",
+    "Country": "United States",
+    "ARscore": 100,
+    "ARrank": 3,
+    "ISscore": "95,5",
+    "ISrank": 77,
+    "Overall Score": 100
+  },
+  {
+    "Overall Rank": 2,
+    "Institution Name": "STANFORD UNIVERSITY",
+    "Country": "United States",
+    "ARscore": 100,
+    "ARrank": 5,
+    "ISscore": "70,5",
+    "ISrank": 190,
+    "Overall Score": "98,6"
+  },
+  {
+    "Overall Rank": 3,
+    "Institution Name": "HARVARD UNIVERSITY",
+    "Country": "United States",
+    "ARscore": 100,
+    "ARrank": 1,
+    "ISscore": "75,7",
+    "ISrank": 164,
+    "Overall Score": "98,5"
+  },
+  {
+    "Overall Rank": 4,
+    "Institution Name": "CALIFORNIA INSTITUTE OF TECHNOLOGY (CALTECH)",
+    "Country": "United States",
+    "ARscore": "98,7",
+    "ARrank": 21,
+    "ISscore": "90,3",
+    "ISrank": 103,
+    "Overall Score": "97,2"
+  },
+  {
+    "Overall Rank": 5,
+    "Institution Name": "UNIVERSITY OF OXFORD",
+    "Country": "United Kingdom",
+    "ARscore": 100,
+    "ARrank": 4,
+    "ISscore": "98,8",
+    "ISrank": 43,
+    "Overall Score": "96,8"
+  },
+  {
+    "Overall Rank": 6,
+    "Institution Name": "UNIVERSITY OF CAMBRIDGE",
+    "Country": "United Kingdom",
+    "ARscore": 100,
+    "ARrank": 2,
+    "ISscore": "97,9",
+    "ISrank": 53,
+    "Overall Score": "95,6"
+  },
+  {
+    "Overall Rank": 7,
+    "Institution Name": "ETH ZURICH (SWISS FEDERAL INSTITUTE OF TECHNOLOGY)",
+    "Country": "Switzerland",
+    "ARscore": "98,2",
+    "ARrank": 23,
+    "ISscore": "98,6",
+    "ISrank": 49,
+    "Overall Score": "95,3"
+  },
+  {
+    "Overall Rank": 8,
+    "Institution Name": "IMPERIAL COLLEGE LONDON",
+    "Country": "United Kingdom",
+    "ARscore": "98,7",
+    "ARrank": 19,
+    "ISscore": 100,
+    "ISrank": 13,
+    "Overall Score": "93,3"
+  },
+  {
+    "Overall Rank": 9,
+    "Institution Name": "UNIVERSITY OF CHICAGO",
+    "Country": "United States",
+    "ARscore": "99,6",
+    "ARrank": 13,
+    "ISscore": "82,5",
+    "ISrank": 136,
+    "Overall Score": "93,2"
+  },
+  {
+    "Overall Rank": 10,
+    "Institution Name": "UCL (UNIVERSITY COLLEGE LONDON)",
+    "Country": "United Kingdom",
+    "ARscore": "99,3",
+    "ARrank": 14,
+    "ISscore": 100,
+    "ISrank": 16,
+    "Overall Score": "92,9"
+  },
+  {
+    "Overall Rank": 11,
+    "Institution Name": "NATIONAL UNIVERSITY OF SINGAPORE (NUS)",
+    "Country": "Singapore",
+    "ARscore": "99,8",
+    "ARrank": 11,
+    "ISscore": "80,7",
+    "ISrank": 144,
+    "Overall Score": 92
+  },
+  {
+    "Overall Rank": 12,
+    "Institution Name": "NANYANG TECHNOLOGICAL UNIVERSITY (NTU)",
+    "Country": "Singapore",
+    "ARscore": "90,3",
+    "ARrank": 38,
+    "ISscore": "83,5",
+    "ISrank": 132,
+    "Overall Score": "91,3"
+  },
+  {
+    "Overall Rank": 13,
+    "Institution Name": "PRINCETON UNIVERSITY",
+    "Country": "United States",
+    "ARscore": "99,9",
+    "ARrank": 10,
+    "ISscore": "69,2",
+    "ISrank": 196,
+    "Overall Score": "90,9"
+  },
+  {
+    "Overall Rank": 14,
+    "Institution Name": "CORNELL UNIVERSITY",
+    "Country": "United States",
+    "ARscore": "98,7",
+    "ARrank": 20,
+    "ISscore": 77,
+    "ISrank": 160,
+    "Overall Score": "90,5"
+  },
+  {
+    "Overall Rank": 15,
+    "Institution Name": "YALE UNIVERSITY",
+    "Country": "United States",
+    "ARscore": "99,9",
+    "ARrank": 9,
+    "ISscore": "61,2",
+    "ISrank": 236,
+    "Overall Score": "89,6"
+  },
+  {
+    "Overall Rank": 16,
+    "Institution Name": "COLUMBIA UNIVERSITY",
+    "Country": "United States",
+    "ARscore": "99,7",
+    "ARrank": 12,
+    "ISscore": "96,2",
+    "ISrank": 72,
+    "Overall Score": "88,5"
+  },
+  {
+    "Overall Rank": 17,
+    "Institution Name": "TSINGHUA UNIVERSITY",
+    "Country": "China",
+    "ARscore": 97,
+    "ARrank": 27,
+    "ISscore": "29,2",
+    "ISrank": 440,
+    "Overall Score": "87,2"
+  },
+  {
+    "Overall Rank": 18,
+    "Institution Name": "UNIVERSITY OF EDINBURGH",
+    "Country": "United Kingdom",
+    "ARscore": "97,3",
+    "ARrank": 24,
+    "ISscore": "98,8",
+    "ISrank": 45,
+    "Overall Score": "86,9"
+  },
+  {
+    "Overall Rank": 19,
+    "Institution Name": "UNIVERSITY OF PENNSYLVANIA",
+    "Country": "United States",
+    "ARscore": "95,4",
+    "ARrank": 32,
+    "ISscore": "65,2",
+    "ISrank": 219,
+    "Overall Score": "86,5"
+  },
+  {
+    "Overall Rank": 20,
+    "Institution Name": "UNIVERSITY OF MICHIGAN",
+    "Country": "United States",
+    "ARscore": "98,9",
+    "ARrank": 17,
+    "ISscore": "49,8",
+    "ISrank": 291,
+    "Overall Score": "86,4"
+  },
+  {
+    "Overall Rank": 21,
+    "Institution Name": "JOHNS HOPKINS UNIVERSITY",
+    "Country": "United States",
+    "ARscore": "89,7",
+    "ARrank": 40,
+    "ISscore": "81,6",
+    "ISrank": 140,
+    "Overall Score": "85,9"
+  },
+  {
+    "Overall Rank": 22,
+    "Institution Name": "�COLE POLYTECHNIQUE F�D�RALE DE LAUSANNE (EPFL)",
+    "Country": "Switzerland",
+    "ARscore": "72,8",
+    "ARrank": 76,
+    "ISscore": 100,
+    "ISrank": 12,
+    "Overall Score": "85,8"
+  },
+  {
+    "Overall Rank": 23,
+    "Institution Name": "THE UNIVERSITY OF TOKYO",
+    "Country": "Japan",
+    "ARscore": 100,
+    "ARrank": 7,
+    "ISscore": "25,5",
+    "ISrank": 465,
+    "Overall Score": "85,3"
+  },
+  {
+    "Overall Rank": 24,
+    "Institution Name": "AUSTRALIAN NATIONAL UNIVERSITY (ANU)",
+    "Country": "Australia",
+    "ARscore": "97,1",
+    "ARrank": 26,
+    "ISscore": "99,5",
+    "ISrank": 33,
+    "Overall Score": "84,4"
+  },
+  {
+    "Overall Rank": 25,
+    "Institution Name": "UNIVERSITY OF HONG KONG (HKU)",
+    "Country": "Hong Kong",
+    "ARscore": "96,7",
+    "ARrank": 28,
+    "ISscore": "99,4",
+    "ISrank": 36,
+    "Overall Score": "84,3"
+  },
+  {
+    "Overall Rank": 26,
+    "Institution Name": "DUKE UNIVERSITY",
+    "Country": "United States",
+    "ARscore": "88,2",
+    "ARrank": 46,
+    "ISscore": 55,
+    "ISrank": 260,
+    "Overall Score": "83,9"
+  },
+  {
+    "Overall Rank": 27,
+    "Institution Name": "UNIVERSITY OF CALIFORNIA, BERKELEY (UCB)",
+    "Country": "United States",
+    "ARscore": 100,
+    "ARrank": 6,
+    "ISscore": "46,1",
+    "ISrank": 308,
+    "Overall Score": "83,2"
+  },
+  {
+    "Overall Rank": 28,
+    "Institution Name": "UNIVERSITY OF TORONTO",
+    "Country": "Canada",
+    "ARscore": "98,7",
+    "ARrank": 18,
+    "ISscore": "92,9",
+    "ISrank": 88,
+    "Overall Score": 83
+  },
+  {
+    "Overall Rank": 29,
+    "Institution Name": "THE UNIVERSITY OF MANCHESTER",
+    "Country": "United Kingdom",
+    "ARscore": "94,6",
+    "ARrank": 33,
+    "ISscore": "98,8",
+    "ISrank": 46,
+    "Overall Score": "82,9"
+  },
+  {
+    "Overall Rank": 30,
+    "Institution Name": "PEKING UNIVERSITY",
+    "Country": "China",
+    "ARscore": 99,
+    "ARrank": 16,
+    "ISscore": "53,8",
+    "ISrank": 268,
+    "Overall Score": "82,6"
+  },
+  {
+    "Overall Rank": 31,
+    "Institution Name": "KING'S COLLEGE LONDON (KCL)",
+    "Country": "United Kingdom",
+    "ARscore": "87,7",
+    "ARrank": 47,
+    "ISscore": "99,7",
+    "ISrank": 31,
+    "Overall Score": "82,5"
+  },
+  {
+    "Overall Rank": 32,
+    "Institution Name": "UNIVERSITY OF CALIFORNIA, LOS ANGELES (UCLA)",
+    "Country": "United States",
+    "ARscore": 100,
+    "ARrank": 8,
+    "ISscore": 42,
+    "ISrank": 336,
+    "Overall Score": "81,9"
+  },
+  {
+    "Overall Rank": 33,
+    "Institution Name": "MCGILL UNIVERSITY",
+    "Country": "Canada",
+    "ARscore": "91,4",
+    "ARrank": 36,
+    "ISscore": "96,2",
+    "ISrank": 73,
+    "Overall Score": "81,7"
+  },
+  {
+    "Overall Rank": 34,
+    "Institution Name": "NORTHWESTERN UNIVERSITY",
+    "Country": "United States",
+    "ARscore": 85,
+    "ARrank": 55,
+    "ISscore": "54,8",
+    "ISrank": 263,
+    "Overall Score": "81,5"
+  },
+  {
+    "Overall Rank": 35,
+    "Institution Name": "KYOTO UNIVERSITY",
+    "Country": "Japan",
+    "ARscore": "98,6",
+    "ARrank": 22,
+    "ISscore": "18,2",
+    "ISrank": 544,
+    "Overall Score": "81,2"
+  },
+  {
+    "Overall Rank": 36,
+    "Institution Name": "SEOUL NATIONAL UNIVERSITY (SNU)",
+    "Country": "South Korea",
+    "ARscore": "96,2",
+    "ARrank": 30,
+    "ISscore": 14,
+    "ISrank": 601,
+    "Overall Score": "80,6"
+  },
+  {
+    "Overall Rank": 37,
+    "Institution Name": "THE HONG KONG UNIVERSITY OF SCIENCE AND TECHNOLOGY (HKUST)",
+    "Country": "Hong Kong",
+    "ARscore": "83,6",
+    "ARrank": 57,
+    "ISscore": "87,9",
+    "ISrank": 114,
+    "Overall Score": "80,5"
+  },
+  {
+    "Overall Rank": 38,
+    "Institution Name": "LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE (LSE)",
+    "Country": "United Kingdom",
+    "ARscore": "84,2",
+    "ARrank": 56,
+    "ISscore": 100,
+    "ISrank": 7,
+    "Overall Score": "80,2"
+  },
+  {
+    "Overall Rank": 39,
+    "Institution Name": "THE UNIVERSITY OF MELBOURNE",
+    "Country": "Australia",
+    "ARscore": 99,
+    "ARrank": 15,
+    "ISscore": "99,9",
+    "ISrank": 24,
+    "Overall Score": "80,1"
+  },
+  {
+    "Overall Rank": 40,
+    "Institution Name": "KAIST - KOREA ADVANCED INSTITUTE OF SCIENCE AND TECHNOLOGY",
+    "Country": "South Korea",
+    "ARscore": "83,2",
+    "ARrank": 58,
+    "ISscore": "9,8",
+    "ISrank": 601,
+    "Overall Score": "78,7"
+  },
+  {
+    "Overall Rank": 41,
+    "Institution Name": "UNIVERSITY OF CALIFORNIA, SAN DIEGO (UCSD)",
+    "Country": "United States",
+    "ARscore": "91,7",
+    "ARrank": 35,
+    "ISscore": "70,7",
+    "ISrank": 189,
+    "Overall Score": "78,6"
+  },
+  {
+    "Overall Rank": 42,
+    "Institution Name": "THE UNIVERSITY OF SYDNEY",
+    "Country": "Australia",
+    "ARscore": "97,2",
+    "ARrank": 25,
+    "ISscore": "99,8",
+    "ISrank": 29,
+    "Overall Score": "78,3"
+  },
+  {
+    "Overall Rank": 43,
+    "Institution Name": "NEW YORK UNIVERSITY (NYU)",
+    "Country": "United States",
+    "ARscore": "95,6",
+    "ARrank": 31,
+    "ISscore": "90,9",
+    "ISrank": 101,
+    "Overall Score": "77,7"
+  },
+  {
+    "Overall Rank": 44,
+    "Institution Name": "FUDAN UNIVERSITY",
+    "Country": "China",
+    "ARscore": "81,8",
+    "ARrank": 61,
+    "ISscore": "39,2",
+    "ISrank": 353,
+    "Overall Score": "77,6"
+  },
+  {
+    "Overall Rank": 45,
+    "Institution Name": "THE UNIVERSITY OF NEW SOUTH WALES (UNSW)",
+    "Country": "Australia",
+    "ARscore": "90,4",
+    "ARrank": 37,
+    "ISscore": "97,4",
+    "ISrank": 60,
+    "Overall Score": 77
+  },
+  {
+    "Overall Rank": 46,
+    "Institution Name": "CARNEGIE MELLON UNIVERSITY",
+    "Country": "United States",
+    "ARscore": "78,5",
+    "ARrank": 65,
+    "ISscore": 100,
+    "ISrank": 20,
+    "Overall Score": "76,6"
+  },
+  {
+    "Overall Rank": 47,
+    "Institution Name": "UNIVERSITY OF BRITISH COLUMBIA",
+    "Country": "Canada",
+    "ARscore": "96,7",
+    "ARrank": 29,
+    "ISscore": "77,7",
+    "ISrank": 157,
+    "Overall Score": "75,8"
+  },
+  {
+    "Overall Rank": 48,
+    "Institution Name": "THE UNIVERSITY OF QUEENSLAND (UQ)",
+    "Country": "Australia",
+    "ARscore": "87,3",
+    "ARrank": 48,
+    "ISscore": "97,6",
+    "ISrank": 57,
+    "Overall Score": "75,7"
+  },
+  {
+    "Overall Rank": 49,
+    "Institution Name": "THE CHINESE UNIVERSITY OF HONG KONG (CUHK)",
+    "Country": "Hong Kong",
+    "ARscore": "86,1",
+    "ARrank": 52,
+    "ISscore": "91,2",
+    "ISrank": 100,
+    "Overall Score": "75,6"
+  },
+  {
+    "Overall Rank": 50,
+    "Institution Name": "PSL UNIVERSITY",
+    "Country": "France",
+    "ARscore": "80,3",
+    "ARrank": 62,
+    "ISscore": "84,2",
+    "ISrank": 129,
+    "Overall Score": "75,1"
+  },
+  {
+    "Overall Rank": 51,
+    "Institution Name": "UNIVERSITY OF BRISTOL",
+    "Country": "United Kingdom",
+    "ARscore": "75,6",
+    "ARrank": 72,
+    "ISscore": "66,4",
+    "ISrank": 212,
+    "Overall Score": "74,9"
+  },
+  {
+    "Overall Rank": 52,
+    "Institution Name": "DELFT UNIVERSITY OF TECHNOLOGY",
+    "Country": "Netherlands",
+    "ARscore": "69,3",
+    "ARrank": 83,
+    "ISscore": "86,7",
+    "ISrank": 121,
+    "Overall Score": "73,3"
+  },
+  {
+    "Overall Rank": 53,
+    "Institution Name": "UNIVERSITY OF WISCONSIN-MADISON",
+    "Country": "United States",
+    "ARscore": "88,5",
+    "ARrank": 44,
+    "ISscore": "30,6",
+    "ISrank": 424,
+    "Overall Score": "73,2"
+  },
+  {
+    "Overall Rank": 54,
+    "Institution Name": "THE UNIVERSITY OF WARWICK",
+    "Country": "United Kingdom",
+    "ARscore": "73,8",
+    "ARrank": 74,
+    "ISscore": "99,3",
+    "ISrank": 37,
+    "Overall Score": "72,9"
+  },
+  {
+    "Overall Rank": 55,
+    "Institution Name": "CITY UNIVERSITY OF HONG KONG",
+    "Country": "Hong Kong",
+    "ARscore": "55,6",
+    "ARrank": 129,
+    "ISscore": "97,3",
+    "ISrank": 62,
+    "Overall Score": "72,1"
+  },
+  {
+    "Overall Rank": 56,
+    "Institution Name": "BROWN UNIVERSITY",
+    "Country": "United States",
+    "ARscore": "62,5",
+    "ARrank": 104,
+    "ISscore": "58,3",
+    "ISrank": 252,
+    "Overall Score": 72
+  },
+  {
+    "Overall Rank": 57,
+    "Institution Name": "UNIVERSITY OF AMSTERDAM",
+    "Country": "Netherlands",
+    "ARscore": "79,2",
+    "ARrank": 64,
+    "ISscore": "40,3",
+    "ISrank": 345,
+    "Overall Score": "71,1"
+  },
+  {
+    "Overall Rank": 58,
+    "Institution Name": "TOKYO INSTITUTE OF TECHNOLOGY",
+    "Country": "Japan",
+    "ARscore": "74,6",
+    "ARrank": 73,
+    "ISscore": "27,1",
+    "ISrank": 454,
+    "Overall Score": 71
+  },
+  {
+    "Overall Rank": 59,
+    "Institution Name": "MONASH UNIVERSITY",
+    "Country": "Australia",
+    "ARscore": "86,7",
+    "ARrank": 51,
+    "ISscore": 99,
+    "ISrank": 39,
+    "Overall Score": "70,4"
+  },
+  {
+    "Overall Rank": 60,
+    "Institution Name": "SHANGHAI JIAO TONG UNIVERSITY",
+    "Country": "China",
+    "ARscore": "77,8",
+    "ARrank": 69,
+    "ISscore": "15,6",
+    "ISrank": 582,
+    "Overall Score": "70,4"
+  },
+  {
+    "Overall Rank": 61,
+    "Institution Name": "TECHNISCHE UNIVERSIT�T M�NCHEN",
+    "Country": "Germany",
+    "ARscore": "78,1",
+    "ARrank": 68,
+    "ISscore": "63,9",
+    "ISrank": 222,
+    "Overall Score": 70
+  },
+  {
+    "Overall Rank": 62,
+    "Institution Name": "LUDWIG-MAXIMILIANS-UNIVERSIT�T M�NCHEN",
+    "Country": "Germany",
+    "ARscore": 90,
+    "ARrank": 39,
+    "ISscore": "38,8",
+    "ISrank": 357,
+    "Overall Score": "69,4"
+  },
+  {
+    "Overall Rank": 63,
+    "Institution Name": "UNIVERSITY OF TEXAS AT AUSTIN",
+    "Country": "United States",
+    "ARscore": "93,8",
+    "ARrank": 34,
+    "ISscore": "20,4",
+    "ISrank": 518,
+    "Overall Score": "68,7"
+  },
+  {
+    "Overall Rank": 64,
+    "Institution Name": "RUPRECHT-KARLS-UNIVERSIT�T HEIDELBERG",
+    "Country": "Germany",
+    "ARscore": "78,4",
+    "ARrank": 67,
+    "ISscore": "52,4",
+    "ISrank": 273,
+    "Overall Score": 68
+  },
+  {
+    "Overall Rank": 65,
+    "Institution Name": "ECOLE POLYTECHNIQUE",
+    "Country": "France",
+    "ARscore": "46,8",
+    "ARrank": 163,
+    "ISscore": "95,8",
+    "ISrank": 75,
+    "Overall Score": "67,9"
+  },
+  {
+    "Overall Rank": 66,
+    "Institution Name": "UNIVERSITY OF WASHINGTON",
+    "Country": "United States",
+    "ARscore": 85,
+    "ARrank": 54,
+    "ISscore": "38,4",
+    "ISrank": 359,
+    "Overall Score": "67,8"
+  },
+  {
+    "Overall Rank": 67,
+    "Institution Name": "OSAKA UNIVERSITY",
+    "Country": "Japan",
+    "ARscore": "79,4",
+    "ARrank": 63,
+    "ISscore": "15,5",
+    "ISrank": 584,
+    "Overall Score": "67,7"
+  },
+  {
+    "Overall Rank": 68,
+    "Institution Name": "ZHEJIANG UNIVERSITY",
+    "Country": "China",
+    "ARscore": "65,6",
+    "ARrank": 95,
+    "ISscore": "45,1",
+    "ISrank": 313,
+    "Overall Score": "67,5"
+  },
+  {
+    "Overall Rank": 69,
+    "Institution Name": "GEORGIA INSTITUTE OF TECHNOLOGY (GEORGIA TECH)",
+    "Country": "United States",
+    "ARscore": "73,5",
+    "ARrank": 75,
+    "ISscore": "70,9",
+    "ISrank": 187,
+    "Overall Score": "67,4"
+  },
+  {
+    "Overall Rank": 70,
+    "Institution Name": "UNIVERSITY OF GLASGOW",
+    "Country": "United Kingdom",
+    "ARscore": "70,4",
+    "ARrank": 80,
+    "ISscore": "96,7",
+    "ISrank": 68,
+    "Overall Score": "67,4"
+  },
+  {
+    "Overall Rank": 71,
+    "Institution Name": "UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN",
+    "Country": "United States",
+    "ARscore": "89,1",
+    "ARrank": 42,
+    "ISscore": 70,
+    "ISrank": 191,
+    "Overall Score": 67
+  },
+  {
+    "Overall Rank": 72,
+    "Institution Name": "NATIONAL TAIWAN UNIVERSITY (NTU)",
+    "Country": "Taiwan",
+    "ARscore": "88,6",
+    "ARrank": 43,
+    "ISscore": "19,8",
+    "ISrank": 529,
+    "Overall Score": "66,3"
+  },
+  {
+    "Overall Rank": 73,
+    "Institution Name": "UNIVERSIDAD DE BUENOS AIRES",
+    "Country": "Argentina",
+    "ARscore": "86,1",
+    "ARrank": 53,
+    "ISscore": "68,5",
+    "ISrank": 199,
+    "Overall Score": "66,2"
+  },
+  {
+    "Overall Rank": 74,
+    "Institution Name": "DURHAM UNIVERSITY",
+    "Country": "United Kingdom",
+    "ARscore": "57,1",
+    "ARrank": 122,
+    "ISscore": "87,5",
+    "ISrank": 117,
+    "Overall Score": "65,7"
+  },
+  {
+    "Overall Rank": 75,
+    "Institution Name": "SORBONNE UNIVERSITY",
+    "Country": "France",
+    "ARscore": "88,4",
+    "ARrank": 45,
+    "ISscore": "54,6",
+    "ISrank": 264,
+    "Overall Score": "64,8"
+  },
+  {
+    "Overall Rank": 76,
+    "Institution Name": "THE UNIVERSITY OF SHEFFIELD",
+    "Country": "United Kingdom",
+    "ARscore": 61,
+    "ARrank": 109,
+    "ISscore": "94,2",
+    "ISrank": 85,
+    "Overall Score": "64,8"
+  },
+  {
+    "Overall Rank": 77,
+    "Institution Name": "TOHOKU UNIVERSITY",
+    "Country": "Japan",
+    "ARscore": "68,7",
+    "ARrank": 85,
+    "ISscore": "18,2",
+    "ISrank": 545,
+    "Overall Score": "64,3"
+  },
+  {
+    "Overall Rank": 78,
+    "Institution Name": "UNIVERSITY OF ZURICH",
+    "Country": "Switzerland",
+    "ARscore": "55,6",
+    "ARrank": 130,
+    "ISscore": "59,2",
+    "ISrank": 247,
+    "Overall Score": "63,6"
+  },
+  {
+    "Overall Rank": 79,
+    "Institution Name": "UNIVERSITY OF BIRMINGHAM",
+    "Country": "United Kingdom",
+    "ARscore": "63,6",
+    "ARrank": 100,
+    "ISscore": "88,2",
+    "ISrank": 113,
+    "Overall Score": "63,5"
+  },
+  {
+    "Overall Rank": 80,
+    "Institution Name": "UNIVERSITY OF COPENHAGEN",
+    "Country": "Denmark",
+    "ARscore": "67,2",
+    "ARrank": 87,
+    "ISscore": 28,
+    "ISrank": 447,
+    "Overall Score": "63,5"
+  },
+  {
+    "Overall Rank": 81,
+    "Institution Name": "KATHOLIEKE UNIVERSITEIT LEUVEN",
+    "Country": "Belgium",
+    "ARscore": "76,5",
+    "ARrank": 71,
+    "ISscore": "39,8",
+    "ISrank": 350,
+    "Overall Score": "63,4"
+  },
+  {
+    "Overall Rank": 82,
+    "Institution Name": "THE UNIVERSITY OF NOTTINGHAM",
+    "Country": "United Kingdom",
+    "ARscore": "61,3",
+    "ARrank": 108,
+    "ISscore": "83,8",
+    "ISrank": 131,
+    "Overall Score": "63,1"
+  },
+  {
+    "Overall Rank": 83,
+    "Institution Name": "POHANG UNIVERSITY OF SCIENCE AND TECHNOLOGY (POSTECH)",
+    "Country": "South Korea",
+    "ARscore": "38,7",
+    "ARrank": 199,
+    "ISscore": "5,4",
+    "ISrank": 601,
+    "Overall Score": 63
+  },
+  {
+    "Overall Rank": 84,
+    "Institution Name": "UNIVERSITY OF NORTH CAROLINA, CHAPEL HILL",
+    "Country": "United States",
+    "ARscore": "68,1",
+    "ARrank": 86,
+    "ISscore": "12,7",
+    "ISrank": 601,
+    "Overall Score": 63
+  },
+  {
+    "Overall Rank": 85,
+    "Institution Name": "THE UNIVERSITY OF AUCKLAND",
+    "Country": "New Zealand",
+    "ARscore": "82,7",
+    "ARrank": 60,
+    "ISscore": "91,3",
+    "ISrank": 95,
+    "Overall Score": "62,8"
+  },
+  {
+    "Overall Rank": 86,
+    "Institution Name": "KOREA UNIVERSITY",
+    "Country": "South Korea",
+    "ARscore": "66,7",
+    "ARrank": 91,
+    "ISscore": "44,2",
+    "ISrank": 321,
+    "Overall Score": "62,7"
+  },
+  {
+    "Overall Rank": 87,
+    "Institution Name": "RICE UNIVERSITY",
+    "Country": "United States",
+    "ARscore": "38,7",
+    "ARrank": 198,
+    "ISscore": "85,3",
+    "ISrank": 124,
+    "Overall Score": "62,6"
+  },
+  {
+    "Overall Rank": 88,
+    "Institution Name": "UNIVERSITI MALAYA (UM)",
+    "Country": "Malaysia",
+    "ARscore": "63,9",
+    "ARrank": 99,
+    "ISscore": "61,2",
+    "ISrank": 237,
+    "Overall Score": "62,6"
+  },
+  {
+    "Overall Rank": 89,
+    "Institution Name": "OHIO STATE UNIVERSITY",
+    "Country": "United States",
+    "ARscore": "64,8",
+    "ARrank": 97,
+    "ISscore": "41,2",
+    "ISrank": 339,
+    "Overall Score": "62,4"
+  },
+  {
+    "Overall Rank": 90,
+    "Institution Name": "LOMONOSOV MOSCOW STATE UNIVERSITY",
+    "Country": "Russia",
+    "ARscore": "71,3",
+    "ARrank": 79,
+    "ISscore": "73,1",
+    "ISrank": 173,
+    "Overall Score": "62,3"
+  },
+  {
+    "Overall Rank": 91,
+    "Institution Name": "THE UNIVERSITY OF WESTERN AUSTRALIA (UWA)",
+    "Country": "Australia",
+    "ARscore": 60,
+    "ARrank": 112,
+    "ISscore": "94,7",
+    "ISrank": 81,
+    "Overall Score": "62,2"
+  },
+  {
+    "Overall Rank": 92,
+    "Institution Name": "LUND UNIVERSITY",
+    "Country": "Sweden",
+    "ARscore": "67,2",
+    "ARrank": 88,
+    "ISscore": "71,8",
+    "ISrank": 181,
+    "Overall Score": "62,1"
+  },
+  {
+    "Overall Rank": 93,
+    "Institution Name": "BOSTON UNIVERSITY",
+    "Country": "United States",
+    "ARscore": "62,4",
+    "ARrank": 105,
+    "ISscore": 87,
+    "ISrank": 119,
+    "Overall Score": 62
+  },
+  {
+    "Overall Rank": 94,
+    "Institution Name": "UNIVERSITY OF LEEDS",
+    "Country": "United Kingdom",
+    "ARscore": "67,1",
+    "ARrank": 89,
+    "ISscore": "81,6",
+    "ISrank": 141,
+    "Overall Score": 62
+  },
+  {
+    "Overall Rank": 95,
+    "Institution Name": "PENNSYLVANIA STATE UNIVERSITY",
+    "Country": "United States",
+    "ARscore": "77,7",
+    "ARrank": 70,
+    "ISscore": "40,3",
+    "ISrank": 344,
+    "Overall Score": "61,9"
+  },
+  {
+    "Overall Rank": 96,
+    "Institution Name": "UNIVERSITY OF SOUTHAMPTON",
+    "Country": "United Kingdom",
+    "ARscore": "53,1",
+    "ARrank": 136,
+    "ISscore": "89,4",
+    "ISrank": 108,
+    "Overall Score": "61,6"
+  },
+  {
+    "Overall Rank": 97,
+    "Institution Name": "UNIVERSITY OF ST ANDREWS",
+    "Country": "United Kingdom",
+    "ARscore": "43,2",
+    "ARrank": 181,
+    "ISscore": "99,9",
+    "ISrank": 25,
+    "Overall Score": "61,4"
+  },
+  {
+    "Overall Rank": 98,
+    "Institution Name": "UNIVERSITY OF SCIENCE AND TECHNOLOGY OF CHINA",
+    "Country": "China",
+    "ARscore": "53,7",
+    "ARrank": 135,
+    "ISscore": "5,9",
+    "ISrank": 601,
+    "Overall Score": "60,8"
+  },
+  {
+    "Overall Rank": 99,
+    "Institution Name": "EINDHOVEN UNIVERSITY OF TECHNOLOGY",
+    "Country": "Netherlands",
+    "ARscore": "29,7",
+    "ARrank": 275,
+    "ISscore": "47,5",
+    "ISrank": 302,
+    "Overall Score": "59,8"
+  },
+  {
+    "Overall Rank": 100,
+    "Institution Name": "PURDUE UNIVERSITY",
+    "Country": "United States",
+    "ARscore": "65,7",
+    "ARrank": 92,
+    "ISscore": "69,2",
+    "ISrank": 195,
+    "Overall Score": "59,5"
+  },
+  {
+    "Overall Rank": 101,
+    "Institution Name": "SUNGKYUNKWAN UNIVERSITY",
+    "Country": "South Korea",
+    "ARscore": 55,
+    "ARrank": 132,
+    "ISscore": 34,
+    "ISrank": 396,
+    "Overall Score": "59,5"
+  },
+  {
+    "Overall Rank": 102,
+    "Institution Name": "UNIVERSITY OF CALIFORNIA, DAVIS (UCD)",
+    "Country": "United States",
+    "ARscore": "71,4",
+    "ARrank": 78,
+    "ISscore": "49,5",
+    "ISrank": 292,
+    "Overall Score": "59,5"
+  },
+  {
+    "Overall Rank": 103,
+    "Institution Name": "WASHINGTON UNIVERSITY IN ST. LOUIS",
+    "Country": "United States",
+    "ARscore": "43,4",
+    "ARrank": 179,
+    "ISscore": "60,1",
+    "ISrank": 242,
+    "Overall Score": "59,5"
+  },
+  {
+    "Overall Rank": 104,
+    "Institution Name": "KTH, ROYAL INSTITUTE OF TECHNOLOGY",
+    "Country": "Sweden",
+    "ARscore": "45,5",
+    "ARrank": 170,
+    "ISscore": "42,6",
+    "ISrank": 331,
+    "Overall Score": "59,3"
+  },
+  {
+    "Overall Rank": 105,
+    "Institution Name": "TRINITY COLLEGE DUBLIN (TCD)",
+    "Country": "Ireland",
+    "ARscore": "58,8",
+    "ARrank": 117,
+    "ISscore": "91,2",
+    "ISrank": 96,
+    "Overall Score": "59,3"
+  },
+  {
+    "Overall Rank": 106,
+    "Institution Name": "THE HONG KONG POLYTECHNIC UNIVERSITY",
+    "Country": "Hong Kong",
+    "ARscore": 58,
+    "ARrank": 120,
+    "ISscore": "78,6",
+    "ISrank": 155,
+    "Overall Score": "59,1"
+  },
+  {
+    "Overall Rank": 107,
+    "Institution Name": "YONSEI UNIVERSITY",
+    "Country": "South Korea",
+    "ARscore": "59,8",
+    "ARrank": 114,
+    "ISscore": 38,
+    "ISrank": 363,
+    "Overall Score": "58,9"
+  },
+  {
+    "Overall Rank": 108,
+    "Institution Name": "UNIVERSITY OF GENEVA",
+    "Country": "Switzerland",
+    "ARscore": 48,
+    "ARrank": 157,
+    "ISscore": "98,6",
+    "ISrank": 47,
+    "Overall Score": "58,4"
+  },
+  {
+    "Overall Rank": 109,
+    "Institution Name": "UNIVERSITY OF ALBERTA",
+    "Country": "Canada",
+    "ARscore": "56,9",
+    "ARrank": 124,
+    "ISscore": "81,3",
+    "ISrank": 142,
+    "Overall Score": "58,1"
+  },
+  {
+    "Overall Rank": 110,
+    "Institution Name": "UNIVERSITY OF HELSINKI",
+    "Country": "Finland",
+    "ARscore": "61,7",
+    "ARrank": 106,
+    "ISscore": "8,2",
+    "ISrank": 601,
+    "Overall Score": "57,9"
+  },
+  {
+    "Overall Rank": 111,
+    "Institution Name": "NAGOYA UNIVERSITY",
+    "Country": "Japan",
+    "ARscore": "60,9",
+    "ARrank": 110,
+    "ISscore": 21,
+    "ISrank": 507,
+    "Overall Score": "57,3"
+  },
+  {
+    "Overall Rank": 112,
+    "Institution Name": "TECHNICAL UNIVERSITY OF DENMARK",
+    "Country": "Denmark",
+    "ARscore": "27,8",
+    "ARrank": 303,
+    "ISscore": "79,4",
+    "ISrank": 150,
+    "Overall Score": "57,1"
+  },
+  {
+    "Overall Rank": 113,
+    "Institution Name": "UNIVERSIDAD NACIONAL AUT�NOMA DE M�XICO (UNAM)",
+    "Country": "Mexico",
+    "ARscore": "89,3",
+    "ARrank": 41,
+    "ISscore": "3,9",
+    "ISrank": 601,
+    "Overall Score": "56,8"
+  },
+  {
+    "Overall Rank": 114,
+    "Institution Name": "THE UNIVERSITY OF ADELAIDE",
+    "Country": "Australia",
+    "ARscore": "56,8",
+    "ARrank": 125,
+    "ISscore": 99,
+    "ISrank": 40,
+    "Overall Score": "56,6"
+  },
+  {
+    "Overall Rank": 115,
+    "Institution Name": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+    "Country": "United States",
+    "ARscore": 57,
+    "ARrank": 123,
+    "ISscore": "87,1",
+    "ISrank": 118,
+    "Overall Score": "56,2"
+  },
+  {
+    "Overall Rank": 116,
+    "Institution Name": "KIT, KARLSRUHER INSTITUT F�R TECHNOLOGIE",
+    "Country": "Germany",
+    "ARscore": 46,
+    "ARrank": 167,
+    "ISscore": "63,3",
+    "ISrank": 227,
+    "Overall Score": "55,9"
+  },
+  {
+    "Overall Rank": 117,
+    "Institution Name": "UPPSALA UNIVERSITY",
+    "Country": "Sweden",
+    "ARscore": "63,3",
+    "ARrank": 101,
+    "ISscore": "45,3",
+    "ISrank": 311,
+    "Overall Score": "55,8"
+  },
+  {
+    "Overall Rank": 118,
+    "Institution Name": "UNIVERSIDADE DE S�O PAULO (USP)",
+    "Country": "Brazil",
+    "ARscore": "87,2",
+    "ARrank": 49,
+    "ISscore": "4,3",
+    "ISrank": 601,
+    "Overall Score": "55,5"
+  },
+  {
+    "Overall Rank": 119,
+    "Institution Name": "QUEEN MARY UNIVERSITY OF LONDON (QMUL)",
+    "Country": "United Kingdom",
+    "ARscore": 50,
+    "ARrank": 149,
+    "ISscore": "99,5",
+    "ISrank": 32,
+    "Overall Score": "55,4"
+  },
+  {
+    "Overall Rank": 120,
+    "Institution Name": "UNIVERSITY OF GRONINGEN",
+    "Country": "Netherlands",
+    "ARscore": "47,7",
+    "ARrank": 158,
+    "ISscore": "99,4",
+    "ISrank": 35,
+    "Overall Score": "55,2"
+  },
+  {
+    "Overall Rank": 121,
+    "Institution Name": "HUMBOLDT-UNIVERSIT�T ZU BERLIN",
+    "Country": "Germany",
+    "ARscore": "86,9",
+    "ARrank": 50,
+    "ISscore": "36,9",
+    "ISrank": 372,
+    "Overall Score": "55,1"
+  },
+  {
+    "Overall Rank": 122,
+    "Institution Name": "LEIDEN UNIVERSITY",
+    "Country": "Netherlands",
+    "ARscore": "65,1",
+    "ARrank": 96,
+    "ISscore": "43,3",
+    "ISrank": 325,
+    "Overall Score": 55
+  },
+  {
+    "Overall Rank": 123,
+    "Institution Name": "NANJING UNIVERSITY",
+    "Country": "China",
+    "ARscore": "58,5",
+    "ARrank": 119,
+    "ISscore": "16,3",
+    "ISrank": 572,
+    "Overall Score": 55
+  },
+  {
+    "Overall Rank": 124,
+    "Institution Name": "UTRECHT UNIVERSITY",
+    "Country": "Netherlands",
+    "ARscore": "59,8",
+    "ARrank": 113,
+    "ISscore": "25,1",
+    "ISrank": 468,
+    "Overall Score": "54,5"
+  },
+  {
+    "Overall Rank": 125,
+    "Institution Name": "WAGENINGEN UNIVERSITY",
+    "Country": "Netherlands",
+    "ARscore": "37,3",
+    "ARrank": 211,
+    "ISscore": "86,6",
+    "ISrank": 122,
+    "Overall Score": "54,4"
+  },
+  {
+    "Overall Rank": 126,
+    "Institution Name": "KYUSHU UNIVERSITY",
+    "Country": "Japan",
+    "ARscore": "54,8",
+    "ARrank": 133,
+    "ISscore": "21,5",
+    "ISrank": 504,
+    "Overall Score": "54,1"
+  },
+  {
+    "Overall Rank": 127,
+    "Institution Name": "UNIVERSITY OF MARYLAND, COLLEGE PARK",
+    "Country": "United States",
+    "ARscore": "54,8",
+    "ARrank": 134,
+    "ISscore": 29,
+    "ISrank": 441,
+    "Overall Score": "54,1"
+  },
+  {
+    "Overall Rank": 128,
+    "Institution Name": "CHALMERS UNIVERSITY OF TECHNOLOGY",
+    "Country": "Sweden",
+    "ARscore": "28,8",
+    "ARrank": 290,
+    "ISscore": "56,1",
+    "ISrank": 257,
+    "Overall Score": "53,6"
+  },
+  {
+    "Overall Rank": 129,
+    "Institution Name": "HOKKAIDO UNIVERSITY",
+    "Country": "Japan",
+    "ARscore": "55,5",
+    "ARrank": 131,
+    "ISscore": "14,6",
+    "ISrank": 601,
+    "Overall Score": "53,6"
+  },
+  {
+    "Overall Rank": 130,
+    "Institution Name": "FREIE UNIVERSIT�T BERLIN",
+    "Country": "Germany",
+    "ARscore": "78,4",
+    "ARrank": 66,
+    "ISscore": "50,5",
+    "ISrank": 289,
+    "Overall Score": "53,4"
+  },
+  {
+    "Overall Rank": 131,
+    "Institution Name": "LANCASTER UNIVERSITY",
+    "Country": "United Kingdom",
+    "ARscore": "38,8",
+    "ARrank": 197,
+    "ISscore": "98,1",
+    "ISrank": 51,
+    "Overall Score": 53
+  },
+  {
+    "Overall Rank": 132,
+    "Institution Name": "PONTIFICIA UNIVERSIDAD CAT�LICA DE CHILE",
+    "Country": "Chile",
+    "ARscore": 83,
+    "ARrank": 59,
+    "ISscore": "5,1",
+    "ISrank": 601,
+    "Overall Score": "52,9"
+  },
+  {
+    "Overall Rank": 133,
+    "Institution Name": "UNIVERSITY OF CALIFORNIA, SANTA BARBARA (UCSB)",
+    "Country": "United States",
+    "ARscore": "64,6",
+    "ARrank": 98,
+    "ISscore": "20,8",
+    "ISrank": 508,
+    "Overall Score": "52,9"
+  },
+  {
+    "Overall Rank": 134,
+    "Institution Name": "UNIVERSITY OF YORK",
+    "Country": "United Kingdom",
+    "ARscore": "42,9",
+    "ARrank": 182,
+    "ISscore": "68,2",
+    "ISrank": 200,
+    "Overall Score": "52,4"
+  },
+  {
+    "Overall Rank": 135,
+    "Institution Name": "UNIVERSITY OF OSLO",
+    "Country": "Norway",
+    "ARscore": "49,2",
+    "ARrank": 151,
+    "ISscore": "36,5",
+    "ISrank": 375,
+    "Overall Score": "51,9"
+  },
+  {
+    "Overall Rank": 136,
+    "Institution Name": "UNIVERSITY OF PITTSBURGH",
+    "Country": "United States",
+    "ARscore": "44,5",
+    "ARrank": 176,
+    "ISscore": "22,6",
+    "ISrank": 490,
+    "Overall Score": "51,8"
+  },
+  {
+    "Overall Rank": 137,
+    "Institution Name": "CENTRALESUP�LEC",
+    "Country": "France",
+    "ARscore": "17,4",
+    "ARrank": 473,
+    "ISscore": "90,6",
+    "ISrank": 102,
+    "Overall Score": "51,5"
+  },
+  {
+    "Overall Rank": 138,
+    "Institution Name": "UNIVERSITY OF GHENT",
+    "Country": "Belgium",
+    "ARscore": "48,9",
+    "ARrank": 152,
+    "ISscore": "20,3",
+    "ISrank": 521,
+    "Overall Score": "51,3"
+  },
+  {
+    "Overall Rank": 139,
+    "Institution Name": "UNIVERSITY OF BERN",
+    "Country": "Switzerland",
+    "ARscore": "28,8",
+    "ARrank": 288,
+    "ISscore": "48,3",
+    "ISrank": 298,
+    "Overall Score": "51,1"
+  },
+  {
+    "Overall Rank": 140,
+    "Institution Name": "AALTO UNIVERSITY",
+    "Country": "Finland",
+    "ARscore": "36,4",
+    "ARrank": 216,
+    "ISscore": "39,4",
+    "ISrank": 352,
+    "Overall Score": "50,8"
+  },
+  {
+    "Overall Rank": 141,
+    "Institution Name": "AARHUS UNIVERSITY",
+    "Country": "Denmark",
+    "ARscore": "49,6",
+    "ARrank": 150,
+    "ISscore": "23,7",
+    "ISrank": 478,
+    "Overall Score": "50,7"
+  },
+  {
+    "Overall Rank": 142,
+    "Institution Name": "MICHIGAN STATE UNIVERSITY",
+    "Country": "United States",
+    "ARscore": "61,4",
+    "ARrank": 107,
+    "ISscore": "42,7",
+    "ISrank": 329,
+    "Overall Score": "50,7"
+  },
+  {
+    "Overall Rank": 143,
+    "Institution Name": "NEWCASTLE UNIVERSITY",
+    "Country": "United Kingdom",
+    "ARscore": "38,8",
+    "ARrank": 196,
+    "ISscore": "79,1",
+    "ISrank": 153,
+    "Overall Score": "50,7"
+  },
+  {
+    "Overall Rank": 144,
+    "Institution Name": "RHEINISCH-WESTF�LISCHE TECHNISCHE HOCHSCHULE AACHEN",
+    "Country": "Germany",
+    "ARscore": "56,4",
+    "ARrank": 126,
+    "ISscore": "64,9",
+    "ISrank": 221,
+    "Overall Score": "50,4"
+  },
+  {
+    "Overall Rank": 145,
+    "Institution Name": "CARDIFF UNIVERSITY",
+    "Country": "United Kingdom",
+    "ARscore": "47,5",
+    "ARrank": 159,
+    "ISscore": "79,8",
+    "ISrank": 147,
+    "Overall Score": "50,3"
+  },
+  {
+    "Overall Rank": 146,
+    "Institution Name": "MCMASTER UNIVERSITY",
+    "Country": "Canada",
+    "ARscore": "39,5",
+    "ARrank": 193,
+    "ISscore": 42,
+    "ISrank": 335,
+    "Overall Score": "50,1"
+  },
+  {
+    "Overall Rank": 147,
+    "Institution Name": "TECHNISCHE UNIVERSIT�T BERLIN",
+    "Country": "Germany",
+    "ARscore": "52,3",
+    "ARrank": 140,
+    "ISscore": "60,3",
+    "ISrank": 240,
+    "Overall Score": "49,9"
+  },
+  {
+    "Overall Rank": 148,
+    "Institution Name": "EMORY UNIVERSITY",
+    "Country": "United States",
+    "ARscore": "27,2",
+    "ARrank": 310,
+    "ISscore": "47,4",
+    "ISrank": 303,
+    "Overall Score": "49,6"
+  },
+  {
+    "Overall Rank": 149,
+    "Institution Name": "UNIVERSIT� DE MONTR�AL",
+    "Country": "Canada",
+    "ARscore": "52,9",
+    "ARrank": 138,
+    "ISscore": 68,
+    "ISrank": 201,
+    "Overall Score": "49,5"
+  },
+  {
+    "Overall Rank": 150,
+    "Institution Name": "UNIVERSITY OF LAUSANNE",
+    "Country": "Switzerland",
+    "ARscore": "33,4",
+    "ARrank": 244,
+    "ISscore": "72,7",
+    "ISrank": 175,
+    "Overall Score": "49,5"
+  },
+  {
+    "Overall Rank": 151,
+    "Institution Name": "HANYANG UNIVERSITY",
+    "Country": "South Korea",
+    "ARscore": "43,5",
+    "ARrank": 178,
+    "ISscore": "37,3",
+    "ISrank": 370,
+    "Overall Score": "49,4"
+  },
+  {
+    "Overall Rank": 152,
+    "Institution Name": "UNIVERSITY OF LIVERPOOL",
+    "Country": "United Kingdom",
+    "ARscore": 40,
+    "ARrank": 191,
+    "ISscore": "94,6",
+    "ISrank": 83,
+    "Overall Score": "49,4"
+  },
+  {
+    "Overall Rank": 153,
+    "Institution Name": "�COLE NORMALE SUP�RIEURE DE LYON",
+    "Country": "France",
+    "ARscore": "37,5",
+    "ARrank": 208,
+    "ISscore": "26,3",
+    "ISrank": 459,
+    "Overall Score": "49,2"
+  },
+  {
+    "Overall Rank": 154,
+    "Institution Name": "HEBREW UNIVERSITY OF JERUSALEM",
+    "Country": "Israel",
+    "ARscore": "40,1",
+    "ARrank": 189,
+    "ISscore": "13,8",
+    "ISrank": 601,
+    "Overall Score": "49,1"
+  },
+  {
+    "Overall Rank": 155,
+    "Institution Name": "UNIVERSITY OF EXETER",
+    "Country": "United Kingdom",
+    "ARscore": "36,5",
+    "ARrank": 215,
+    "ISscore": "83,3",
+    "ISrank": 133,
+    "Overall Score": "49,1"
+  },
+  {
+    "Overall Rank": 156,
+    "Institution Name": "POLITECNICO DI MILANO",
+    "Country": "Italy",
+    "ARscore": "57,1",
+    "ARrank": 121,
+    "ISscore": "44,3",
+    "ISrank": 320,
+    "Overall Score": "48,7"
+  },
+  {
+    "Overall Rank": 157,
+    "Institution Name": "UNIVERSITY OF MINNESOTA",
+    "Country": "United States",
+    "ARscore": "66,9",
+    "ARrank": 90,
+    "ISscore": "21,5",
+    "ISrank": 505,
+    "Overall Score": "48,7"
+  },
+  {
+    "Overall Rank": 158,
+    "Institution Name": "UNIVERSITY OF BATH",
+    "Country": "United Kingdom",
+    "ARscore": "35,5",
+    "ARrank": 221,
+    "ISscore": "91,2",
+    "ISrank": 98,
+    "Overall Score": "48,6"
+  },
+  {
+    "Overall Rank": 159,
+    "Institution Name": "UNIVERSIDAD AUT�NOMA DE MADRID",
+    "Country": "Spain",
+    "ARscore": "63,2",
+    "ARrank": 102,
+    "ISscore": "25,7",
+    "ISrank": 462,
+    "Overall Score": "48,5"
+  },
+  {
+    "Overall Rank": 160,
+    "Institution Name": "UNIVERSITY OF BASEL",
+    "Country": "Switzerland",
+    "ARscore": "29,9",
+    "ARrank": 273,
+    "ISscore": "84,7",
+    "ISrank": 125,
+    "Overall Score": "48,4"
+  },
+  {
+    "Overall Rank": 161,
+    "Institution Name": "UNIVERSITY OF TECHNOLOGY SYDNEY (UTS)",
+    "Country": "Australia",
+    "ARscore": "41,3",
+    "ARrank": 187,
+    "ISscore": "94,4",
+    "ISrank": 84,
+    "Overall Score": "48,4"
+  },
+  {
+    "Overall Rank": 162,
+    "Institution Name": "INDIAN INSTITUTE OF TECHNOLOGY BOMBAY (IITB)",
+    "Country": "India",
+    "ARscore": "52,5",
+    "ARrank": 139,
+    "ISscore": "1,8",
+    "ISrank": 601,
+    "Overall Score": "48,2"
+  },
+  {
+    "Overall Rank": 163,
+    "Institution Name": "NATIONAL TSING HUA UNIVERSITY",
+    "Country": "Taiwan",
+    "ARscore": "44,5",
+    "ARrank": 175,
+    "ISscore": "17,9",
+    "ISrank": 549,
+    "Overall Score": 48
+  },
+  {
+    "Overall Rank": 164,
+    "Institution Name": "UNIVERSITY OF WATERLOO",
+    "Country": "Canada",
+    "ARscore": 38,
+    "ARrank": 203,
+    "ISscore": "83,9",
+    "ISrank": 130,
+    "Overall Score": 48
+  },
+  {
+    "Overall Rank": 165,
+    "Institution Name": "UNIVERSIT� CATHOLIQUE DE LOUVAIN (UCL)",
+    "Country": "Belgium",
+    "ARscore": "48,6",
+    "ARrank": 154,
+    "ISscore": "52,3",
+    "ISrank": 274,
+    "Overall Score": "47,9"
+  },
+  {
+    "Overall Rank": 166,
+    "Institution Name": "UNIVERSITAT DE BARCELONA (UB)",
+    "Country": "Spain",
+    "ARscore": "69,9",
+    "ARrank": 81,
+    "ISscore": "32,7",
+    "ISrank": 406,
+    "Overall Score": "47,8"
+  },
+  {
+    "Overall Rank": 167,
+    "Institution Name": "SCUOLA SUPERIORE SANT'ANNA PISA",
+    "Country": "Italy",
+    "ARscore": "14,9",
+    "ARrank": 501,
+    "ISscore": "46,1",
+    "ISrank": 309,
+    "Overall Score": "47,7"
+  },
+  {
+    "Overall Rank": 168,
+    "Institution Name": "EBERHARD KARLS UNIVERSIT�T T�BINGEN",
+    "Country": "Germany",
+    "ARscore": "45,1",
+    "ARrank": 172,
+    "ISscore": "35,9",
+    "ISrank": 381,
+    "Overall Score": "47,6"
+  },
+  {
+    "Overall Rank": 169,
+    "Institution Name": "UNIVERSITY OF CALIFORNIA, IRVINE (UCI)",
+    "Country": "United States",
+    "ARscore": "46,1",
+    "ARrank": 166,
+    "ISscore": "84,6",
+    "ISrank": 126,
+    "Overall Score": "47,5"
+  },
+  {
+    "Overall Rank": 170,
+    "Institution Name": "INDIAN INSTITUTE OF SCIENCE (IISC) BANGALORE",
+    "Country": "India",
+    "ARscore": 35,
+    "ARrank": 227,
+    "ISscore": 2,
+    "ISrank": 601,
+    "Overall Score": "47,1"
+  },
+  {
+    "Overall Rank": 171,
+    "Institution Name": "UNIVERSITY OF BERGEN",
+    "Country": "Norway",
+    "ARscore": "30,8",
+    "ARrank": 261,
+    "ISscore": "14,5",
+    "ISrank": 601,
+    "Overall Score": "46,8"
+  },
+  {
+    "Overall Rank": 172,
+    "Institution Name": "INDIAN INSTITUTE OF TECHNOLOGY DELHI (IITD)",
+    "Country": "India",
+    "ARscore": "46,8",
+    "ARrank": 162,
+    "ISscore": "1,6",
+    "ISrank": 601,
+    "Overall Score": "46,6"
+  },
+  {
+    "Overall Rank": 173,
+    "Institution Name": "UNIVERSITY OF ABERDEEN",
+    "Country": "United Kingdom",
+    "ARscore": "28,6",
+    "ARrank": 293,
+    "ISscore": "96,5",
+    "ISrank": 69,
+    "Overall Score": "46,6"
+  },
+  {
+    "Overall Rank": 174,
+    "Institution Name": "UNIVERSITY OF TWENTE",
+    "Country": "Netherlands",
+    "ARscore": "21,5",
+    "ARrank": 381,
+    "ISscore": "77,1",
+    "ISrank": 159,
+    "Overall Score": "46,6"
+  },
+  {
+    "Overall Rank": 175,
+    "Institution Name": "SCUOLA NORMALE SUPERIORE DI PISA",
+    "Country": "Italy",
+    "ARscore": 19,
+    "ARrank": 428,
+    "ISscore": "23,3",
+    "ISrank": 482,
+    "Overall Score": "46,4"
+  },
+  {
+    "Overall Rank": 176,
+    "Institution Name": "UNIVERSIT�T WIEN",
+    "Country": "Austria",
+    "ARscore": "60,8",
+    "ARrank": 111,
+    "ISscore": "93,4",
+    "ISrank": 87,
+    "Overall Score": "46,4"
+  },
+  {
+    "Overall Rank": 177,
+    "Institution Name": "UNIVERSITY OF OTAGO",
+    "Country": "New Zealand",
+    "ARscore": "48,6",
+    "ARrank": 155,
+    "ISscore": "65,6",
+    "ISrank": 215,
+    "Overall Score": "46,4"
+  },
+  {
+    "Overall Rank": 178,
+    "Institution Name": "TECNOL�GICO DE MONTERREY (ITESM)",
+    "Country": "Mexico",
+    "ARscore": "33,2",
+    "ARrank": 246,
+    "ISscore": "22,2",
+    "ISrank": 494,
+    "Overall Score": "46,2"
+  },
+  {
+    "Overall Rank": 179,
+    "Institution Name": "ERASMUS UNIVERSITY ROTTERDAM",
+    "Country": "Netherlands",
+    "ARscore": "34,1",
+    "ARrank": 234,
+    "ISscore": "71,6",
+    "ISrank": 182,
+    "Overall Score": "46,1"
+  },
+  {
+    "Overall Rank": 180,
+    "Institution Name": "QUEEN'S UNIVERSITY OF BELFAST",
+    "Country": "United Kingdom",
+    "ARscore": "27,3",
+    "ARrank": 308,
+    "ISscore": "96,9",
+    "ISrank": 65,
+    "Overall Score": "45,9"
+  },
+  {
+    "Overall Rank": 181,
+    "Institution Name": "UNIVERSIT� DI BOLOGNA (UNIBO)",
+    "Country": "Italy",
+    "ARscore": "72,1",
+    "ARrank": 77,
+    "ISscore": "14,6",
+    "ISrank": 601,
+    "Overall Score": "45,9"
+  },
+  {
+    "Overall Rank": 182,
+    "Institution Name": "UNIVERSITY OF FLORIDA",
+    "Country": "United States",
+    "ARscore": "48,2",
+    "ARrank": 156,
+    "ISscore": "17,8",
+    "ISrank": 550,
+    "Overall Score": "45,9"
+  },
+  {
+    "Overall Rank": 183,
+    "Institution Name": "DARTMOUTH COLLEGE",
+    "Country": "United States",
+    "ARscore": "21,9",
+    "ARrank": 376,
+    "ISscore": "37,4",
+    "ISrank": 368,
+    "Overall Score": "45,8"
+  },
+  {
+    "Overall Rank": 184,
+    "Institution Name": "UNIVERSITI KEBANGSAAN MALAYSIA (UKM)",
+    "Country": "Malaysia",
+    "ARscore": "47,4",
+    "ARrank": 160,
+    "ISscore": "38,4",
+    "ISrank": 358,
+    "Overall Score": "45,5"
+  },
+  {
+    "Overall Rank": 185,
+    "Institution Name": "UNIVERSITY OF ROCHESTER",
+    "Country": "United States",
+    "ARscore": "24,4",
+    "ARrank": 336,
+    "ISscore": "89,3",
+    "ISrank": 109,
+    "Overall Score": "45,5"
+  },
+  {
+    "Overall Rank": 186,
+    "Institution Name": "CASE WESTERN RESERVE UNIVERSITY",
+    "Country": "United States",
+    "ARscore": "20,6",
+    "ARrank": 394,
+    "ISscore": "72,2",
+    "ISrank": 180,
+    "Overall Score": "45,4"
+  },
+  {
+    "Overall Rank": 187,
+    "Institution Name": "UNIVERSIT�T FREIBURG",
+    "Country": "Germany",
+    "ARscore": "50,1",
+    "ARrank": 148,
+    "ISscore": "45,9",
+    "ISrank": 310,
+    "Overall Score": "45,4"
+  },
+  {
+    "Overall Rank": 188,
+    "Institution Name": "VRIJE UNIVERSITEIT BRUSSEL (VUB)",
+    "Country": "Belgium",
+    "ARscore": "24,2",
+    "ARrank": 338,
+    "ISscore": "65,4",
+    "ISrank": 217,
+    "Overall Score": "45,2"
+  },
+  {
+    "Overall Rank": 189,
+    "Institution Name": "KING FAHD UNIVERSITY OF PETROLEUM & MINERALS (KFUPM)",
+    "Country": "Saudi Arabia",
+    "ARscore": "24,4",
+    "ARrank": 335,
+    "ISscore": "35,9",
+    "ISrank": 382,
+    "Overall Score": "45,1"
+  },
+  {
+    "Overall Rank": 190,
+    "Institution Name": "UNIVERSITY OF COLORADO AT BOULDER",
+    "Country": "United States",
+    "ARscore": "37,5",
+    "ARrank": 207,
+    "ISscore": "15,7",
+    "ISrank": 578,
+    "Overall Score": 45
+  },
+  {
+    "Overall Rank": 191,
+    "Institution Name": "TECHNISCHE UNIVERSIT�T DRESDEN",
+    "Country": "Germany",
+    "ARscore": "33,4",
+    "ARrank": 243,
+    "ISscore": "36,4",
+    "ISrank": 376,
+    "Overall Score": "44,9"
+  },
+  {
+    "Overall Rank": 192,
+    "Institution Name": "UNIVERSITY OF VIRGINIA",
+    "Country": "United States",
+    "ARscore": "38,6",
+    "ARrank": 201,
+    "ISscore": 17,
+    "ISrank": 559,
+    "Overall Score": "44,8"
+  },
+  {
+    "Overall Rank": 193,
+    "Institution Name": "UNIVERSITAT AUT�NOMA DE BARCELONA",
+    "Country": "Spain",
+    "ARscore": 63,
+    "ARrank": 103,
+    "ISscore": "28,3",
+    "ISrank": 445,
+    "Overall Score": "44,7"
+  },
+  {
+    "Overall Rank": 194,
+    "Institution Name": "UNIVERSITY COLLEGE DUBLIN (UCD)",
+    "Country": "Ireland",
+    "ARscore": "42,4",
+    "ARrank": 184,
+    "ISscore": "65,1",
+    "ISrank": 220,
+    "Overall Score": "44,7"
+  },
+  {
+    "Overall Rank": 195,
+    "Institution Name": "UNIVERSITY OF READING",
+    "Country": "United Kingdom",
+    "ARscore": "33,6",
+    "ARrank": 240,
+    "ISscore": "91,2",
+    "ISrank": 97,
+    "Overall Score": "44,4"
+  },
+  {
+    "Overall Rank": 196,
+    "Institution Name": "VANDERBILT UNIVERSITY",
+    "Country": "United States",
+    "ARscore": "29,1",
+    "ARrank": 281,
+    "ISscore": 36,
+    "ISrank": 380,
+    "Overall Score": "44,4"
+  },
+  {
+    "Overall Rank": 197,
+    "Institution Name": "GEORG-AUGUST-UNIVERSIT�T G�TTINGEN",
+    "Country": "Germany",
+    "ARscore": "50,1",
+    "ARrank": 147,
+    "ISscore": "27,5",
+    "ISrank": 449,
+    "Overall Score": "44,3"
+  },
+  {
+    "Overall Rank": 198,
+    "Institution Name": "KEIO UNIVERSITY",
+    "Country": "Japan",
+    "ARscore": "51,1",
+    "ARrank": 146,
+    "ISscore": "11,1",
+    "ISrank": 601,
+    "Overall Score": "44,1"
+  },
+  {
+    "Overall Rank": 199,
+    "Institution Name": "TECHNISCHE UNIVERSIT�T WIEN",
+    "Country": "Austria",
+    "ARscore": "30,3",
+    "ARrank": 267,
+    "ISscore": "91,4",
+    "ISrank": 94,
+    "Overall Score": 44
+  },
+  {
+    "Overall Rank": 200,
+    "Institution Name": "STOCKHOLM UNIVERSITY",
+    "Country": "Sweden",
+    "ARscore": "51,8",
+    "ARrank": 143,
+    "ISscore": "17,5",
+    "ISrank": 554,
+    "Overall Score": "43,9"
+  },
+  {
+    "Overall Rank": 201,
+    "Institution Name": "UNIVERSITY OF CAPE TOWN",
+    "Country": "South Africa",
+    "ARscore": "45,6",
+    "ARrank": 169,
+    "ISscore": "44,8",
+    "ISrank": 314,
+    "Overall Score": "43,9"
+  },
+  {
+    "Overall Rank": 202,
+    "Institution Name": "UNIVERSITI PUTRA MALAYSIA (UPM)",
+    "Country": "Malaysia",
+    "ARscore": 41,
+    "ARrank": 188,
+    "ISscore": "74,4",
+    "ISrank": 170,
+    "Overall Score": "43,8"
+  },
+  {
+    "Overall Rank": 203,
+    "Institution Name": "TEXAS A&M UNIVERSITY",
+    "Country": "United States",
+    "ARscore": "59,1",
+    "ARrank": 115,
+    "ISscore": "14,5",
+    "ISrank": 601,
+    "Overall Score": "43,5"
+  },
+  {
+    "Overall Rank": 204,
+    "Institution Name": "RADBOUD UNIVERSITY NIJMEGEN",
+    "Country": "Netherlands",
+    "ARscore": "29,4",
+    "ARrank": 279,
+    "ISscore": "28,4",
+    "ISrank": 444,
+    "Overall Score": "43,3"
+  },
+  {
+    "Overall Rank": 205,
+    "Institution Name": "UNIVERSIDADE ESTADUAL DE CAMPINAS (UNICAMP)",
+    "Country": "Brazil",
+    "ARscore": "65,6",
+    "ARrank": 93,
+    "ISscore": "5,1",
+    "ISrank": 601,
+    "Overall Score": "43,3"
+  },
+  {
+    "Overall Rank": 206,
+    "Institution Name": "UNIVERSIDAD COMPLUTENSE DE MADRID (UCM)",
+    "Country": "Spain",
+    "ARscore": "65,6",
+    "ARrank": 94,
+    "ISscore": "29,5",
+    "ISrank": 433,
+    "Overall Score": "43,2"
+  },
+  {
+    "Overall Rank": 207,
+    "Institution Name": "UNIVERSITI SAINS MALAYSIA (USM)",
+    "Country": "Malaysia",
+    "ARscore": "45,9",
+    "ARrank": 168,
+    "ISscore": "37,5",
+    "ISrank": 367,
+    "Overall Score": 43
+  },
+  {
+    "Overall Rank": 208,
+    "Institution Name": "NATIONAL CHIAO TUNG UNIVERSITY",
+    "Country": "Taiwan",
+    "ARscore": "26,7",
+    "ARrank": 312,
+    "ISscore": 43,
+    "ISrank": 328,
+    "Overall Score": "42,6"
+  },
+  {
+    "Overall Rank": 209,
+    "Institution Name": "UNIVERSIDAD DE CHILE",
+    "Country": "Chile",
+    "ARscore": "68,8",
+    "ARrank": 84,
+    "ISscore": "8,3",
+    "ISrank": 601,
+    "Overall Score": "42,6"
+  },
+  {
+    "Overall Rank": 210,
+    "Institution Name": "WASEDA UNIVERSITY",
+    "Country": "Japan",
+    "ARscore": "56,1",
+    "ARrank": 127,
+    "ISscore": "34,5",
+    "ISrank": 390,
+    "Overall Score": "42,6"
+  },
+  {
+    "Overall Rank": 211,
+    "Institution Name": "MAASTRICHT UNIVERSITY",
+    "Country": "Netherlands",
+    "ARscore": "21,8",
+    "ARrank": 377,
+    "ISscore": 100,
+    "ISrank": 15,
+    "Overall Score": "42,5"
+  },
+  {
+    "Overall Rank": 212,
+    "Institution Name": "ARIZONA STATE UNIVERSITY",
+    "Country": "United States",
+    "ARscore": "41,6",
+    "ARrank": 186,
+    "ISscore": "61,6",
+    "ISrank": 233,
+    "Overall Score": "42,3"
+  },
+  {
+    "Overall Rank": 213,
+    "Institution Name": "UNIVERSITY OF NOTRE DAME",
+    "Country": "United States",
+    "ARscore": "30,3",
+    "ARrank": 266,
+    "ISscore": "20,8",
+    "ISrank": 509,
+    "Overall Score": "42,3"
+  },
+  {
+    "Overall Rank": 214,
+    "Institution Name": "UNIVERSITY OF ILLINOIS, CHICAGO (UIC)",
+    "Country": "United States",
+    "ARscore": "46,4",
+    "ARrank": 165,
+    "ISscore": "37,7",
+    "ISrank": 364,
+    "Overall Score": 42
+  },
+  {
+    "Overall Rank": 215,
+    "Institution Name": "UNIVERSITY OF NEWCASTLE",
+    "Country": "Australia",
+    "ARscore": "31,2",
+    "ARrank": 259,
+    "ISscore": "82,3",
+    "ISrank": 138,
+    "Overall Score": 42
+  },
+  {
+    "Overall Rank": 216,
+    "Institution Name": "WESTERN UNIVERSITY",
+    "Country": "Canada",
+    "ARscore": "29,7",
+    "ARrank": 274,
+    "ISscore": "51,9",
+    "ISrank": 281,
+    "Overall Score": 42
+  },
+  {
+    "Overall Rank": 217,
+    "Institution Name": "SAPIENZA - UNIVERSIT� DI ROMA",
+    "Country": "Italy",
+    "ARscore": "69,9",
+    "ARrank": 82,
+    "ISscore": "9,5",
+    "ISrank": 601,
+    "Overall Score": "41,8"
+  },
+  {
+    "Overall Rank": 218,
+    "Institution Name": "LOUGHBOROUGH UNIVERSITY",
+    "Country": "United Kingdom",
+    "ARscore": "28,8",
+    "ARrank": 287,
+    "ISscore": "76,1",
+    "ISrank": 163,
+    "Overall Score": "41,4"
+  },
+  {
+    "Overall Rank": 219,
+    "Institution Name": "UNIVERSITY OF WOLLONGONG",
+    "Country": "Australia",
+    "ARscore": "28,3",
+    "ARrank": 295,
+    "ISscore": "86,9",
+    "ISrank": 120,
+    "Overall Score": "41,4"
+  },
+  {
+    "Overall Rank": 220,
+    "Institution Name": "AL-FARABI KAZAKH NATIONAL UNIVERSITY",
+    "Country": "Kazakhstan",
+    "ARscore": "33,4",
+    "ARrank": 245,
+    "ISscore": 23,
+    "ISrank": 487,
+    "Overall Score": "41,3"
+  },
+  {
+    "Overall Rank": 221,
+    "Institution Name": "SCIENCES PO PARIS",
+    "Country": "France",
+    "ARscore": 25,
+    "ARrank": 329,
+    "ISscore": 99,
+    "ISrank": 41,
+    "Overall Score": 41
+  },
+  {
+    "Overall Rank": 222,
+    "Institution Name": "VICTORIA UNIVERSITY OF WELLINGTON",
+    "Country": "New Zealand",
+    "ARscore": "43,6",
+    "ARrank": 177,
+    "ISscore": "59,5",
+    "ISrank": 244,
+    "Overall Score": 41
+  },
+  {
+    "Overall Rank": 223,
+    "Institution Name": "UNIVERSIT�T HAMBURG",
+    "Country": "Germany",
+    "ARscore": "44,8",
+    "ARrank": 174,
+    "ISscore": "25,2",
+    "ISrank": 467,
+    "Overall Score": "40,9"
+  },
+  {
+    "Overall Rank": 224,
+    "Institution Name": "UNIVERSITY OF ANTWERP",
+    "Country": "Belgium",
+    "ARscore": "22,6",
+    "ARrank": 365,
+    "ISscore": "42,7",
+    "ISrank": 330,
+    "Overall Score": "40,9"
+  },
+  {
+    "Overall Rank": 225,
+    "Institution Name": "UNIVERSITY OF LEICESTER",
+    "Country": "United Kingdom",
+    "ARscore": "23,6",
+    "ARrank": 348,
+    "ISscore": "91,2",
+    "ISrank": 99,
+    "Overall Score": "40,9"
+  },
+  {
+    "Overall Rank": 226,
+    "Institution Name": "GEORGETOWN UNIVERSITY",
+    "Country": "United States",
+    "ARscore": "35,1",
+    "ARrank": 225,
+    "ISscore": "46,4",
+    "ISrank": 306,
+    "Overall Score": "40,8"
+  },
+  {
+    "Overall Rank": 227,
+    "Institution Name": "UNIVERSITY OF SUSSEX",
+    "Country": "United Kingdom",
+    "ARscore": 29,
+    "ARrank": 285,
+    "ISscore": 98,
+    "ISrank": 52,
+    "Overall Score": "40,7"
+  },
+  {
+    "Overall Rank": 228,
+    "Institution Name": "UNIVERSITI TEKNOLOGI MALAYSIA (UTM)",
+    "Country": "Malaysia",
+    "ARscore": "30,1",
+    "ARrank": 269,
+    "ISscore": "58,8",
+    "ISrank": 251,
+    "Overall Score": "40,5"
+  },
+  {
+    "Overall Rank": 229,
+    "Institution Name": "UNIVERSITY OF CALGARY",
+    "Country": "Canada",
+    "ARscore": "33,4",
+    "ARrank": 241,
+    "ISscore": "61,6",
+    "ISrank": 234,
+    "Overall Score": "40,4"
+  },
+  {
+    "Overall Rank": 230,
+    "Institution Name": "TEL AVIV UNIVERSITY",
+    "Country": "Israel",
+    "ARscore": "34,3",
+    "ARrank": 233,
+    "ISscore": "6,7",
+    "ISrank": 601,
+    "Overall Score": "40,3"
+  },
+  {
+    "Overall Rank": 231,
+    "Institution Name": "KING ABDUL AZIZ UNIVERSITY (KAU)",
+    "Country": "Saudi Arabia",
+    "ARscore": "24,9",
+    "ARrank": 330,
+    "ISscore": "63,9",
+    "ISrank": 223,
+    "Overall Score": 40
+  },
+  {
+    "Overall Rank": 232,
+    "Institution Name": "UNIVERSITY OF CANTERBURY",
+    "Country": "New Zealand",
+    "ARscore": "35,6",
+    "ARrank": 220,
+    "ISscore": "66,9",
+    "ISrank": 209,
+    "Overall Score": 40
+  },
+  {
+    "Overall Rank": 233,
+    "Institution Name": "VRIJE UNIVERSITEIT AMSTERDAM",
+    "Country": "Netherlands",
+    "ARscore": "38,6",
+    "ARrank": 200,
+    "ISscore": "14,9",
+    "ISrank": 594,
+    "Overall Score": 40
+  },
+  {
+    "Overall Rank": 234,
+    "Institution Name": "NATIONAL CHENG KUNG UNIVERSITY",
+    "Country": "Taiwan",
+    "ARscore": "37,8",
+    "ARrank": 205,
+    "ISscore": "29,4",
+    "ISrank": 435,
+    "Overall Score": "39,4"
+  },
+  {
+    "Overall Rank": 235,
+    "Institution Name": "SAINT-PETERSBURG STATE UNIVERSITY",
+    "Country": "Russia",
+    "ARscore": "35,3",
+    "ARrank": 223,
+    "ISscore": "31,8",
+    "ISrank": 412,
+    "Overall Score": "39,2"
+  },
+  {
+    "Overall Rank": 236,
+    "Institution Name": "ROYAL HOLLOWAY UNIVERSITY OF LONDON",
+    "Country": "United Kingdom",
+    "ARscore": "19,3",
+    "ARrank": 422,
+    "ISscore": "97,9",
+    "ISrank": 54,
+    "Overall Score": "39,1"
+  },
+  {
+    "Overall Rank": 237,
+    "Institution Name": "AMERICAN UNIVERSITY OF BEIRUT (AUB)",
+    "Country": "Lebanon",
+    "ARscore": "21,1",
+    "ARrank": 387,
+    "ISscore": "67,8",
+    "ISrank": 202,
+    "Overall Score": 39
+  },
+  {
+    "Overall Rank": 238,
+    "Institution Name": "TUFTS UNIVERSITY",
+    "Country": "United States",
+    "ARscore": "19,8",
+    "ARrank": 412,
+    "ISscore": "41,4",
+    "ISrank": 337,
+    "Overall Score": 39
+  },
+  {
+    "Overall Rank": 239,
+    "Institution Name": "QUEEN'S UNIVERSITY",
+    "Country": "Canada",
+    "ARscore": "33,7",
+    "ARrank": 238,
+    "ISscore": "23,7",
+    "ISrank": 480,
+    "Overall Score": "38,9"
+  },
+  {
+    "Overall Rank": 240,
+    "Institution Name": "UNIVERSIT� LIBRE DE BRUXELLES (ULB)",
+    "Country": "Belgium",
+    "ARscore": "31,3",
+    "ARrank": 257,
+    "ISscore": "91,7",
+    "ISrank": 92,
+    "Overall Score": "38,9"
+  },
+  {
+    "Overall Rank": 241,
+    "Institution Name": "UNIVERSIT� PARIS-SUD 11",
+    "Country": "France",
+    "ARscore": 29,
+    "ARrank": 284,
+    "ISscore": "43,8",
+    "ISrank": 323,
+    "Overall Score": "38,9"
+  },
+  {
+    "Overall Rank": 242,
+    "Institution Name": "UNIVERSIDAD DE NAVARRA",
+    "Country": "Spain",
+    "ARscore": 33,
+    "ARrank": 249,
+    "ISscore": "60,1",
+    "ISrank": 241,
+    "Overall Score": "38,8"
+  },
+  {
+    "Overall Rank": 243,
+    "Institution Name": "UNIVERSITY OF MIAMI",
+    "Country": "United States",
+    "ARscore": "21,1",
+    "ARrank": 388,
+    "ISscore": "41,2",
+    "ISrank": 341,
+    "Overall Score": "38,8"
+  },
+  {
+    "Overall Rank": 244,
+    "Institution Name": "NOVOSIBIRSK STATE UNIVERSITY",
+    "Country": "Russia",
+    "ARscore": "28,6",
+    "ARrank": 292,
+    "ISscore": "51,2",
+    "ISrank": 285,
+    "Overall Score": "38,7"
+  },
+  {
+    "Overall Rank": 245,
+    "Institution Name": "QUEENSLAND UNIVERSITY OF TECHNOLOGY (QUT)",
+    "Country": "Australia",
+    "ARscore": "39,9",
+    "ARrank": 192,
+    "ISscore": "42,3",
+    "ISrank": 334,
+    "Overall Score": "38,7"
+  },
+  {
+    "Overall Rank": 246,
+    "Institution Name": "UNIVERSITY OF ARIZONA",
+    "Country": "United States",
+    "ARscore": "40,1",
+    "ARrank": 190,
+    "ISscore": "18,2",
+    "ISrank": 543,
+    "Overall Score": "38,5"
+  },
+  {
+    "Overall Rank": 247,
+    "Institution Name": "TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY",
+    "Country": "Israel",
+    "ARscore": "31,5",
+    "ARrank": 255,
+    "ISscore": "9,9",
+    "ISrank": 601,
+    "Overall Score": "38,4"
+  },
+  {
+    "Overall Rank": 248,
+    "Institution Name": "UNIVERSITY OF SURREY",
+    "Country": "United Kingdom",
+    "ARscore": "23,7",
+    "ARrank": 346,
+    "ISscore": "97,2",
+    "ISrank": 63,
+    "Overall Score": "38,3"
+  },
+  {
+    "Overall Rank": 249,
+    "Institution Name": "UNIVERSIT� DEGLI STUDI DI PADOVA (UNIPD)",
+    "Country": "Italy",
+    "ARscore": "52,2",
+    "ARrank": 141,
+    "ISscore": "6,4",
+    "ISrank": 601,
+    "Overall Score": "38,2"
+  },
+  {
+    "Overall Rank": 250,
+    "Institution Name": "CURTIN UNIVERSITY",
+    "Country": "Australia",
+    "ARscore": 30,
+    "ARrank": 271,
+    "ISscore": "59,2",
+    "ISrank": 248,
+    "Overall Score": 38
+  },
+  {
+    "Overall Rank": 251,
+    "Institution Name": "MACQUARIE UNIVERSITY",
+    "Country": "Australia",
+    "ARscore": "30,2",
+    "ARrank": 268,
+    "ISscore": "91,5",
+    "ISrank": 93,
+    "Overall Score": 38
+  },
+  {
+    "Overall Rank": 252,
+    "Institution Name": "RMIT UNIVERSITY",
+    "Country": "Australia",
+    "ARscore": "33,9",
+    "ARrank": 237,
+    "ISscore": "89,8",
+    "ISrank": 106,
+    "Overall Score": 38
+  },
+  {
+    "Overall Rank": 253,
+    "Institution Name": "TECHNISCHE UNIVERSIT�T DARMSTADT",
+    "Country": "Germany",
+    "ARscore": "20,5",
+    "ARrank": 399,
+    "ISscore": "59,5",
+    "ISrank": 245,
+    "Overall Score": "37,9"
+  },
+  {
+    "Overall Rank": 254,
+    "Institution Name": "UNIVERSIDAD CARLOS III DE MADRID",
+    "Country": "Spain",
+    "ARscore": "34,4",
+    "ARrank": 232,
+    "ISscore": "14,9",
+    "ISrank": 593,
+    "Overall Score": "37,9"
+  },
+  {
+    "Overall Rank": 255,
+    "Institution Name": "RHEINISCHE FRIEDRICH-WILHELMS-UNIVERSIT�T BONN",
+    "Country": "Germany",
+    "ARscore": "46,6",
+    "ARrank": 164,
+    "ISscore": "27,6",
+    "ISrank": 448,
+    "Overall Score": "37,7"
+  },
+  {
+    "Overall Rank": 256,
+    "Institution Name": "KING SAUD UNIVERSITY (KSU)",
+    "Country": "Saudi Arabia",
+    "ARscore": "25,1",
+    "ARrank": 327,
+    "ISscore": "11,8",
+    "ISrank": 601,
+    "Overall Score": "37,6"
+  },
+  {
+    "Overall Rank": 257,
+    "Institution Name": "NATIONAL TAIWAN UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+    "Country": "Taiwan",
+    "ARscore": "23,4",
+    "ARrank": 353,
+    "ISscore": "31,7",
+    "ISrank": 414,
+    "Overall Score": "37,5"
+  },
+  {
+    "Overall Rank": 258,
+    "Institution Name": "WUHAN UNIVERSITY",
+    "Country": "China",
+    "ARscore": "37,4",
+    "ARrank": 209,
+    "ISscore": "12,5",
+    "ISrank": 601,
+    "Overall Score": "37,5"
+  },
+  {
+    "Overall Rank": 259,
+    "Institution Name": "UNIVERSITY OF MASSACHUSETTS, AMHERST",
+    "Country": "United States",
+    "ARscore": "44,8",
+    "ARrank": 173,
+    "ISscore": "15,7",
+    "ISrank": 579,
+    "Overall Score": "37,3"
+  },
+  {
+    "Overall Rank": 260,
+    "Institution Name": "NATIONAL UNIVERSITY OF IRELAND, GALWAY (NUIG)",
+    "Country": "Ireland",
+    "ARscore": "20,5",
+    "ARrank": 398,
+    "ISscore": "59,1",
+    "ISrank": 250,
+    "Overall Score": "37,1"
+  },
+  {
+    "Overall Rank": 261,
+    "Institution Name": "UNIVERSIT�T STUTTGART",
+    "Country": "Germany",
+    "ARscore": "26,7",
+    "ARrank": 313,
+    "ISscore": "62,8",
+    "ISrank": 229,
+    "Overall Score": "37,1"
+  },
+  {
+    "Overall Rank": 262,
+    "Institution Name": "UNIVERSITY OF TSUKUBA",
+    "Country": "Japan",
+    "ARscore": "34,9",
+    "ARrank": 228,
+    "ISscore": "33,7",
+    "ISrank": 398,
+    "Overall Score": "37,1"
+  },
+  {
+    "Overall Rank": 263,
+    "Institution Name": "ECOLE DES PONTS PARISTECH",
+    "Country": "France",
+    "ARscore": 10,
+    "ARrank": 501,
+    "ISscore": 100,
+    "ISrank": 21,
+    "Overall Score": 37
+  },
+  {
+    "Overall Rank": 264,
+    "Institution Name": "INDIAN INSTITUTE OF TECHNOLOGY MADRAS (IITM)",
+    "Country": "India",
+    "ARscore": "35,2",
+    "ARrank": 224,
+    "ISscore": "1,6",
+    "ISrank": 601,
+    "Overall Score": "36,7"
+  },
+  {
+    "Overall Rank": 265,
+    "Institution Name": "KYUNG HEE UNIVERSITY",
+    "Country": "South Korea",
+    "ARscore": "23,8",
+    "ARrank": 344,
+    "ISscore": "35,4",
+    "ISrank": 385,
+    "Overall Score": "36,7"
+  },
+  {
+    "Overall Rank": 266,
+    "Institution Name": "SIMON FRASER UNIVERSITY",
+    "Country": "Canada",
+    "ARscore": "22,7",
+    "ARrank": 362,
+    "ISscore": "91,8",
+    "ISrank": 91,
+    "Overall Score": "36,7"
+  },
+  {
+    "Overall Rank": 267,
+    "Institution Name": "UNIVERSITY OF SOUTH AUSTRALIA (UNISA)",
+    "Country": "Australia",
+    "ARscore": "23,8",
+    "ARrank": 345,
+    "ISscore": "72,6",
+    "ISrank": 176,
+    "Overall Score": "36,7"
+  },
+  {
+    "Overall Rank": 268,
+    "Institution Name": "UNIVERSITY OF STRATHCLYDE",
+    "Country": "United Kingdom",
+    "ARscore": "25,5",
+    "ARrank": 326,
+    "ISscore": "79,6",
+    "ISrank": 148,
+    "Overall Score": "36,6"
+  },
+  {
+    "Overall Rank": 269,
+    "Institution Name": "UNIVERSITY OF EAST ANGLIA (UEA)",
+    "Country": "United Kingdom",
+    "ARscore": "20,2",
+    "ARrank": 406,
+    "ISscore": "84,4",
+    "ISrank": 127,
+    "Overall Score": "36,4"
+  },
+  {
+    "Overall Rank": 270,
+    "Institution Name": "UNIVERSITY OF GOTHENBURG",
+    "Country": "Sweden",
+    "ARscore": "34,6",
+    "ARrank": 231,
+    "ISscore": "27,4",
+    "ISrank": 450,
+    "Overall Score": "36,4"
+  },
+  {
+    "Overall Rank": 271,
+    "Institution Name": "CHULALONGKORN UNIVERSITY",
+    "Country": "Thailand",
+    "ARscore": "58,6",
+    "ARrank": 118,
+    "ISscore": "3,3",
+    "ISrank": 601,
+    "Overall Score": "36,3"
+  },
+  {
+    "Overall Rank": 272,
+    "Institution Name": "UNIVERSIDAD DE LOS ANDES COLOMBIA",
+    "Country": "Colombia",
+    "ARscore": "51,6",
+    "ARrank": 144,
+    "ISscore": 3,
+    "ISrank": 601,
+    "Overall Score": "36,1"
+  },
+  {
+    "Overall Rank": 273,
+    "Institution Name": "UNIVERSITY OF DUNDEE",
+    "Country": "United Kingdom",
+    "ARscore": "18,4",
+    "ARrank": 447,
+    "ISscore": "63,6",
+    "ISrank": 225,
+    "Overall Score": "36,1"
+  },
+  {
+    "Overall Rank": 274,
+    "Institution Name": "UNIVERSITY OF WAIKATO",
+    "Country": "New Zealand",
+    "ARscore": "18,3",
+    "ARrank": 448,
+    "ISscore": "80,4",
+    "ISrank": 146,
+    "Overall Score": 36
+  },
+  {
+    "Overall Rank": 275,
+    "Institution Name": "UNIVERSIDAD NACIONAL DE COLOMBIA",
+    "Country": "Colombia",
+    "ARscore": "58,9",
+    "ARrank": 116,
+    "ISscore": "1,6",
+    "ISrank": 601,
+    "Overall Score": "35,9"
+  },
+  {
+    "Overall Rank": 276,
+    "Institution Name": "UNIVERSITAT POLIT_CNICA DE CATALUNYA",
+    "Country": "Spain",
+    "ARscore": 36,
+    "ARrank": 219,
+    "ISscore": "29,5",
+    "ISrank": 431,
+    "Overall Score": "35,9"
+  },
+  {
+    "Overall Rank": 277,
+    "Institution Name": "HONG KONG BAPTIST UNIVERSITY (HKBU)",
+    "Country": "Hong Kong",
+    "ARscore": "15,8",
+    "ARrank": 501,
+    "ISscore": "89,7",
+    "ISrank": 107,
+    "Overall Score": "35,8"
+  },
+  {
+    "Overall Rank": 278,
+    "Institution Name": "TOMSK STATE UNIVERSITY",
+    "Country": "Russia",
+    "ARscore": "19,2",
+    "ARrank": 424,
+    "ISscore": "82,9",
+    "ISrank": 134,
+    "Overall Score": "35,8"
+  },
+  {
+    "Overall Rank": 279,
+    "Institution Name": "DALHOUSIE UNIVERSITY",
+    "Country": "Canada",
+    "ARscore": "19,1",
+    "ARrank": 426,
+    "ISscore": "76,9",
+    "ISrank": 161,
+    "Overall Score": "35,7"
+  },
+  {
+    "Overall Rank": 280,
+    "Institution Name": "NORTH CAROLINA STATE UNIVERSITY",
+    "Country": "United States",
+    "ARscore": 32,
+    "ARrank": 254,
+    "ISscore": "38,3",
+    "ISrank": 362,
+    "Overall Score": "35,7"
+  },
+  {
+    "Overall Rank": 281,
+    "Institution Name": "UNIVERSIT�T FRANKFURT AM MAIN",
+    "Country": "Germany",
+    "ARscore": "48,6",
+    "ARrank": 153,
+    "ISscore": "36,1",
+    "ISrank": 379,
+    "Overall Score": "35,7"
+  },
+  {
+    "Overall Rank": 282,
+    "Institution Name": "UNIVERSIT�T INNSBRUCK",
+    "Country": "Austria",
+    "ARscore": 20,
+    "ARrank": 409,
+    "ISscore": "99,2",
+    "ISrank": 38,
+    "Overall Score": "35,7"
+  },
+  {
+    "Overall Rank": 283,
+    "Institution Name": "INDIAN INSTITUTE OF TECHNOLOGY KANPUR (IITK)",
+    "Country": "India",
+    "ARscore": "32,5",
+    "ARrank": 252,
+    "ISscore": "1,4",
+    "ISrank": 601,
+    "Overall Score": "35,6"
+  },
+  {
+    "Overall Rank": 284,
+    "Institution Name": "RUTGERS - THE STATE UNIVERSITY OF NEW JERSEY, NEW BRUNSWICK",
+    "Country": "United States",
+    "ARscore": "39,4",
+    "ARrank": 194,
+    "ISscore": "25,6",
+    "ISrank": 464,
+    "Overall Score": "35,6"
+  },
+  {
+    "Overall Rank": 285,
+    "Institution Name": "HARBIN INSTITUTE OF TECHNOLOGY",
+    "Country": "China",
+    "ARscore": "22,1",
+    "ARrank": 374,
+    "ISscore": "11,6",
+    "ISrank": 601,
+    "Overall Score": "35,3"
+  },
+  {
+    "Overall Rank": 286,
+    "Institution Name": "UNIVERSITY OF TURKU",
+    "Country": "Finland",
+    "ARscore": 26,
+    "ARrank": 319,
+    "ISscore": "7,5",
+    "ISrank": 601,
+    "Overall Score": "35,3"
+  },
+  {
+    "Overall Rank": 287,
+    "Institution Name": "UNIVERSITY OF TASMANIA",
+    "Country": "Australia",
+    "ARscore": "18,6",
+    "ARrank": 439,
+    "ISscore": "93,6",
+    "ISrank": 86,
+    "Overall Score": "35,2"
+  },
+  {
+    "Overall Rank": 288,
+    "Institution Name": "SOAS - SCHOOL OF ORIENTAL AND AFRICAN STUDIES, UNIVERSITY OF LONDON",
+    "Country": "United Kingdom",
+    "ARscore": "27,5",
+    "ARrank": 306,
+    "ISscore": 100,
+    "ISrank": 17,
+    "Overall Score": "35,1"
+  },
+  {
+    "Overall Rank": 289,
+    "Institution Name": "UNIVERSIT� GRENOBLE-ALPES (UGA)",
+    "Country": "France",
+    "ARscore": "52,2",
+    "ARrank": 142,
+    "ISscore": "29,8",
+    "ISrank": 428,
+    "Overall Score": 35
+  },
+  {
+    "Overall Rank": 290,
+    "Institution Name": "UNIVERSITY OF OTTAWA",
+    "Country": "Canada",
+    "ARscore": "26,3",
+    "ARrank": 317,
+    "ISscore": "54,3",
+    "ISrank": 266,
+    "Overall Score": 35
+  },
+  {
+    "Overall Rank": 291,
+    "Institution Name": "TONGJI UNIVERSITY",
+    "Country": "China",
+    "ARscore": "29,6",
+    "ARrank": 277,
+    "ISscore": "27,1",
+    "ISrank": 453,
+    "Overall Score": "34,9"
+  },
+  {
+    "Overall Rank": 292,
+    "Institution Name": "BEIJING NORMAL UNIVERSITY",
+    "Country": "China",
+    "ARscore": "37,8",
+    "ARrank": 204,
+    "ISscore": "12,8",
+    "ISrank": 601,
+    "Overall Score": "34,8"
+  },
+  {
+    "Overall Rank": 293,
+    "Institution Name": "NATIONAL YANG MING UNIVERSITY",
+    "Country": "Taiwan",
+    "ARscore": "14,5",
+    "ARrank": 501,
+    "ISscore": "7,5",
+    "ISrank": 601,
+    "Overall Score": "34,8"
+  },
+  {
+    "Overall Rank": 294,
+    "Institution Name": "UNIVERSITY OF INDONESIA",
+    "Country": "Indonesia",
+    "ARscore": "36,1",
+    "ARrank": 218,
+    "ISscore": "5,5",
+    "ISrank": 601,
+    "Overall Score": "34,8"
+  },
+  {
+    "Overall Rank": 295,
+    "Institution Name": "INDIAN INSTITUTE OF TECHNOLOGY KHARAGPUR (IITKGP)",
+    "Country": "India",
+    "ARscore": "26,5",
+    "ARrank": 314,
+    "ISscore": 1,
+    "ISrank": 601,
+    "Overall Score": "34,7"
+  },
+  {
+    "Overall Rank": 296,
+    "Institution Name": "SUN YAT-SEN UNIVERSITY",
+    "Country": "China",
+    "ARscore": "35,4",
+    "ARrank": 222,
+    "ISscore": "9,3",
+    "ISrank": 601,
+    "Overall Score": "34,7"
+  },
+  {
+    "Overall Rank": 297,
+    "Institution Name": "UNIVERSIT� PARIS DIDEROT - PARIS 7",
+    "Country": "France",
+    "ARscore": "42,2",
+    "ARrank": 185,
+    "ISscore": "59,4",
+    "ISrank": 246,
+    "Overall Score": "34,7"
+  },
+  {
+    "Overall Rank": 298,
+    "Institution Name": "UNIVERSITAT POMPEU FABRA",
+    "Country": "Spain",
+    "ARscore": "32,8",
+    "ARrank": 250,
+    "ISscore": "26,2",
+    "ISrank": 460,
+    "Overall Score": "34,6"
+  },
+  {
+    "Overall Rank": 299,
+    "Institution Name": "BAUMAN MOSCOW STATE TECHNICAL UNIVERSITY",
+    "Country": "Russia",
+    "ARscore": "19,7",
+    "ARrank": 417,
+    "ISscore": "11,7",
+    "ISrank": 601,
+    "Overall Score": "34,5"
+  },
+  {
+    "Overall Rank": 300,
+    "Institution Name": "UNIVERSIT�T ERLANGEN-N�RNBERG",
+    "Country": "Germany",
+    "ARscore": "23,3",
+    "ARrank": 354,
+    "ISscore": "26,8",
+    "ISrank": 455,
+    "Overall Score": "34,5"
+  },
+  {
+    "Overall Rank": 301,
+    "Institution Name": "UNIVERSIT� PARIS 1 PANTH�ON-SORBONNE",
+    "Country": "France",
+    "ARscore": "55,8",
+    "ARrank": 128,
+    "ISscore": "75,6",
+    "ISrank": 167,
+    "Overall Score": "34,5"
+  },
+  {
+    "Overall Rank": 302,
+    "Institution Name": "HERIOT-WATT UNIVERSITY",
+    "Country": "United Kingdom",
+    "ARscore": "15,1",
+    "ARrank": 501,
+    "ISscore": "96,8",
+    "ISrank": 66,
+    "Overall Score": "34,4"
+  },
+  {
+    "Overall Rank": 303,
+    "Institution Name": "LINK�PING UNIVERSITY",
+    "Country": "Sweden",
+    "ARscore": "19,9",
+    "ARrank": 411,
+    "ISscore": "19,1",
+    "ISrank": 536,
+    "Overall Score": "34,4"
+  },
+  {
+    "Overall Rank": 304,
+    "Institution Name": "UNIVERSITY OF HAWAII AT M_�NOA",
+    "Country": "United States",
+    "ARscore": "19,8",
+    "ARrank": 414,
+    "ISscore": "20,7",
+    "ISrank": 512,
+    "Overall Score": "34,4"
+  },
+  {
+    "Overall Rank": 305,
+    "Institution Name": "ECOLE NORMALE SUP�RIEURE DE CACHAN",
+    "Country": "France",
+    "ARscore": "15,4",
+    "ARrank": 501,
+    "ISscore": "35,7",
+    "ISrank": 383,
+    "Overall Score": "34,3"
+  },
+  {
+    "Overall Rank": 306,
+    "Institution Name": "BIRKBECK COLLEGE, UNIVERSITY OF LONDON",
+    "Country": "United Kingdom",
+    "ARscore": "15,4",
+    "ARrank": 501,
+    "ISscore": "98,6",
+    "ISrank": 48,
+    "Overall Score": "34,2"
+  },
+  {
+    "Overall Rank": 307,
+    "Institution Name": "UNIVERSIT�T K�LN",
+    "Country": "Germany",
+    "ARscore": "36,9",
+    "ARrank": 213,
+    "ISscore": "30,4",
+    "ISrank": 426,
+    "Overall Score": "34,2"
+  },
+  {
+    "Overall Rank": 308,
+    "Institution Name": "NATIONAL TAIWAN NORMAL UNIVERSITY",
+    "Country": "Taiwan",
+    "ARscore": "26,3",
+    "ARrank": 316,
+    "ISscore": "73,4",
+    "ISrank": 172,
+    "Overall Score": "34,1"
+  },
+  {
+    "Overall Rank": 309,
+    "Institution Name": "DEAKIN UNIVERSITY",
+    "Country": "Australia",
+    "ARscore": "28,1",
+    "ARrank": 299,
+    "ISscore": "68,7",
+    "ISrank": 197,
+    "Overall Score": 34
+  },
+  {
+    "Overall Rank": 310,
+    "Institution Name": "UNIVERSIDAD POLITECNICA DE VALENCIA",
+    "Country": "Spain",
+    "ARscore": "24,1",
+    "ARrank": 339,
+    "ISscore": 32,
+    "ISrank": 410,
+    "Overall Score": "33,7"
+  },
+  {
+    "Overall Rank": 311,
+    "Institution Name": "YESHIVA UNIVERSITY",
+    "Country": "United States",
+    "ARscore": "3,3",
+    "ARrank": 501,
+    "ISscore": "13,3",
+    "ISrank": 601,
+    "Overall Score": "33,7"
+  },
+  {
+    "Overall Rank": 312,
+    "Institution Name": "MOSCOW INSTITUTE OF PHYSICS AND TECHNOLOGY STATE UNIVERSITY",
+    "Country": "Russia",
+    "ARscore": "14,1",
+    "ARrank": 501,
+    "ISscore": 40,
+    "ISrank": 347,
+    "Overall Score": "33,6"
+  },
+  {
+    "Overall Rank": 313,
+    "Institution Name": "UNIVERSITY AT BUFFALO SUNY",
+    "Country": "United States",
+    "ARscore": "20,1",
+    "ARrank": 407,
+    "ISscore": "59,1",
+    "ISrank": 249,
+    "Overall Score": "33,4"
+  },
+  {
+    "Overall Rank": 314,
+    "Institution Name": "XI'AN JIAOTONG UNIVERSITY",
+    "Country": "China",
+    "ARscore": 24,
+    "ARrank": 343,
+    "ISscore": "9,7",
+    "ISrank": 601,
+    "Overall Score": "33,4"
+  },
+  {
+    "Overall Rank": 315,
+    "Institution Name": "GWANGJU INSTITUTE OF SCIENCE AND TECHNOLOGY (GIST)",
+    "Country": "South Korea",
+    "ARscore": "9,7",
+    "ARrank": 501,
+    "ISscore": 9,
+    "ISrank": 601,
+    "Overall Score": "33,3"
+  },
+  {
+    "Overall Rank": 316,
+    "Institution Name": "KHALIFA UNIVERSITY",
+    "Country": "United Arab Emirates",
+    "ARscore": "6,4",
+    "ARrank": 501,
+    "ISscore": "56,9",
+    "ISrank": 255,
+    "Overall Score": "33,3"
+  },
+  {
+    "Overall Rank": 317,
+    "Institution Name": "CHARLES UNIVERSITY",
+    "Country": "Czech Republic",
+    "ARscore": "38,2",
+    "ARrank": 202,
+    "ISscore": "47,8",
+    "ISrank": 299,
+    "Overall Score": "33,2"
+  },
+  {
+    "Overall Rank": 318,
+    "Institution Name": "LINCOLN UNIVERSITY",
+    "Country": "New Zealand",
+    "ARscore": "7,8",
+    "ARrank": 501,
+    "ISscore": "97,6",
+    "ISrank": 58,
+    "Overall Score": "33,2"
+  },
+  {
+    "Overall Rank": 319,
+    "Institution Name": "EWHA WOMANS UNIVERSITY",
+    "Country": "South Korea",
+    "ARscore": "20,7",
+    "ARrank": 393,
+    "ISscore": "43,1",
+    "ISrank": 326,
+    "Overall Score": "33,1"
+  },
+  {
+    "Overall Rank": 320,
+    "Institution Name": "TILBURG UNIVERSITY",
+    "Country": "Netherlands",
+    "ARscore": "15,1",
+    "ARrank": 501,
+    "ISscore": "52,9",
+    "ISrank": 272,
+    "Overall Score": "33,1"
+  },
+  {
+    "Overall Rank": 321,
+    "Institution Name": "HIROSHIMA UNIVERSITY",
+    "Country": "Japan",
+    "ARscore": "24,5",
+    "ARrank": 334,
+    "ISscore": "16,7",
+    "ISrank": 566,
+    "Overall Score": "32,8"
+  },
+  {
+    "Overall Rank": 322,
+    "Institution Name": "UNIVERSITY OF TARTU",
+    "Country": "Estonia",
+    "ARscore": "20,4",
+    "ARrank": 402,
+    "ISscore": 20,
+    "ISrank": 526,
+    "Overall Score": "32,8"
+  },
+  {
+    "Overall Rank": 323,
+    "Institution Name": "INDIANA UNIVERSITY BLOOMINGTON",
+    "Country": "United States",
+    "ARscore": "42,7",
+    "ARrank": 183,
+    "ISscore": "22,1",
+    "ISrank": 495,
+    "Overall Score": "32,7"
+  },
+  {
+    "Overall Rank": 324,
+    "Institution Name": "UNIVERSITY OF BRUNEI DARUSSALAM",
+    "Country": "Brunei",
+    "ARscore": 10,
+    "ARrank": 501,
+    "ISscore": "65,7",
+    "ISrank": 214,
+    "Overall Score": "32,7"
+  },
+  {
+    "Overall Rank": 325,
+    "Institution Name": "UNIVERSIT� DEGLI STUDI DI MILANO",
+    "Country": "Italy",
+    "ARscore": "45,2",
+    "ARrank": 171,
+    "ISscore": "6,2",
+    "ISrank": 601,
+    "Overall Score": "32,5"
+  },
+  {
+    "Overall Rank": 326,
+    "Institution Name": "NORTHEASTERN UNIVERSITY",
+    "Country": "United States",
+    "ARscore": "18,8",
+    "ARrank": 434,
+    "ISscore": "97,4",
+    "ISrank": 59,
+    "Overall Score": "32,3"
+  },
+  {
+    "Overall Rank": 327,
+    "Institution Name": "UNIVERSIT�T JENA",
+    "Country": "Germany",
+    "ARscore": "18,5",
+    "ARrank": 443,
+    "ISscore": "28,2",
+    "ISrank": 446,
+    "Overall Score": "32,3"
+  },
+  {
+    "Overall Rank": 328,
+    "Institution Name": "UNIVERSITY OF PORTO",
+    "Country": "Portugal",
+    "ARscore": "36,9",
+    "ARrank": 212,
+    "ISscore": "9,5",
+    "ISrank": 601,
+    "Overall Score": "32,2"
+  },
+  {
+    "Overall Rank": 329,
+    "Institution Name": "GRIFFITH UNIVERSITY",
+    "Country": "Australia",
+    "ARscore": 24,
+    "ARrank": 341,
+    "ISscore": "54,4",
+    "ISrank": 265,
+    "Overall Score": "32,1"
+  },
+  {
+    "Overall Rank": 330,
+    "Institution Name": "NATIONAL RESEARCH NUCLEAR UNIVERSITY MEPHI (MOSCOW ENGINEERING PHYSICS INSTITUTE)\"\"ATIONAL RESEARCH NUCLEAR UNIVERSITY \"MEPHI\" (\"\"TIONAL R\"\"\"ATIONAL RESEARCH NUCLEAR UNIVERSITY MEPHI\" (MOSCOW ENGINEERING PHYSICS INSTITUTE)\"\"ATIONAL RESEAR\"\"TIONAL RESEARCH NUCLEAR UNIVERSITY MEPHI\" (MOSCOW ENGIN\"\"IONAL RESEARCH",
+    "Country": "Russia",
+    "ARscore": "9,9",
+    "ARrank": 501,
+    "ISscore": "72,6",
+    "ISrank": 177,
+    "Overall Score": "32,1"
+  },
+  {
+    "Overall Rank": 331,
+    "Institution Name": "WESTF�LISCHE WILHELMS-UNIVERSIT�T M�NSTER",
+    "Country": "Germany",
+    "ARscore": "34,1",
+    "ARrank": 235,
+    "ISscore": "10,5",
+    "ISrank": 601,
+    "Overall Score": "32,1"
+  },
+  {
+    "Overall Rank": 332,
+    "Institution Name": "BRUNEL UNIVERSITY",
+    "Country": "United Kingdom",
+    "ARscore": "11,9",
+    "ARrank": 501,
+    "ISscore": "98,5",
+    "ISrank": 50,
+    "Overall Score": 32
+  },
+  {
+    "Overall Rank": 333,
+    "Institution Name": "MASSEY UNIVERSITY",
+    "Country": "New Zealand",
+    "ARscore": "27,3",
+    "ARrank": 309,
+    "ISscore": "89,1",
+    "ISrank": 110,
+    "Overall Score": 32
+  },
+  {
+    "Overall Rank": 334,
+    "Institution Name": "QATAR UNIVERSITY",
+    "Country": "Qatar",
+    "ARscore": "13,9",
+    "ARrank": 501,
+    "ISscore": "99,5",
+    "ISrank": 34,
+    "Overall Score": 32
+  },
+  {
+    "Overall Rank": 335,
+    "Institution Name": "UNIVERSIT�T ULM",
+    "Country": "Germany",
+    "ARscore": "7,4",
+    "ARrank": 501,
+    "ISscore": "31,4",
+    "ISrank": 418,
+    "Overall Score": 32
+  },
+  {
+    "Overall Rank": 336,
+    "Institution Name": "UNIVERSITY OF CALIFORNIA, SANTA CRUZ (UCSC)",
+    "Country": "United States",
+    "ARscore": "20,1",
+    "ARrank": 408,
+    "ISscore": "10,7",
+    "ISrank": 601,
+    "Overall Score": "31,9"
+  },
+  {
+    "Overall Rank": 337,
+    "Institution Name": "UNIVERSITY OF JYV�SKYL�",
+    "Country": "Finland",
+    "ARscore": "17,2",
+    "ARrank": 475,
+    "ISscore": "7,3",
+    "ISrank": 601,
+    "Overall Score": "31,9"
+  },
+  {
+    "Overall Rank": 338,
+    "Institution Name": "NANKAI UNIVERSITY",
+    "Country": "China",
+    "ARscore": "24,1",
+    "ARrank": 340,
+    "ISscore": "8,8",
+    "ISrank": 601,
+    "Overall Score": "31,7"
+  },
+  {
+    "Overall Rank": 339,
+    "Institution Name": "UME� UNIVERSITY",
+    "Country": "Sweden",
+    "ARscore": "18,6",
+    "ARrank": 438,
+    "ISscore": "15,1",
+    "ISrank": 592,
+    "Overall Score": "31,7"
+  },
+  {
+    "Overall Rank": 340,
+    "Institution Name": "UNIVERSIT�T MANNHEIM",
+    "Country": "Germany",
+    "ARscore": "18,5",
+    "ARrank": 444,
+    "ISscore": "33,3",
+    "ISrank": 401,
+    "Overall Score": "31,7"
+  },
+  {
+    "Overall Rank": 341,
+    "Institution Name": "UNIVERSITY COLLEGE CORK (UCC)",
+    "Country": "Ireland",
+    "ARscore": "25,7",
+    "ARrank": 324,
+    "ISscore": "46,4",
+    "ISrank": 307,
+    "Overall Score": "31,7"
+  },
+  {
+    "Overall Rank": 342,
+    "Institution Name": "VIRGINIA POLYTECHNIC INSTITUTE (VIRGINIA TECH)",
+    "Country": "United States",
+    "ARscore": "31,4",
+    "ARrank": 256,
+    "ISscore": "22,4",
+    "ISrank": 491,
+    "Overall Score": "31,7"
+  },
+  {
+    "Overall Rank": 343,
+    "Institution Name": "AALBORG UNIVERSITY",
+    "Country": "Denmark",
+    "ARscore": 17,
+    "ARrank": 479,
+    "ISscore": "39,7",
+    "ISrank": 351,
+    "Overall Score": "31,6"
+  },
+  {
+    "Overall Rank": 344,
+    "Institution Name": "NATIONAL RESEARCH UNIVERSITY - HIGHER SCHOOL OF ECONOMICS (HSE)",
+    "Country": "Russia",
+    "ARscore": "19,4",
+    "ARrank": 420,
+    "ISscore": "14,5",
+    "ISrank": 601,
+    "Overall Score": "31,6"
+  },
+  {
+    "Overall Rank": 345,
+    "Institution Name": "GEORGE WASHINGTON UNIVERSITY",
+    "Country": "United States",
+    "ARscore": "28,2",
+    "ARrank": 297,
+    "ISscore": "50,1",
+    "ISrank": 290,
+    "Overall Score": "31,5"
+  },
+  {
+    "Overall Rank": 346,
+    "Institution Name": "RENSSELAER POLYTECHNIC INSTITUTE",
+    "Country": "United States",
+    "ARscore": "11,9",
+    "ARrank": 501,
+    "ISscore": "47,7",
+    "ISrank": 301,
+    "Overall Score": "31,5"
+  },
+  {
+    "Overall Rank": 347,
+    "Institution Name": "UNIVERSITY OF UTAH",
+    "Country": "United States",
+    "ARscore": "16,4",
+    "ARrank": 501,
+    "ISscore": "14,1",
+    "ISrank": 601,
+    "Overall Score": "31,5"
+  },
+  {
+    "Overall Rank": 348,
+    "Institution Name": "UNIVERSIT� DE STRASBOURG",
+    "Country": "France",
+    "ARscore": "47,1",
+    "ARrank": 161,
+    "ISscore": "46,5",
+    "ISrank": 305,
+    "Overall Score": "31,3"
+  },
+  {
+    "Overall Rank": 349,
+    "Institution Name": "STONY BROOK UNIVERSITY",
+    "Country": "United States",
+    "ARscore": "22,1",
+    "ARrank": 373,
+    "ISscore": "82,4",
+    "ISrank": 137,
+    "Overall Score": "31,2"
+  },
+  {
+    "Overall Rank": 350,
+    "Institution Name": "UNITED ARAB EMIRATES UNIVERSITY",
+    "Country": "United Arab Emirates",
+    "ARscore": "17,2",
+    "ARrank": 477,
+    "ISscore": "62,9",
+    "ISrank": 228,
+    "Overall Score": "31,1"
+  },
+  {
+    "Overall Rank": 351,
+    "Institution Name": "CITY UNIVERSITY LONDON",
+    "Country": "United Kingdom",
+    "ARscore": "15,4",
+    "ARrank": 501,
+    "ISscore": "99,8",
+    "ISrank": 27,
+    "Overall Score": 31
+  },
+  {
+    "Overall Rank": 352,
+    "Institution Name": "KOBE UNIVERSITY",
+    "Country": "Japan",
+    "ARscore": "26,1",
+    "ARrank": 318,
+    "ISscore": "8,9",
+    "ISrank": 601,
+    "Overall Score": "30,9"
+  },
+  {
+    "Overall Rank": 353,
+    "Institution Name": "TOKYO MEDICAL AND DENTAL UNIVERSITY",
+    "Country": "Japan",
+    "ARscore": "12,5",
+    "ARrank": 501,
+    "ISscore": "14,4",
+    "ISrank": 601,
+    "Overall Score": "30,9"
+  },
+  {
+    "Overall Rank": 354,
+    "Institution Name": "BELARUS STATE UNIVERSITY",
+    "Country": "Belarus",
+    "ARscore": "16,4",
+    "ARrank": 501,
+    "ISscore": "24,4",
+    "ISrank": 471,
+    "Overall Score": "30,8"
+  },
+  {
+    "Overall Rank": 355,
+    "Institution Name": "MOSCOW STATE INSTITUTE OF INTERNATIONAL RELATIONS _ MGIMO UNIVERSITY",
+    "Country": "Russia",
+    "ARscore": "10,1",
+    "ARrank": 501,
+    "ISscore": "52,1",
+    "ISrank": 277,
+    "Overall Score": "30,7"
+  },
+  {
+    "Overall Rank": 356,
+    "Institution Name": "UNIVERSITY OF ESSEX",
+    "Country": "United Kingdom",
+    "ARscore": "20,3",
+    "ARrank": 405,
+    "ISscore": "99,7",
+    "ISrank": 30,
+    "Overall Score": "30,7"
+  },
+  {
+    "Overall Rank": 357,
+    "Institution Name": "UNIVERSITY OF KENT",
+    "Country": "United Kingdom",
+    "ARscore": "19,1",
+    "ARrank": 425,
+    "ISscore": "88,4",
+    "ISrank": 112,
+    "Overall Score": "30,7"
+  },
+  {
+    "Overall Rank": 358,
+    "Institution Name": "UNIVERSITY OF LISBON",
+    "Country": "Portugal",
+    "ARscore": "37,7",
+    "ARrank": 206,
+    "ISscore": "33,6",
+    "ISrank": 399,
+    "Overall Score": "30,7"
+  },
+  {
+    "Overall Rank": 359,
+    "Institution Name": "BANDUNG INSTITUTE OF TECHNOLOGY (ITB)",
+    "Country": "Indonesia",
+    "ARscore": "36,2",
+    "ARrank": 217,
+    "ISscore": "2,6",
+    "ISrank": 601,
+    "Overall Score": "30,4"
+  },
+  {
+    "Overall Rank": 360,
+    "Institution Name": "UNIVERSITY OF VICTORIA",
+    "Country": "Canada",
+    "ARscore": "16,3",
+    "ARrank": 501,
+    "ISscore": "54,9",
+    "ISrank": 261,
+    "Overall Score": "30,4"
+  },
+  {
+    "Overall Rank": 361,
+    "Institution Name": "UNIVERSIDADE FEDERAL DO RIO DE JANEIRO",
+    "Country": "Brazil",
+    "ARscore": 53,
+    "ARrank": 137,
+    "ISscore": 3,
+    "ISrank": 601,
+    "Overall Score": "30,3"
+  },
+  {
+    "Overall Rank": 362,
+    "Institution Name": "TAIPEI MEDICAL UNIVERSITY",
+    "Country": "Taiwan",
+    "ARscore": "9,7",
+    "ARrank": 501,
+    "ISscore": 20,
+    "ISrank": 525,
+    "Overall Score": "30,2"
+  },
+  {
+    "Overall Rank": 363,
+    "Institution Name": "NORWEGIAN UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+    "Country": "Norway",
+    "ARscore": 27,
+    "ARrank": 311,
+    "ISscore": "15,6",
+    "ISrank": 583,
+    "Overall Score": "30,1"
+  },
+  {
+    "Overall Rank": 364,
+    "Institution Name": "OXFORD BROOKES UNIVERSITY",
+    "Country": "United Kingdom",
+    "ARscore": "27,8",
+    "ARrank": 302,
+    "ISscore": "79,3",
+    "ISrank": 152,
+    "Overall Score": "30,1"
+  },
+  {
+    "Overall Rank": 365,
+    "Institution Name": "TECHNISCHE UNIVERSIT�T GRAZ",
+    "Country": "Austria",
+    "ARscore": "11,4",
+    "ARrank": 501,
+    "ISscore": "52,1",
+    "ISrank": 279,
+    "Overall Score": "30,1"
+  },
+  {
+    "Overall Rank": 366,
+    "Institution Name": "TAMPERE UNIVERSITY OF TECHNOLOGY",
+    "Country": "Finland",
+    "ARscore": 9,
+    "ARrank": 501,
+    "ISscore": "17,6",
+    "ISrank": 551,
+    "Overall Score": 30
+  },
+  {
+    "Overall Rank": 367,
+    "Institution Name": "UNIVERSIDAD AUSTRAL",
+    "Country": "Argentina",
+    "ARscore": "17,3",
+    "ARrank": 474,
+    "ISscore": "9,8",
+    "ISrank": 601,
+    "Overall Score": "29,9"
+  },
+  {
+    "Overall Rank": 368,
+    "Institution Name": "UNIVERSITY OF KANSAS",
+    "Country": "United States",
+    "ARscore": "16,6",
+    "ARrank": 495,
+    "ISscore": "15,7",
+    "ISrank": 581,
+    "Overall Score": "29,9"
+  },
+  {
+    "Overall Rank": 369,
+    "Institution Name": "JAMES COOK UNIVERSITY (JCU)",
+    "Country": "Australia",
+    "ARscore": "13,5",
+    "ARrank": 501,
+    "ISscore": 90,
+    "ISrank": 105,
+    "Overall Score": "29,7"
+  },
+  {
+    "Overall Rank": 370,
+    "Institution Name": "PONTIFICIA UNIVERSIDAD CAT�LICA ARGENTINA SANTA MAR�A DE LOS BUENOS AIRES (UCA)",
+    "Country": "Argentina",
+    "ARscore": "16,2",
+    "ARrank": 501,
+    "ISscore": "20,6",
+    "ISrank": 514,
+    "Overall Score": "29,7"
+  },
+  {
+    "Overall Rank": 371,
+    "Institution Name": "UNIVERSITY OF TROMSO",
+    "Country": "Norway",
+    "ARscore": "13,3",
+    "ARrank": 501,
+    "ISscore": "15,5",
+    "ISrank": 585,
+    "Overall Score": "29,7"
+  },
+  {
+    "Overall Rank": 372,
+    "Institution Name": "RUHR-UNIVERSIT�T BOCHUM",
+    "Country": "Germany",
+    "ARscore": "22,8",
+    "ARrank": 361,
+    "ISscore": 33,
+    "ISrank": 405,
+    "Overall Score": "29,6"
+  },
+  {
+    "Overall Rank": 373,
+    "Institution Name": "TOMSK POLYTECHNIC UNIVERSITY",
+    "Country": "Russia",
+    "ARscore": "9,2",
+    "ARrank": 501,
+    "ISscore": "81,7",
+    "ISrank": 139,
+    "Overall Score": "29,4"
+  },
+  {
+    "Overall Rank": 374,
+    "Institution Name": "UNIVERSITY OF CONNECTICUT",
+    "Country": "United States",
+    "ARscore": "16,7",
+    "ARrank": 492,
+    "ISscore": "33,3",
+    "ISrank": 402,
+    "Overall Score": "29,4"
+  },
+  {
+    "Overall Rank": 375,
+    "Institution Name": "UNIVERSITY OF ST GALLEN (HSG)",
+    "Country": "Switzerland",
+    "ARscore": "9,9",
+    "ARrank": 501,
+    "ISscore": "94,6",
+    "ISrank": 82,
+    "Overall Score": "29,3"
+  },
+  {
+    "Overall Rank": 376,
+    "Institution Name": "AMERICAN UNIVERSITY OF SHARJAH",
+    "Country": "United Arab Emirates",
+    "ARscore": "16,8",
+    "ARrank": 486,
+    "ISscore": 100,
+    "ISrank": 4,
+    "Overall Score": "29,2"
+  },
+  {
+    "Overall Rank": 377,
+    "Institution Name": "BOSTON COLLEGE",
+    "Country": "United States",
+    "ARscore": "23,4",
+    "ARrank": 352,
+    "ISscore": "20,7",
+    "ISrank": 510,
+    "Overall Score": "29,2"
+  },
+  {
+    "Overall Rank": 378,
+    "Institution Name": "UNIVERSITY OF OULU",
+    "Country": "Finland",
+    "ARscore": "16,1",
+    "ARrank": 501,
+    "ISscore": "9,5",
+    "ISrank": 601,
+    "Overall Score": "29,2"
+  },
+  {
+    "Overall Rank": 379,
+    "Institution Name": "UNIVERSITY OF SOUTHERN DENMARK",
+    "Country": "Denmark",
+    "ARscore": "18,2",
+    "ARrank": 452,
+    "ISscore": "36,2",
+    "ISrank": 378,
+    "Overall Score": "29,2"
+  },
+  {
+    "Overall Rank": 380,
+    "Institution Name": "MAHIDOL UNIVERSITY",
+    "Country": "Thailand",
+    "ARscore": "35,1",
+    "ARrank": 226,
+    "ISscore": "5,5",
+    "ISrank": 601,
+    "Overall Score": "29,1"
+  },
+  {
+    "Overall Rank": 381,
+    "Institution Name": "ASTON UNIVERSITY",
+    "Country": "United Kingdom",
+    "ARscore": "11,1",
+    "ARrank": 501,
+    "ISscore": "70,9",
+    "ISrank": 186,
+    "Overall Score": 29
+  },
+  {
+    "Overall Rank": 382,
+    "Institution Name": "INDIAN INSTITUTE OF TECHNOLOGY ROORKEE (IITR)",
+    "Country": "India",
+    "ARscore": "13,5",
+    "ARrank": 501,
+    "ISscore": "2,6",
+    "ISrank": 601,
+    "Overall Score": 29
+  },
+  {
+    "Overall Rank": 383,
+    "Institution Name": "UNIVERSITY OF THE WITWATERSRAND",
+    "Country": "South Africa",
+    "ARscore": "25,1",
+    "ARrank": 328,
+    "ISscore": "12,7",
+    "ISrank": 601,
+    "Overall Score": 29
+  },
+  {
+    "Overall Rank": 384,
+    "Institution Name": "UNIVERSIDAD DE BELGRANO",
+    "Country": "Argentina",
+    "ARscore": "8,9",
+    "ARrank": 501,
+    "ISscore": "71,3",
+    "ISrank": 183,
+    "Overall Score": "28,8"
+  },
+  {
+    "Overall Rank": 385,
+    "Institution Name": "UNIVERSITY OF CALIFORNIA, RIVERSIDE (UCR)",
+    "Country": "United States",
+    "ARscore": "18,2",
+    "ARrank": 450,
+    "ISscore": 10,
+    "ISrank": 601,
+    "Overall Score": "28,8"
+  },
+  {
+    "Overall Rank": 386,
+    "Institution Name": "UNIVERSITY OF THE PHILIPPINES",
+    "Country": "Philippines",
+    "ARscore": "30,9",
+    "ARrank": 260,
+    "ISscore": "1,5",
+    "ISrank": 601,
+    "Overall Score": "28,8"
+  },
+  {
+    "Overall Rank": 387,
+    "Institution Name": "HUFS _ HANKUK (KOREA) UNIVERSITY OF FOREIGN STUDIES",
+    "Country": "South Korea",
+    "ARscore": "12,6",
+    "ARrank": 501,
+    "ISscore": "40,8",
+    "ISrank": 342,
+    "Overall Score": "28,7"
+  },
+  {
+    "Overall Rank": 388,
+    "Institution Name": "POLITECNICO DI TORINO",
+    "Country": "Italy",
+    "ARscore": "29,4",
+    "ARrank": 278,
+    "ISscore": "32,2",
+    "ISrank": 409,
+    "Overall Score": "28,7"
+  },
+  {
+    "Overall Rank": 389,
+    "Institution Name": "SWINBURNE UNIVERSITY OF TECHNOLOGY",
+    "Country": "Australia",
+    "ARscore": "12,6",
+    "ARrank": 501,
+    "ISscore": "87,6",
+    "ISrank": 116,
+    "Overall Score": "28,7"
+  },
+  {
+    "Overall Rank": 390,
+    "Institution Name": "WAKE FOREST UNIVERSITY",
+    "Country": "United States",
+    "ARscore": "6,5",
+    "ARrank": 501,
+    "ISscore": "19,7",
+    "ISrank": 531,
+    "Overall Score": "28,7"
+  },
+  {
+    "Overall Rank": 391,
+    "Institution Name": "UNIVERSITAS GADJAH MADA",
+    "Country": "Indonesia",
+    "ARscore": "37,4",
+    "ARrank": 210,
+    "ISscore": "2,6",
+    "ISrank": 601,
+    "Overall Score": "28,6"
+  },
+  {
+    "Overall Rank": 392,
+    "Institution Name": "UNIVERSITY OF LIEGE",
+    "Country": "Belgium",
+    "ARscore": "17,7",
+    "ARrank": 463,
+    "ISscore": "61,8",
+    "ISrank": 231,
+    "Overall Score": "28,6"
+  },
+  {
+    "Overall Rank": 393,
+    "Institution Name": "WASHINGTON STATE UNIVERSITY",
+    "Country": "United States",
+    "ARscore": "28,5",
+    "ARrank": 294,
+    "ISscore": 12,
+    "ISrank": 601,
+    "Overall Score": "28,6"
+  },
+  {
+    "Overall Rank": 394,
+    "Institution Name": "L.N. GUMILYOV EURASIAN NATIONAL UNIVERSITY",
+    "Country": "Kazakhstan",
+    "ARscore": "13,2",
+    "ARrank": 501,
+    "ISscore": 5,
+    "ISrank": 601,
+    "Overall Score": "28,5"
+  },
+  {
+    "Overall Rank": 395,
+    "Institution Name": "UNIVERSITY OF WARSAW",
+    "Country": "Poland",
+    "ARscore": "36,8",
+    "ARrank": 214,
+    "ISscore": "13,4",
+    "ISrank": 601,
+    "Overall Score": "28,5"
+  },
+  {
+    "Overall Rank": 396,
+    "Institution Name": "GOLDSMITHS, UNIVERSITY OF LONDON",
+    "Country": "United Kingdom",
+    "ARscore": "21,2",
+    "ARrank": 385,
+    "ISscore": "95,8",
+    "ISrank": 76,
+    "Overall Score": "28,3"
+  },
+  {
+    "Overall Rank": 397,
+    "Institution Name": "CHUNG-ANG UNIVERSITY",
+    "Country": "South Korea",
+    "ARscore": "13,3",
+    "ARrank": 501,
+    "ISscore": "30,6",
+    "ISrank": 423,
+    "Overall Score": "28,2"
+  },
+  {
+    "Overall Rank": 398,
+    "Institution Name": "LA TROBE UNIVERSITY",
+    "Country": "Australia",
+    "ARscore": "18,5",
+    "ARrank": 442,
+    "ISscore": "95,3",
+    "ISrank": 78,
+    "Overall Score": "28,2"
+  },
+  {
+    "Overall Rank": 399,
+    "Institution Name": "PAKISTAN INSTITUTE OF ENGINEERING AND APPLIED SCIENCES (PIEAS)",
+    "Country": "Pakistan",
+    "ARscore": "5,8",
+    "ARrank": 501,
+    "ISscore": "1,1",
+    "ISrank": 601,
+    "Overall Score": "28,2"
+  },
+  {
+    "Overall Rank": 400,
+    "Institution Name": "UNIVERSIT�T KONSTANZ",
+    "Country": "Germany",
+    "ARscore": "23,1",
+    "ARrank": 357,
+    "ISscore": "31,1",
+    "ISrank": 421,
+    "Overall Score": "28,2"
+  },
+  {
+    "Overall Rank": 401,
+    "Institution Name": "UNIVERSITY OF COLORADO AT DENVER",
+    "Country": "United States",
+    "ARscore": "8,3",
+    "ARrank": 501,
+    "ISscore": 13,
+    "ISrank": 601,
+    "Overall Score": "28,2"
+  },
+  {
+    "Overall Rank": 402,
+    "Institution Name": "LAVAL UNIVERSITY",
+    "Country": "Canada",
+    "ARscore": "21,4",
+    "ARrank": 384,
+    "ISscore": "29,5",
+    "ISrank": 434,
+    "Overall Score": "28,1"
+  },
+  {
+    "Overall Rank": 403,
+    "Institution Name": "NATIONAL SUN YAT-SEN UNIVERSITY",
+    "Country": "Taiwan",
+    "ARscore": "23,4",
+    "ARrank": 350,
+    "ISscore": "8,6",
+    "ISrank": 601,
+    "Overall Score": "28,1"
+  },
+  {
+    "Overall Rank": 404,
+    "Institution Name": "PETER THE GREAT ST.PETERSBURG POLYTECHNIC UNIVERSITY",
+    "Country": "Russia",
+    "ARscore": "9,9",
+    "ARrank": 501,
+    "ISscore": "69,9",
+    "ISrank": 192,
+    "Overall Score": 28
+  },
+  {
+    "Overall Rank": 405,
+    "Institution Name": "STELLENBOSCH UNIVERSITY",
+    "Country": "South Africa",
+    "ARscore": "25,6",
+    "ARrank": 325,
+    "ISscore": "13,2",
+    "ISrank": 601,
+    "Overall Score": "27,9"
+  },
+  {
+    "Overall Rank": 406,
+    "Institution Name": "UNIVERSIDADE NOVA DE LISBOA",
+    "Country": "Portugal",
+    "ARscore": "27,7",
+    "ARrank": 304,
+    "ISscore": 35,
+    "ISrank": 388,
+    "Overall Score": "27,9"
+  },
+  {
+    "Overall Rank": 407,
+    "Institution Name": "BEN GURION UNIVERSITY OF THE NEGEV",
+    "Country": "Israel",
+    "ARscore": "16,8",
+    "ARrank": 488,
+    "ISscore": "26,5",
+    "ISrank": 457,
+    "Overall Score": "27,7"
+  },
+  {
+    "Overall Rank": 408,
+    "Institution Name": "JOHANNES GUTENBERG UNIVERSIT�T MAINZ",
+    "Country": "Germany",
+    "ARscore": "20,3",
+    "ARrank": 403,
+    "ISscore": "23,2",
+    "ISrank": 483,
+    "Overall Score": "27,7"
+  },
+  {
+    "Overall Rank": 409,
+    "Institution Name": "UNIVERSIDAD EXTERNADO DE COLOMBIA",
+    "Country": "Colombia",
+    "ARscore": "9,3",
+    "ARrank": 501,
+    "ISscore": "1,6",
+    "ISrank": 601,
+    "Overall Score": "27,7"
+  },
+  {
+    "Overall Rank": 410,
+    "Institution Name": "UNIVERSITY OF COIMBRA",
+    "Country": "Portugal",
+    "ARscore": "29,3",
+    "ARrank": 280,
+    "ISscore": 53,
+    "ISrank": 271,
+    "Overall Score": "27,7"
+  },
+  {
+    "Overall Rank": 411,
+    "Institution Name": "JAGIELLONIAN UNIVERSITY",
+    "Country": "Poland",
+    "ARscore": "30,7",
+    "ARrank": 264,
+    "ISscore": "10,4",
+    "ISrank": 601,
+    "Overall Score": "27,6"
+  },
+  {
+    "Overall Rank": 412,
+    "Institution Name": "TULANE UNIVERSITY",
+    "Country": "United States",
+    "ARscore": "10,6",
+    "ARrank": 501,
+    "ISscore": "23,1",
+    "ISrank": 486,
+    "Overall Score": "27,5"
+  },
+  {
+    "Overall Rank": 413,
+    "Institution Name": "UNIVERSIDAD DE ZARAGOZA",
+    "Country": "Spain",
+    "ARscore": "22,2",
+    "ARrank": 372,
+    "ISscore": "6,7",
+    "ISrank": 601,
+    "Overall Score": "27,5"
+  },
+  {
+    "Overall Rank": 414,
+    "Institution Name": "URAL FEDERAL UNIVERSITY",
+    "Country": "Russia",
+    "ARscore": "14,7",
+    "ARrank": 501,
+    "ISscore": "25,7",
+    "ISrank": 463,
+    "Overall Score": "27,5"
+  },
+  {
+    "Overall Rank": 415,
+    "Institution Name": "HUAZHONG UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+    "Country": "China",
+    "ARscore": "19,8",
+    "ARrank": 415,
+    "ISscore": "7,9",
+    "ISrank": 601,
+    "Overall Score": "27,4"
+  },
+  {
+    "Overall Rank": 416,
+    "Institution Name": "NATIONAL CENTRAL UNIVERSITY",
+    "Country": "Taiwan",
+    "ARscore": "22,2",
+    "ARrank": 369,
+    "ISscore": "21,5",
+    "ISrank": 503,
+    "Overall Score": "27,4"
+  },
+  {
+    "Overall Rank": 417,
+    "Institution Name": "NATIONAL UNIVERSITY OF SCIENCES AND TECHNOLOGY (NUST) ISLAMABAD",
+    "Country": "Pakistan",
+    "ARscore": "15,9",
+    "ARrank": 501,
+    "ISscore": 4,
+    "ISrank": 601,
+    "Overall Score": "27,3"
+  },
+  {
+    "Overall Rank": 418,
+    "Institution Name": "UNIVERSITY OF STIRLING",
+    "Country": "United Kingdom",
+    "ARscore": "11,1",
+    "ARrank": 501,
+    "ISscore": "57,3",
+    "ISrank": 254,
+    "Overall Score": "27,3"
+  },
+  {
+    "Overall Rank": 419,
+    "Institution Name": "UNIVERSITY OF TENNESSEE",
+    "Country": "United States",
+    "ARscore": "13,2",
+    "ARrank": 501,
+    "ISscore": 5,
+    "ISrank": 601,
+    "Overall Score": "27,2"
+  },
+  {
+    "Overall Rank": 420,
+    "Institution Name": "AMERICAN UNIVERSITY IN CAIRO",
+    "Country": "Egypt",
+    "ARscore": "22,2",
+    "ARrank": 371,
+    "ISscore": "4,9",
+    "ISrank": 601,
+    "Overall Score": "27,1"
+  },
+  {
+    "Overall Rank": 421,
+    "Institution Name": "UNIVERSIDAD DE PALERMO",
+    "Country": "Argentina",
+    "ARscore": "9,5",
+    "ARrank": 501,
+    "ISscore": "95,9",
+    "ISrank": 74,
+    "Overall Score": "27,1"
+  },
+  {
+    "Overall Rank": 422,
+    "Institution Name": "DUBLIN CITY UNIVERSITY (DCU)",
+    "Country": "Ireland",
+    "ARscore": "14,7",
+    "ARrank": 501,
+    "ISscore": "53,8",
+    "ISrank": 269,
+    "Overall Score": 27
+  },
+  {
+    "Overall Rank": 423,
+    "Institution Name": "SHANGHAI UNIVERSITY",
+    "Country": "China",
+    "ARscore": "25,9",
+    "ARrank": 322,
+    "ISscore": "4,5",
+    "ISrank": 601,
+    "Overall Score": 27
+  },
+  {
+    "Overall Rank": 424,
+    "Institution Name": "UNIVERSIT� DI PISA",
+    "Country": "Italy",
+    "ARscore": 39,
+    "ARrank": 195,
+    "ISscore": "5,8",
+    "ISrank": 601,
+    "Overall Score": 27
+  },
+  {
+    "Overall Rank": 425,
+    "Institution Name": "UNIVERSIT� DE MONTPELLIER",
+    "Country": "France",
+    "ARscore": "22,2",
+    "ARrank": 370,
+    "ISscore": "43,1",
+    "ISrank": 327,
+    "Overall Score": 27
+  },
+  {
+    "Overall Rank": 426,
+    "Institution Name": "ILLINOIS INSTITUTE OF TECHNOLOGY",
+    "Country": "United States",
+    "ARscore": 18,
+    "ARrank": 456,
+    "ISscore": 100,
+    "ISrank": 14,
+    "Overall Score": "26,9"
+  },
+  {
+    "Overall Rank": 427,
+    "Institution Name": "UNIVERSIT� DEGLI STUDI DI TRENTO",
+    "Country": "Italy",
+    "ARscore": "24,4",
+    "ARrank": 337,
+    "ISscore": "9,1",
+    "ISrank": 601,
+    "Overall Score": "26,9"
+  },
+  {
+    "Overall Rank": 428,
+    "Institution Name": "UNIVERSITY OF TEXAS DALLAS",
+    "Country": "United States",
+    "ARscore": "15,9",
+    "ARrank": 501,
+    "ISscore": "75,7",
+    "ISrank": 165,
+    "Overall Score": "26,9"
+  },
+  {
+    "Overall Rank": 429,
+    "Institution Name": "BRANDEIS UNIVERSITY",
+    "Country": "United States",
+    "ARscore": "12,1",
+    "ARrank": 501,
+    "ISscore": "82,8",
+    "ISrank": 135,
+    "Overall Score": "26,8"
+  },
+  {
+    "Overall Rank": 430,
+    "Institution Name": "CHANG GUNG UNIVERSITY",
+    "Country": "Taiwan",
+    "ARscore": "4,1",
+    "ARrank": 501,
+    "ISscore": "9,5",
+    "ISrank": 601,
+    "Overall Score": "26,8"
+  },
+  {
+    "Overall Rank": 431,
+    "Institution Name": "THE UNIVERSITY OF GEORGIA",
+    "Country": "United States",
+    "ARscore": "24,7",
+    "ARrank": 333,
+    "ISscore": "11,9",
+    "ISrank": 601,
+    "Overall Score": "26,7"
+  },
+  {
+    "Overall Rank": 432,
+    "Institution Name": "ABERYSTWYTH UNIVERSITY",
+    "Country": "United Kingdom",
+    "ARscore": "10,7",
+    "ARrank": 501,
+    "ISscore": "48,3",
+    "ISrank": 297,
+    "Overall Score": "26,5"
+  },
+  {
+    "Overall Rank": 433,
+    "Institution Name": "DONGGUK UNIVERSITY",
+    "Country": "South Korea",
+    "ARscore": "10,1",
+    "ARrank": 501,
+    "ISscore": "35,6",
+    "ISrank": 384,
+    "Overall Score": "26,5"
+  },
+  {
+    "Overall Rank": 434,
+    "Institution Name": "SHARIF UNIVERSITY OF TECHNOLOGY",
+    "Country": "Iran",
+    "ARscore": "11,3",
+    "ARrank": 501,
+    "ISscore": "1,9",
+    "ISrank": 601,
+    "Overall Score": "26,5"
+  },
+  {
+    "Overall Rank": 435,
+    "Institution Name": "BANGOR UNIVERSITY",
+    "Country": "United Kingdom",
+    "ARscore": "8,3",
+    "ARrank": 501,
+    "ISscore": "67,1",
+    "ISrank": 206,
+    "Overall Score": "26,4"
+  },
+  {
+    "Overall Rank": 436,
+    "Institution Name": "SOGANG UNIVERSITY",
+    "Country": "South Korea",
+    "ARscore": "18,9",
+    "ARrank": 429,
+    "ISscore": "15,4",
+    "ISrank": 586,
+    "Overall Score": "26,4"
+  },
+  {
+    "Overall Rank": 437,
+    "Institution Name": "SWANSEA UNIVERSITY",
+    "Country": "United Kingdom",
+    "ARscore": "12,2",
+    "ARrank": 501,
+    "ISscore": "65,4",
+    "ISrank": 216,
+    "Overall Score": "26,4"
+  },
+  {
+    "Overall Rank": 438,
+    "Institution Name": "UNIVERSITY OF IOWA",
+    "Country": "United States",
+    "ARscore": "22,7",
+    "ARrank": 364,
+    "ISscore": "20,4",
+    "ISrank": 517,
+    "Overall Score": "26,4"
+  },
+  {
+    "Overall Rank": 439,
+    "Institution Name": "KAZAN FEDERAL UNIVERSITY",
+    "Country": "Russia",
+    "ARscore": "17,2",
+    "ARrank": 478,
+    "ISscore": 39,
+    "ISrank": 355,
+    "Overall Score": "26,2"
+  },
+  {
+    "Overall Rank": 440,
+    "Institution Name": "UNIVERSITY OF DELAWARE",
+    "Country": "United States",
+    "ARscore": "12,8",
+    "ARrank": 501,
+    "ISscore": "24,9",
+    "ISrank": 469,
+    "Overall Score": "26,2"
+  },
+  {
+    "Overall Rank": 441,
+    "Institution Name": "WAYNE STATE UNIVERSITY",
+    "Country": "United States",
+    "ARscore": "10,5",
+    "ARrank": 501,
+    "ISscore": "20,5",
+    "ISrank": 516,
+    "Overall Score": "26,2"
+  },
+  {
+    "Overall Rank": 442,
+    "Institution Name": "UNIVERSITI TEKNOLOGI BRUNEI",
+    "Country": "Brunei",
+    "ARscore": "6,8",
+    "ARrank": 501,
+    "ISscore": 20,
+    "ISrank": 527,
+    "Overall Score": "26,1"
+  },
+  {
+    "Overall Rank": 443,
+    "Institution Name": "BOND UNIVERSITY",
+    "Country": "Australia",
+    "ARscore": 3,
+    "ARrank": 501,
+    "ISscore": "97,7",
+    "ISrank": 56,
+    "Overall Score": 26
+  },
+  {
+    "Overall Rank": 444,
+    "Institution Name": "TIANJIN UNIVERSITY",
+    "Country": "China",
+    "ARscore": "17,2",
+    "ARrank": 476,
+    "ISscore": "5,5",
+    "ISrank": 601,
+    "Overall Score": 26
+  },
+  {
+    "Overall Rank": 445,
+    "Institution Name": "UNIVERSITY OF MACAU",
+    "Country": "Macau",
+    "ARscore": "10,9",
+    "ARrank": 501,
+    "ISscore": "96,7",
+    "ISrank": 67,
+    "Overall Score": 26
+  },
+  {
+    "Overall Rank": 446,
+    "Institution Name": "NATIONAL TECHNICAL UNIVERSITY OF ATHENS",
+    "Country": "Greece",
+    "ARscore": "19,4",
+    "ARrank": 421,
+    "ISscore": "4,7",
+    "ISrank": 601,
+    "Overall Score": "25,9"
+  },
+  {
+    "Overall Rank": 447,
+    "Institution Name": "RUDN UNIVERSITY",
+    "Country": "Russia",
+    "ARscore": "10,1",
+    "ARrank": 501,
+    "ISscore": "90,3",
+    "ISrank": 104,
+    "Overall Score": "25,9"
+  },
+  {
+    "Overall Rank": 448,
+    "Institution Name": "KING KHALID UNIVERSITY",
+    "Country": "Saudi Arabia",
+    "ARscore": "6,2",
+    "ARrank": 501,
+    "ISscore": "23,9",
+    "ISrank": 473,
+    "Overall Score": "25,8"
+  },
+  {
+    "Overall Rank": 449,
+    "Institution Name": "KO� UNIVERSITY",
+    "Country": "Turkey",
+    "ARscore": "16,3",
+    "ARrank": 501,
+    "ISscore": "6,7",
+    "ISrank": 601,
+    "Overall Score": "25,8"
+  },
+  {
+    "Overall Rank": 450,
+    "Institution Name": "COLORADO STATE UNIVERSITY",
+    "Country": "United States",
+    "ARscore": "18,8",
+    "ARrank": 432,
+    "ISscore": 10,
+    "ISrank": 601,
+    "Overall Score": "25,7"
+  },
+  {
+    "Overall Rank": 451,
+    "Institution Name": "OREGON STATE UNIVERSITY",
+    "Country": "United States",
+    "ARscore": "17,5",
+    "ARrank": 471,
+    "ISscore": "25,4",
+    "ISrank": 466,
+    "Overall Score": "25,7"
+  },
+  {
+    "Overall Rank": 452,
+    "Institution Name": "SULTAN QABOOS UNIVERSITY",
+    "Country": "Oman",
+    "ARscore": "9,5",
+    "ARrank": 501,
+    "ISscore": "4,8",
+    "ISrank": 601,
+    "Overall Score": "25,7"
+  },
+  {
+    "Overall Rank": 453,
+    "Institution Name": "CHRISTIAN-ALBRECHTS-UNIVERSIT�T ZU KIEL",
+    "Country": "Germany",
+    "ARscore": "17,6",
+    "ARrank": 467,
+    "ISscore": "12,3",
+    "ISrank": 601,
+    "Overall Score": "25,6"
+  },
+  {
+    "Overall Rank": 454,
+    "Institution Name": "UNIVERSIT� AIX-MARSEILLE",
+    "Country": "France",
+    "ARscore": "34,7",
+    "ARrank": 230,
+    "ISscore": "29,3",
+    "ISrank": 438,
+    "Overall Score": "25,6"
+  },
+  {
+    "Overall Rank": 455,
+    "Institution Name": "UNIVERSITY OF MARYLAND, BALTIMORE COUNTY",
+    "Country": "United States",
+    "ARscore": "11,4",
+    "ARrank": 501,
+    "ISscore": "13,7",
+    "ISrank": 601,
+    "Overall Score": "25,6"
+  },
+  {
+    "Overall Rank": 456,
+    "Institution Name": "BILKENT UNIVERSITY",
+    "Country": "Turkey",
+    "ARscore": "20,5",
+    "ARrank": 395,
+    "ISscore": "15,8",
+    "ISrank": 575,
+    "Overall Score": "25,5"
+  },
+  {
+    "Overall Rank": 457,
+    "Institution Name": "HITOTSUBASHI UNIVERSITY",
+    "Country": "Japan",
+    "ARscore": "21,5",
+    "ARrank": 382,
+    "ISscore": "26,8",
+    "ISrank": 456,
+    "Overall Score": "25,5"
+  },
+  {
+    "Overall Rank": 458,
+    "Institution Name": "JOHANNES KEPLER UNIVERSIT�T LINZ (JKU)",
+    "Country": "Austria",
+    "ARscore": 11,
+    "ARrank": 501,
+    "ISscore": "21,5",
+    "ISrank": 502,
+    "Overall Score": "25,5"
+  },
+  {
+    "Overall Rank": 459,
+    "Institution Name": "THE CATHOLIC UNIVERSITY OF KOREA",
+    "Country": "South Korea",
+    "ARscore": "4,9",
+    "ARrank": 501,
+    "ISscore": "4,1",
+    "ISrank": 601,
+    "Overall Score": "25,5"
+  },
+  {
+    "Overall Rank": 460,
+    "Institution Name": "YOKOHAMA CITY UNIVERSITY",
+    "Country": "Japan",
+    "ARscore": "6,3",
+    "ARrank": 501,
+    "ISscore": "2,6",
+    "ISrank": 601,
+    "Overall Score": "25,4"
+  },
+  {
+    "Overall Rank": 461,
+    "Institution Name": "CLARK UNIVERSITY",
+    "Country": "United States",
+    "ARscore": 5,
+    "ARrank": 501,
+    "ISscore": "79,5",
+    "ISrank": 149,
+    "Overall Score": "25,3"
+  },
+  {
+    "Overall Rank": 462,
+    "Institution Name": "UNIVERSIT�T DES SAARLANDES",
+    "Country": "Germany",
+    "ARscore": "10,4",
+    "ARrank": 501,
+    "ISscore": "63,9",
+    "ISrank": 224,
+    "Overall Score": "25,3"
+  },
+  {
+    "Overall Rank": 463,
+    "Institution Name": "UNIVERSITY OF SASKATCHEWAN",
+    "Country": "Canada",
+    "ARscore": "10,7",
+    "ARrank": 501,
+    "ISscore": "56,5",
+    "ISrank": 256,
+    "Overall Score": "25,3"
+  },
+  {
+    "Overall Rank": 464,
+    "Institution Name": "AUCKLAND UNIVERSITY OF TECHNOLOGY",
+    "Country": "New Zealand",
+    "ARscore": "17,5",
+    "ARrank": 469,
+    "ISscore": "99,9",
+    "ISrank": 23,
+    "Overall Score": "25,2"
+  },
+  {
+    "Overall Rank": 465,
+    "Institution Name": "BEIJING INSTITUTE OF TECHNOLOGY",
+    "Country": "China",
+    "ARscore": "21,2",
+    "ARrank": 386,
+    "ISscore": "8,1",
+    "ISrank": 601,
+    "Overall Score": "25,2"
+  },
+  {
+    "Overall Rank": 466,
+    "Institution Name": "CHIBA UNIVERSITY",
+    "Country": "Japan",
+    "ARscore": 13,
+    "ARrank": 501,
+    "ISscore": "6,3",
+    "ISrank": 601,
+    "Overall Score": "25,2"
+  },
+  {
+    "Overall Rank": 467,
+    "Institution Name": "CONCORDIA UNIVERSITY",
+    "Country": "Canada",
+    "ARscore": "14,4",
+    "ARrank": 501,
+    "ISscore": "87,8",
+    "ISrank": 115,
+    "Overall Score": "25,2"
+  },
+  {
+    "Overall Rank": 468,
+    "Institution Name": "KAZAKH NATIONAL TECHNICAL UNIVERSITY AFTER K.I.SATPAYEV",
+    "Country": "Kazakhstan",
+    "ARscore": "11,9",
+    "ARrank": 501,
+    "ISscore": "2,1",
+    "ISrank": 601,
+    "Overall Score": "25,2"
+  },
+  {
+    "Overall Rank": 469,
+    "Institution Name": "UNIVERSIDADE FEDERAL DE S�O PAULO (UNIFESP)",
+    "Country": "Brazil",
+    "ARscore": "12,4",
+    "ARrank": 501,
+    "ISscore": 2,
+    "ISrank": 601,
+    "Overall Score": "25,2"
+  },
+  {
+    "Overall Rank": 470,
+    "Institution Name": "UNIVERSIDAD POLIT�CNICA DE MADRID",
+    "Country": "Spain",
+    "ARscore": "28,7",
+    "ARrank": 291,
+    "ISscore": "32,6",
+    "ISrank": 407,
+    "Overall Score": "25,1"
+  },
+  {
+    "Overall Rank": 471,
+    "Institution Name": "UNIVERSITY OF SZEGED",
+    "Country": "Hungary",
+    "ARscore": "16,8",
+    "ARrank": 489,
+    "ISscore": "57,4",
+    "ISrank": 253,
+    "Overall Score": "25,1"
+  },
+  {
+    "Overall Rank": 472,
+    "Institution Name": "FLORIDA STATE UNIVERSITY",
+    "Country": "United States",
+    "ARscore": "25,8",
+    "ARrank": 323,
+    "ISscore": "6,5",
+    "ISrank": 601,
+    "Overall Score": 25
+  },
+  {
+    "Overall Rank": 473,
+    "Institution Name": "INDIAN INSTITUTE OF TECHNOLOGY GUWAHATI (IITG)",
+    "Country": "India",
+    "ARscore": 13,
+    "ARrank": 501,
+    "ISscore": "1,6",
+    "ISrank": 601,
+    "Overall Score": 25
+  },
+  {
+    "Overall Rank": 474,
+    "Institution Name": "UNIVERSIT� DEGLI STUDI DI NAPOLI FEDERICO II",
+    "Country": "Italy",
+    "ARscore": "28,9",
+    "ARrank": 286,
+    "ISscore": "",
+    "ISrank": "",
+    "Overall Score": 25
+  },
+  {
+    "Overall Rank": 475,
+    "Institution Name": "JILIN UNIVERSITY",
+    "Country": "China",
+    "ARscore": 18,
+    "ARrank": 458,
+    "ISscore": "3,3",
+    "ISrank": 601,
+    "Overall Score": "24,8"
+  },
+  {
+    "Overall Rank": 476,
+    "Institution Name": "NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY MISIS\"ATIONA\"\"\"ATIONAL U",
+    "Country": "Russia",
+    "ARscore": "8,9",
+    "ARrank": 501,
+    "ISscore": "54,9",
+    "ISrank": 262,
+    "Overall Score": "24,7"
+  },
+  {
+    "Overall Rank": 477,
+    "Institution Name": "XIAMEN UNIVERSITY",
+    "Country": "China",
+    "ARscore": 24,
+    "ARrank": 342,
+    "ISscore": 5,
+    "ISrank": 601,
+    "Overall Score": "24,7"
+  },
+  {
+    "Overall Rank": 478,
+    "Institution Name": "FLINDERS UNIVERSITY",
+    "Country": "Australia",
+    "ARscore": "13,7",
+    "ARrank": 501,
+    "ISscore": "74,8",
+    "ISrank": 169,
+    "Overall Score": "24,6"
+  },
+  {
+    "Overall Rank": 479,
+    "Institution Name": "INSTITUT NATIONAL DES SCIENCES APPLIQU�ES DE LYON (INSA)",
+    "Country": "France",
+    "ARscore": "9,5",
+    "ARrank": 501,
+    "ISscore": "86,1",
+    "ISrank": 123,
+    "Overall Score": "24,6"
+  },
+  {
+    "Overall Rank": 480,
+    "Institution Name": "M.O.AUEZOV SOUTH KAZAKHSTAN STATE UNIVERSITY",
+    "Country": "Kazakhstan",
+    "ARscore": 8,
+    "ARrank": 501,
+    "ISscore": "12,6",
+    "ISrank": 601,
+    "Overall Score": "24,5"
+  },
+  {
+    "Overall Rank": 481,
+    "Institution Name": "KAZAKH NATIONAL PEDAGOGICAL UNIVERSITY ABAI",
+    "Country": "Kazakhstan",
+    "ARscore": "7,4",
+    "ARrank": 501,
+    "ISscore": "16,8",
+    "ISrank": 564,
+    "Overall Score": "24,4"
+  },
+  {
+    "Overall Rank": 482,
+    "Institution Name": "UCSI UNIVERSITY",
+    "Country": "Malaysia",
+    "ARscore": "6,5",
+    "ARrank": 501,
+    "ISscore": "75,4",
+    "ISrank": 168,
+    "Overall Score": "24,4"
+  },
+  {
+    "Overall Rank": 483,
+    "Institution Name": "UNIVERSIDAD DE ALCAL�",
+    "Country": "Spain",
+    "ARscore": "13,4",
+    "ARrank": 501,
+    "ISscore": "80,9",
+    "ISrank": 143,
+    "Overall Score": "24,4"
+  },
+  {
+    "Overall Rank": 484,
+    "Institution Name": "UNIVERSITY OF EASTERN FINLAND",
+    "Country": "Finland",
+    "ARscore": "15,4",
+    "ARrank": 501,
+    "ISscore": "10,4",
+    "ISrank": 601,
+    "Overall Score": "24,4"
+  },
+  {
+    "Overall Rank": 485,
+    "Institution Name": "V.N. KARAZIN KHARKIV NATIONAL UNIVERSITY",
+    "Country": "Ukraine",
+    "ARscore": "12,5",
+    "ARrank": 501,
+    "ISscore": "79,4",
+    "ISrank": 151,
+    "Overall Score": "24,4"
+  },
+  {
+    "Overall Rank": 486,
+    "Institution Name": "YORK UNIVERSITY",
+    "Country": "Canada",
+    "ARscore": "21,5",
+    "ARrank": 383,
+    "ISscore": "70,8",
+    "ISrank": 188,
+    "Overall Score": "24,4"
+  },
+  {
+    "Overall Rank": 487,
+    "Institution Name": "UNIVERSITY OF DELHI",
+    "Country": "India",
+    "ARscore": 34,
+    "ARrank": 236,
+    "ISscore": 2,
+    "ISrank": 601,
+    "Overall Score": "24,2"
+  },
+  {
+    "Overall Rank": 488,
+    "Institution Name": "VILNIUS UNIVERSITY",
+    "Country": "Lithuania",
+    "ARscore": "16,9",
+    "ARrank": 485,
+    "ISscore": 6,
+    "ISrank": 601,
+    "Overall Score": "24,1"
+  },
+  {
+    "Overall Rank": 489,
+    "Institution Name": "IOWA STATE UNIVERSITY",
+    "Country": "United States",
+    "ARscore": "20,8",
+    "ARrank": 392,
+    "ISscore": "21,9",
+    "ISrank": 499,
+    "Overall Score": 24
+  },
+  {
+    "Overall Rank": 490,
+    "Institution Name": "UNIVERSIT� DE BORDEAUX",
+    "Country": "France",
+    "ARscore": "33,6",
+    "ARrank": 239,
+    "ISscore": "34,4",
+    "ISrank": 391,
+    "Overall Score": 24
+  },
+  {
+    "Overall Rank": 491,
+    "Institution Name": "BEIHANG UNIVERSITY",
+    "Country": "China",
+    "ARscore": "16,1",
+    "ARrank": 501,
+    "ISscore": 7,
+    "ISrank": 601,
+    "Overall Score": "23,9"
+  },
+  {
+    "Overall Rank": 492,
+    "Institution Name": "UNIVERSIDADE ESTADUAL PAULISTA J�LIO DE MESQUITA FILHO\"NIVERSIDADE ESTADUAL PAU\"\"\"NIVERSIDADE ESTADUAL PAULIS",
+    "Country": "Brazil",
+    "ARscore": "28,8",
+    "ARrank": 289,
+    "ISscore": "5,1",
+    "ISrank": 601,
+    "Overall Score": "23,9"
+  },
+  {
+    "Overall Rank": 493,
+    "Institution Name": "UNIVERSIT� CATTOLICA DEL SACRO CUORE",
+    "Country": "Italy",
+    "ARscore": "23,2",
+    "ARrank": 356,
+    "ISscore": "24,1",
+    "ISrank": 472,
+    "Overall Score": "23,9"
+  },
+  {
+    "Overall Rank": 494,
+    "Institution Name": "UNIVERSITY OF NEW MEXICO",
+    "Country": "United States",
+    "ARscore": "15,6",
+    "ARrank": 501,
+    "ISscore": "6,2",
+    "ISrank": 601,
+    "Overall Score": "23,8"
+  },
+  {
+    "Overall Rank": 495,
+    "Institution Name": "UNIVERSIDAD DE GRANADA",
+    "Country": "Spain",
+    "ARscore": "34,9",
+    "ARrank": 229,
+    "ISscore": "23,7",
+    "ISrank": 476,
+    "Overall Score": "23,7"
+  },
+  {
+    "Overall Rank": 496,
+    "Institution Name": "UNIVERSIT�T HOHENHEIM",
+    "Country": "Germany",
+    "ARscore": "8,2",
+    "ARrank": 501,
+    "ISscore": "31,5",
+    "ISrank": 417,
+    "Overall Score": "23,7"
+  },
+  {
+    "Overall Rank": 497,
+    "Institution Name": "UNIVERSITY OF OKLAHOMA",
+    "Country": "United States",
+    "ARscore": "10,7",
+    "ARrank": 501,
+    "ISscore": "10,6",
+    "ISrank": 601,
+    "Overall Score": "23,7"
+  },
+  {
+    "Overall Rank": 498,
+    "Institution Name": "AMIRKABIR UNIVERSITY OF TECHNOLOGY",
+    "Country": "Iran",
+    "ARscore": "4,9",
+    "ARrank": 501,
+    "ISscore": "2,5",
+    "ISrank": 601,
+    "Overall Score": "23,6"
+  },
+  {
+    "Overall Rank": 499,
+    "Institution Name": "WESTERN SYDNEY UNIVERSITY",
+    "Country": "Australia",
+    "ARscore": "15,9",
+    "ARrank": 501,
+    "ISscore": "47,8",
+    "ISrank": 300,
+    "Overall Score": "23,6"
+  },
+  {
+    "Overall Rank": 500,
+    "Institution Name": "SINGAPORE MANAGEMENT UNIVERSITY",
+    "Country": "Singapore",
+    "ARscore": "12,7",
+    "ARrank": 501,
+    "ISscore": "69,4",
+    "ISrank": 193,
+    "Overall Score": "23,5"
+  }
+]
