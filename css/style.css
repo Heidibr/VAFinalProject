@@ -11,17 +11,16 @@ header {
 }
 
 #table {
-    padding: 10px;
     width: 85vw;
     height: 100%;
-    margin: 10px;
+    margin: 5px;
 }
 
 #map-holder {
     width: 100vw;
     height: 85vh;
     padding: 10px;
-    margin: 10px;
+    margin: 5px;
   }
   svg rect {
     fill: #2A2C39;   /* map background colour */
@@ -41,5 +40,5 @@ header {
     fill: #FFFAFF;   /* country label text colour */
   }
   .countryLabelBg{
-    fill: #30BCED;   /* country label background colour */
+    fill: grey;   /* country label background colour */
   }

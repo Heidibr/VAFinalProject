@@ -76,7 +76,7 @@ var softwarCompanies = [{
 }
 ];
 
-var body = d3.select("#table");
+var body = d3.select("#table-holder");
 var table = body.append("table");
 var thead = table.append("thead")
 var tbody = table.append("tbody");
