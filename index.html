@@ -20,19 +20,13 @@
     <header>World University Rankings</header>
     <div id = 'container'>
     <div id = 'table'>
-        <div class="navbar">
-            <div class="dropdown">
-                <button class="dropbtn">Sort by
-                    <i class="fa fa-caret-down"></i>
-                </button>
-                <div class="dropdown-content">
-                    <a href="#">Ranking</a>
-                    <a href="#">Country</a>
-                    <a href="#">Size (number of students)</a>
-                    <a href="#">Number of international students</a>
-                </div>
+        <div id='sortTableHeader'>
+                <p id='sortP'>Sort by: </p>
+                 <select id = "dd" class="dropdown-content">
+                    <option selected >Overall Rank</option>
+                    <option >International Student Rank</option>         
+                </select>
             </div>
-        </div>
     
         <div id = 'table-holder'></div>
     <div class="buttonHolder" id = "buttons">

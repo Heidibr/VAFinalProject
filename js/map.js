@@ -41,19 +41,13 @@
         .on("zoom", zoomed)
       ;
 
-      
-    function getTextBox(selection) {
+      function getTextBox(selection) {
         selection
           .each(function(d) {
             d.bbox = this
               .getBBox();
             })
         ;
-      }
-
-      function getCurrentCountry(currentCountry){
-        //console.log("dette er i current"+currentCountry)
-        return currentCountry;
       }
 
       // Function that calculates zoom/pan limits and sets zoom to default value 
@@ -164,7 +158,6 @@
             .attr("d", path)
             .attr("id", function(d, i) {
               return "country" + d.properties.iso_a3;
-              
             })
             .attr("class", "country")
       //      .attr("stroke-width", 10)
@@ -180,10 +173,7 @@
             .on("click", function(d, i) {
                 d3.selectAll(".country").classed("country-on", false);
                 d3.select(this).classed("country-on", true);
-                //console.log("heiheie")
-            getCurrentCountry(d.properties.name)
             boxZoom(path.bounds(d), path.centroid(d), 20);
-            
             });
           // Add a label group to each feature/country. This will contain the country name and a background rectangle
           // Use CSS to have class "countryLabel" initially hidden
@@ -207,7 +197,6 @@
             })
             .on("mouseout", function(d, i) {
                  d3.select(this).style("display", "none");
-
            })
             // add an onlcick action to zoom into clicked country
             .on("click", function(d, i) {
@@ -223,8 +212,6 @@
             .attr("dx", 0)
             .attr("dy", 0)
             .text(function(d) {
-              //names 
-              getCurrentCountry(d.properties.name)
               return d.properties.name;
             })
             .call(getTextBox);
@@ -233,7 +220,6 @@
             .insert("rect", "text")
             .attr("class", "countryLabelBg")
             .attr("transform", function(d) {
-              //console.log("wertyuio"+d.properties.name)
               return "translate(" + (d.bbox.x - 2) + "," + d.bbox.y + ")";
             })
             .attr("width", function(d) {
