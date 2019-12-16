@@ -1,10 +1,11 @@
 table {
-    
     border:1px solid grey;
     border-collapse:collapse;
     vertical-align:middle;
     margin-top: 5px;
     background: white;
+    height: 890px;
+    width: 100%;
 
 }
 tr,td,th{
@@ -16,4 +17,8 @@ tr,td,th{
     background: white;
 }
 
-   
+@@media print {
+    thead {
+           display: table-header-group;
+       }
+}
