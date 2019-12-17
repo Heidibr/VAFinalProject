@@ -50,8 +50,12 @@ svg.append("text")
 
 
 function drawScatter(data) {
+
+  console.log(data)
   cValue = function (d) {
-      return d.continent;
+    console.log(d.Continent)  
+    return d.Continent;
+      
   }
   
   color = d3.scaleOrdinal(d3.schemeCategory10);
@@ -264,13 +268,13 @@ function selected() {
 
         // put back the legend
 
-        var legend = focus.selectAll(".legend")
-        .data(color.domain())
-        .enter().append("g")
-        .attr("class", "legend")
-        .attr("transform", function (d, i) {
-            return "translate(0," + i * 17 + ")";
-        });
+    var legend = focus.selectAll(".legend")
+    .data(color.domain())
+    .enter().append("g")
+    .attr("class", "legend")
+    .attr("transform", function (d, i) {
+        return "translate(0," + i * 17 + ")";
+    });
 
     // draw legend colored rectangles
     legend.append("rect")
@@ -294,8 +298,7 @@ function selected() {
 
 
 
-/////////////////////////////////////////TABLE CODE!!!!\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-/////////////////////////////////////////TABLE CODE!!!!\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
 /*var currentCountry;
 
 function getCountry(name){
@@ -314,20 +317,33 @@ function nameChanged(){
 }*/
 
 /////////////////////////////////////////TABLE\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+var header;
+
+function drawHeader(){
+  header = d3.select('#tableHeader').append("tr")
+    .selectAll("th")
+    .data(titles)
+    .enter()
+    .append("th")
+    .text(function(d,i){
+      return d;
+    })
+}
+
 function drawTable(data){
+  console.log('draw', data)
+  // List of groups (here I have one group per column)
+  var allGroup = d3.selectAll('option');
+  // add the options to the button
+  d3.select("#dd")
+    .selectAll('myOptions')
+    .data(allGroup)
+    .enter()
+    .append('option')
+    .text(function (d) { return d; }) // text showed in the menu
+    .attr("value", function (d) { return d; })
 
-// List of groups (here I have one group per column)
-var allGroup = d3.selectAll('option');
-// add the options to the button
-d3.select("#dd")
-  .selectAll('myOptions')
-  .data(allGroup)
-  .enter()
-  .append('option')
-  .text(function (d) { return d; }) // text showed in the menu
-  .attr("value", function (d) { return d; })
-
-  
+    
   // When the button is changed, we run the redraw to get the newly sorted data
   d3.select("#dd").on("change", function(d) {
       // recover the option that has been chosen
@@ -343,64 +359,57 @@ d3.select("#dd")
     console.log(changesText)
   })*/
   
+ 
   
-  
-  var body = d3.select("#table-holder");
+  body = d3.select("#table-holder");
   //Eventuelt sette columns statisk slik at vi får fullt navn på dem??
-  var titles = d3.keys(data[0]);
-  var table = body.append("table");
-  var thead = table.append('thead');
-  var tbody = table.append("tbody");
+  titles = d3.keys(data[0]);
+  table = body.append("table");
+  thead = table.append('thead');
+  tbody = table.append("tbody");
+  
+  drawHeader()
 
+  var rows = tbody.selectAll("tr")
+    .data(data)
+    .enter()
+    .append("tr");
 
-   header = thead.append("tr")
-      .selectAll("th")
-      .data(titles)
-      .enter()
-      .append("th")
-      .text(function(d,i){
-        return d;
+  var cells = rows.selectAll("td")
+    .data(function(d){
+      //TODO: does not work
+      return titles.map(function(column){
+        //shows countries. 
+        return{
+          'value':d[column],
+          name: column
+        }
+      })
     })
+    .enter()
+    .append("td")
+    .attr('data-th',function(d,i){
+      return d.name
+    })
+    .text(function(d){
+      return d.value
+  })
+    
 
-    var rows = tbody.selectAll("tr")
-      .data(data)
-      .enter()
-      .append("tr")
-
-      console.log(rows)
-    var cells = rows.selectAll("td")
-      .data(function(d){
-        //TODO: does not work
-        return titles.map(function(column){
-          //shows countries. 
-          return{
-           'value':d[column],
-            name: column
-          }
-        })
-      })
-      .enter()
-      .append("td")
-      .attr('data-th',function(d,i){
-        return d.name
-      })
-      .text(function(d){
-        return d.value
-      })
-
-      console.log('dette er thead:', titles);
-
-      d3.select("#buttons").datum({portion : 0});
-      // the chain select here pushes the datum onto the up and down buttons also
-      d3.select("#buttons").select("#up").on ("click", function(d) {
-        d.portion -= 16;
-        redraw (d.portion);
-      });
-       d3.select("#buttons").select("#down").on ("click", function(d) {
-        d.portion += 16;
-        redraw (d.portion);
-      })
-      redraw(0);
+    
+  d3.select("#buttons").datum({portion : 0});
+  // the chain select here pushes the datum onto the up and down buttons also
+  d3.select("#buttons").select("#up").on ("click", function(d) {
+    d.portion -= 16;
+    redraw (d.portion);
+    
+  });
+    d3.select("#buttons").select("#down").on ("click", function(d) {
+    d.portion += 16;
+    redraw (d.portion);
+  })
+  
+  redraw(0);
     
 }
 
@@ -411,45 +420,58 @@ function redraw (start) {
     })
 }
 
-function updateTableData(data, titles){
+function updateTableData(data){
   console.log(data)
-  d3.select("table").selectAll("tr")
-  .data(data)
-  .selectAll("td")
-  .data(function(row) {
-    return titles.map(function(column) {
-      return {
-        column: column,
-        value: row[column]
-      };
-    });
+  filteredDataset = data
+  titles = d3.keys(data[0]);
+
+  
+
+  var rows = d3.select("table").selectAll("tr")
+      .remove()
+      console.log('ROOOWS in Update', rows)
+    
+  rows = d3.select("table").selectAll("tr")
+    .data(data)
+    .enter()
+    .append("tr")
+
+  var cells = rows.selectAll("td")
+    .data(function(d){
+      //TODO: does not work
+      return titles.map(function(column){
+        //shows countries. 
+        return{
+          'value':d[column],
+          name: column
+        }
+      })
+    })
+    .enter()
+    .append("td")
+    .attr('data-th',function(d,i){
+      return d.name
+    })
+    .text(function(d){
+      return d.value
   })
-  .text(function(d) {return d.value;});
+  
   redraw(0)
 }
 
 
-d3.json("./data/csvjsonPCA.json", function(data){
-var fullDataSet = data
-console.log(data)
-console.log(data[1].Y1)
-drawTable(fullDataSet)
-drawScatter(fullDataSet)
+var body;
+//Eventuelt sette columns statisk slik at vi får fullt navn på dem??
+var titles;
+var table;
+var thead;
+var tbody;
 
-
-      
+////////////////////// GETTING DATA FROM JSON FILE\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+d3.json("./pca/full_dataset_pca.json", function(data){
+  var fullDataSet = data
+  drawTable(fullDataSet)
+  drawScatter(fullDataSet)      
 })
-
-      
-
-      function redraw (start) {
-        d3.select("table").selectAll("tr")
-          .style("display", function(d,i) {
-            return i >= start && i < start + 16 ? null : "none";
-          })
-      }
-      redraw(0);
-
-
 
 

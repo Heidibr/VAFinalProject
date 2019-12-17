@@ -7,7 +7,7 @@
     "ARscore": 100,
     "ARrank": 3,
     "ISscore": "95,5",
-    "ISrank": 77,
+    "International Student Rank": 77,
     "Overall Score": 100,
     "Y1": -4.460189794254319,
     "Y2": 0.07848480515781042
@@ -20,7 +20,7 @@
     "ARscore": 100,
     "ARrank": 5,
     "ISscore": "70,5",
-    "ISrank": 190,
+    "International Student Rank": 190,
     "Overall Score": "98,6",
     "Y1": -3.955785941503731,
     "Y2": 0.8758651561647467
@@ -33,7 +33,7 @@
     "ARscore": 100,
     "ARrank": 1,
     "ISscore": "75,7",
-    "ISrank": 164,
+    "International Student Rank": 164,
     "Overall Score": "98,5",
     "Y1": -4.06424749251238,
     "Y2": 0.7066517765827196
@@ -46,7 +46,7 @@
     "ARscore": "98,7",
     "ARrank": 21,
     "ISscore": "90,3",
-    "ISrank": 103,
+    "International Student Rank": 103,
     "Overall Score": "97,2",
     "Y1": -4.204657602006178,
     "Y2": 0.17658500027220667
@@ -59,7 +59,7 @@
     "ARscore": 100,
     "ARrank": 4,
     "ISscore": "98,8",
-    "ISrank": 43,
+    "International Student Rank": 43,
     "Overall Score": "96,8",
     "Y1": -4.460111880671783,
     "Y2": -0.11737394053128362
@@ -72,7 +72,7 @@
     "ARscore": 100,
     "ARrank": 2,
     "ISscore": "97,9",
-    "ISrank": 53,
+    "International Student Rank": 53,
     "Overall Score": "95,6",
     "Y1": -4.405134977938326,
     "Y2": -0.07627937747306447
@@ -85,7 +85,7 @@
     "ARscore": "98,2",
     "ARrank": 23,
     "ISscore": "98,6",
-    "ISrank": 49,
+    "International Student Rank": 49,
     "Overall Score": "95,3",
     "Y1": -4.316396437113079,
     "Y2": -0.170850320798471
@@ -98,7 +98,7 @@
     "ARscore": "98,7",
     "ARrank": 19,
     "ISscore": 100,
-    "ISrank": 13,
+    "International Student Rank": 13,
     "Overall Score": "93,3",
     "Y1": -4.357532354309068,
     "Y2": -0.30981445750551456
@@ -111,7 +111,7 @@
     "ARscore": "99,6",
     "ARrank": 13,
     "ISscore": "82,5",
-    "ISrank": 136,
+    "International Student Rank": 136,
     "Overall Score": "93,2",
     "Y1": -3.992079673017973,
     "Y2": 0.4164179981825276
@@ -124,7 +124,7 @@
     "ARscore": "99,3",
     "ARrank": 14,
     "ISscore": 100,
-    "ISrank": 16,
+    "International Student Rank": 16,
     "Overall Score": "92,9",
     "Y1": -4.366777926641395,
     "Y2": -0.2862897242049113
@@ -137,7 +137,7 @@
     "ARscore": "99,8",
     "ARrank": 11,
     "ISscore": "80,7",
-    "ISrank": 144,
+    "International Student Rank": 144,
     "Overall Score": 92,
     "Y1": -3.9348130326624378,
     "Y2": 0.4707360483065725
@@ -150,7 +150,7 @@
     "ARscore": "90,3",
     "ARrank": 38,
     "ISscore": "83,5",
-    "ISrank": 132,
+    "International Student Rank": 132,
     "Overall Score": "91,3",
     "Y1": -3.7079371835830934,
     "Y2": 0.20368301476591916
@@ -163,7 +163,7 @@
     "ARscore": "99,9",
     "ARrank": 10,
     "ISscore": "69,2",
-    "ISrank": 196,
+    "International Student Rank": 196,
     "Overall Score": "90,9",
     "Y1": -3.6972564621637054,
     "Y2": 0.8388941036766119
@@ -176,7 +176,7 @@
     "ARscore": "98,7",
     "ARrank": 20,
     "ISscore": 77,
-    "ISrank": 160,
+    "International Student Rank": 160,
     "Overall Score": "90,5",
     "Y1": -3.7789132200710296,
     "Y2": 0.5433248964514978
@@ -189,7 +189,7 @@
     "ARscore": "99,9",
     "ARrank": 9,
     "ISscore": "61,2",
-    "ISrank": 236,
+    "International Student Rank": 236,
     "Overall Score": "89,6",
     "Y1": -3.509819488737515,
     "Y2": 1.1017672555439488
@@ -202,7 +202,7 @@
     "ARscore": "99,7",
     "ARrank": 12,
     "ISscore": "96,2",
-    "ISrank": 72,
+    "International Student Rank": 72,
     "Overall Score": "88,5",
     "Y1": -4.118790139331462,
     "Y2": -0.07398482560365172
@@ -215,7 +215,7 @@
     "ARscore": 97,
     "ARrank": 27,
     "ISscore": "29,2",
-    "ISrank": 440,
+    "International Student Rank": 440,
     "Overall Score": "87,2",
     "Y1": -2.645395526245598,
     "Y2": 2.229956870383752
@@ -228,7 +228,7 @@
     "ARscore": "97,3",
     "ARrank": 24,
     "ISscore": "98,8",
-    "ISrank": 45,
+    "International Student Rank": 45,
     "Overall Score": "86,9",
     "Y1": -4.06753199517309,
     "Y2": -0.27363492603697753
@@ -241,7 +241,7 @@
     "ARscore": "95,4",
     "ARrank": 32,
     "ISscore": "65,2",
-    "ISrank": 219,
+    "International Student Rank": 219,
     "Overall Score": "86,5",
     "Y1": -3.3422552464382123,
     "Y2": 0.8443037957378408
@@ -254,7 +254,7 @@
     "ARscore": "98,9",
     "ARrank": 17,
     "ISscore": "49,8",
-    "ISrank": 291,
+    "International Student Rank": 291,
     "Overall Score": "86,4",
     "Y1": -3.1619341766313105,
     "Y2": 1.4262237830064137
@@ -267,7 +267,7 @@
     "ARscore": "89,7",
     "ARrank": 40,
     "ISscore": "81,6",
-    "ISrank": 140,
+    "International Student Rank": 140,
     "Overall Score": "85,9",
     "Y1": -3.503978339680317,
     "Y2": 0.20475980324806317
@@ -280,7 +280,7 @@
     "ARscore": "72,8",
     "ARrank": 76,
     "ISscore": 100,
-    "ISrank": 12,
+    "International Student Rank": 12,
     "Overall Score": "85,8",
     "Y1": -3.4931065065954066,
     "Y2": -0.8114170870112813
@@ -293,7 +293,7 @@
     "ARscore": 100,
     "ARrank": 7,
     "ISscore": "25,5",
-    "ISrank": 465,
+    "International Student Rank": 465,
     "Overall Score": "85,3",
     "Y1": -2.62370328754822,
     "Y2": 2.4377363822781284
@@ -306,7 +306,7 @@
     "ARscore": "97,1",
     "ARrank": 26,
     "ISscore": "99,5",
-    "ISrank": 33,
+    "International Student Rank": 33,
     "Overall Score": "84,4",
     "Y1": -4.015235608145777,
     "Y2": -0.35201534270136214
@@ -319,7 +319,7 @@
     "ARscore": "96,7",
     "ARrank": 28,
     "ISscore": "99,4",
-    "ISrank": 36,
+    "International Student Rank": 36,
     "Overall Score": "84,3",
     "Y1": -3.9928547881129726,
     "Y2": -0.35096203743891385
@@ -332,7 +332,7 @@
     "ARscore": "88,2",
     "ARrank": 46,
     "ISscore": 55,
-    "ISrank": 260,
+    "International Student Rank": 260,
     "Overall Score": "83,9",
     "Y1": -2.9137299982702625,
     "Y2": 1.0216990585983763
@@ -345,7 +345,7 @@
     "ARscore": 100,
     "ARrank": 6,
     "ISscore": "46,1",
-    "ISrank": 308,
+    "International Student Rank": 308,
     "Overall Score": "83,2",
     "Y1": -3.0553557476708075,
     "Y2": 1.5561409164736177
@@ -358,7 +358,7 @@
     "ARscore": "98,7",
     "ARrank": 18,
     "ISscore": "92,9",
-    "ISrank": 88,
+    "International Student Rank": 88,
     "Overall Score": 83,
     "Y1": -3.864329253776076,
     "Y2": -0.0364828200736569
@@ -371,7 +371,7 @@
     "ARscore": "94,6",
     "ARrank": 33,
     "ISscore": "98,8",
-    "ISrank": 46,
+    "International Student Rank": 46,
     "Overall Score": "82,9",
     "Y1": -3.8755292565770034,
     "Y2": -0.35743816947867924
@@ -384,7 +384,7 @@
     "ARscore": 99,
     "ARrank": 16,
     "ISscore": "53,8",
-    "ISrank": 268,
+    "International Student Rank": 268,
     "Overall Score": "82,6",
     "Y1": -3.140959644979574,
     "Y2": 1.250908243270979
@@ -397,7 +397,7 @@
     "ARscore": "87,7",
     "ARrank": 47,
     "ISscore": "99,7",
-    "ISrank": 31,
+    "International Student Rank": 31,
     "Overall Score": "82,5",
     "Y1": -3.7288277469807842,
     "Y2": -0.536245344178124
@@ -410,7 +410,7 @@
     "ARscore": 100,
     "ARrank": 8,
     "ISscore": 42,
-    "ISrank": 336,
+    "International Student Rank": 336,
     "Overall Score": "81,9",
     "Y1": -2.9211774051636876,
     "Y2": 1.7027366058512707
@@ -423,7 +423,7 @@
     "ARscore": "91,4",
     "ARrank": 36,
     "ISscore": "96,2",
-    "ISrank": 73,
+    "International Student Rank": 73,
     "Overall Score": "81,7",
     "Y1": -3.6984162728248666,
     "Y2": -0.2816904681925713
@@ -436,7 +436,7 @@
     "ARscore": 85,
     "ARrank": 55,
     "ISscore": "54,8",
-    "ISrank": 263,
+    "International Student Rank": 263,
     "Overall Score": "81,5",
     "Y1": -2.7520492614284127,
     "Y2": 0.9558331349044921
@@ -449,7 +449,7 @@
     "ARscore": "98,6",
     "ARrank": 22,
     "ISscore": "18,2",
-    "ISrank": 544,
+    "International Student Rank": 544,
     "Overall Score": "81,2",
     "Y1": -2.224584581433468,
     "Y2": 2.730484456030883
@@ -462,7 +462,7 @@
     "ARscore": "96,2",
     "ARrank": 30,
     "ISscore": 14,
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "80,6",
     "Y1": -1.996577398303849,
     "Y2": 2.93179981272839
@@ -475,7 +475,7 @@
     "ARscore": "83,6",
     "ARrank": 57,
     "ISscore": "87,9",
-    "ISrank": 114,
+    "International Student Rank": 114,
     "Overall Score": "80,5",
     "Y1": -3.2981308116384525,
     "Y2": -0.14988688842035103
@@ -488,7 +488,7 @@
     "ARscore": "84,2",
     "ARrank": 56,
     "ISscore": 100,
-    "ISrank": 7,
+    "International Student Rank": 7,
     "Overall Score": "80,2",
     "Y1": -3.616114282063624,
     "Y2": -0.6964372553241929
@@ -501,7 +501,7 @@
     "ARscore": 99,
     "ARrank": 15,
     "ISscore": "99,9",
-    "ISrank": 24,
+    "International Student Rank": 24,
     "Overall Score": "80,1",
     "Y1": -3.980747855884246,
     "Y2": -0.37842530089581833
@@ -514,7 +514,7 @@
     "ARscore": "83,2",
     "ARrank": 58,
     "ISscore": "9,8",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "78,7",
     "Y1": -1.5720104838765145,
     "Y2": 2.778218396841923
@@ -527,7 +527,7 @@
     "ARscore": "91,7",
     "ARrank": 35,
     "ISscore": "70,7",
-    "ISrank": 189,
+    "International Student Rank": 189,
     "Overall Score": "78,6",
     "Y1": -3.1497091402518698,
     "Y2": 0.5292903891961126
@@ -540,7 +540,7 @@
     "ARscore": "97,2",
     "ARrank": 25,
     "ISscore": "99,8",
-    "ISrank": 29,
+    "International Student Rank": 29,
     "Overall Score": "78,3",
     "Y1": -3.8572495562576847,
     "Y2": -0.42016965369619896
@@ -553,7 +553,7 @@
     "ARscore": "95,6",
     "ARrank": 31,
     "ISscore": "90,9",
-    "ISrank": 101,
+    "International Student Rank": 101,
     "Overall Score": "77,7",
     "Y1": -3.5745925496916007,
     "Y2": -0.07096287706524206
@@ -566,7 +566,7 @@
     "ARscore": "81,8",
     "ARrank": 61,
     "ISscore": "39,2",
-    "ISrank": 353,
+    "International Student Rank": 353,
     "Overall Score": "77,6",
     "Y1": -2.243823843341498,
     "Y2": 1.437573797252219
@@ -579,7 +579,7 @@
     "ARscore": "90,4",
     "ARrank": 37,
     "ISscore": "97,4",
-    "ISrank": 60,
+    "International Student Rank": 60,
     "Overall Score": 77,
     "Y1": -3.578565176269083,
     "Y2": -0.39931533046082085
@@ -592,7 +592,7 @@
     "ARscore": "78,5",
     "ARrank": 65,
     "ISscore": 100,
-    "ISrank": 20,
+    "International Student Rank": 20,
     "Overall Score": "76,6",
     "Y1": -3.3580825226641737,
     "Y2": -0.7761293058189163
@@ -605,7 +605,7 @@
     "ARscore": "96,7",
     "ARrank": 29,
     "ISscore": "77,7",
-    "ISrank": 157,
+    "International Student Rank": 157,
     "Overall Score": "75,8",
     "Y1": -3.3112851860956907,
     "Y2": 0.348415769077067
@@ -618,7 +618,7 @@
     "ARscore": "87,3",
     "ARrank": 48,
     "ISscore": "97,6",
-    "ISrank": 57,
+    "International Student Rank": 57,
     "Overall Score": "75,7",
     "Y1": -3.4587405054043705,
     "Y2": -0.4843795978498462
@@ -631,7 +631,7 @@
     "ARscore": "86,1",
     "ARrank": 52,
     "ISscore": "91,2",
-    "ISrank": 100,
+    "International Student Rank": 100,
     "Overall Score": "75,6",
     "Y1": -3.279963195202917,
     "Y2": -0.2569857938444488
@@ -644,7 +644,7 @@
     "ARscore": "80,3",
     "ARrank": 62,
     "ISscore": "84,2",
-    "ISrank": 129,
+    "International Student Rank": 129,
     "Overall Score": "75,1",
     "Y1": -3.0034187690699565,
     "Y2": -0.132447150080882
@@ -657,7 +657,7 @@
     "ARscore": "75,6",
     "ARrank": 72,
     "ISscore": "66,4",
-    "ISrank": 212,
+    "International Student Rank": 212,
     "Overall Score": "74,9",
     "Y1": -2.5489499370908697,
     "Y2": 0.37533994307877105
@@ -670,7 +670,7 @@
     "ARscore": "69,3",
     "ARrank": 83,
     "ISscore": "86,7",
-    "ISrank": 121,
+    "International Student Rank": 121,
     "Overall Score": "73,3",
     "Y1": -2.724262991426741,
     "Y2": -0.3964707349451857
@@ -683,7 +683,7 @@
     "ARscore": "88,5",
     "ARrank": 44,
     "ISscore": "30,6",
-    "ISrank": 424,
+    "International Student Rank": 424,
     "Overall Score": "73,2",
     "Y1": -2.081519550031695,
     "Y2": 1.8934267141806802
@@ -696,7 +696,7 @@
     "ARscore": "73,8",
     "ARrank": 74,
     "ISscore": "99,3",
-    "ISrank": 37,
+    "International Student Rank": 37,
     "Overall Score": "72,9",
     "Y1": -3.101821758308533,
     "Y2": -0.8193815154265812
@@ -709,7 +709,7 @@
     "ARscore": "55,6",
     "ARrank": 129,
     "ISscore": "97,3",
-    "ISrank": 62,
+    "International Student Rank": 62,
     "Overall Score": "72,1",
     "Y1": -2.512538381706689,
     "Y2": -1.0487113675693147
@@ -722,7 +722,7 @@
     "ARscore": "62,5",
     "ARrank": 104,
     "ISscore": "58,3",
-    "ISrank": 252,
+    "International Student Rank": 252,
     "Overall Score": 72,
     "Y1": -1.9724909401734567,
     "Y2": 0.3982875426009643
@@ -735,7 +735,7 @@
     "ARscore": "79,2",
     "ARrank": 64,
     "ISscore": "40,3",
-    "ISrank": 345,
+    "International Student Rank": 345,
     "Overall Score": "71,1",
     "Y1": -2.0273082476081714,
     "Y2": 1.2977535431960414
@@ -748,7 +748,7 @@
     "ARscore": "74,6",
     "ARrank": 73,
     "ISscore": "27,1",
-    "ISrank": 454,
+    "International Student Rank": 454,
     "Overall Score": 71,
     "Y1": -1.5842799451736886,
     "Y2": 1.802467206415351
@@ -761,7 +761,7 @@
     "ARscore": "86,7",
     "ARrank": 51,
     "ISscore": 99,
-    "ISrank": 39,
+    "International Student Rank": 39,
     "Overall Score": "70,4",
     "Y1": -3.334413936360497,
     "Y2": -0.6257632507719748
@@ -774,7 +774,7 @@
     "ARscore": "77,8",
     "ARrank": 69,
     "ISscore": "15,6",
-    "ISrank": 582,
+    "International Student Rank": 582,
     "Overall Score": "70,4",
     "Y1": -1.2971746122229308,
     "Y2": 2.450017503984142
@@ -787,7 +787,7 @@
     "ARscore": "78,1",
     "ARrank": 68,
     "ISscore": "63,9",
-    "ISrank": 222,
+    "International Student Rank": 222,
     "Overall Score": 70,
     "Y1": -2.4252357824659905,
     "Y2": 0.44819464691605376
@@ -800,7 +800,7 @@
     "ARscore": 90,
     "ARrank": 39,
     "ISscore": "38,8",
-    "ISrank": 357,
+    "International Student Rank": 357,
     "Overall Score": "69,4",
     "Y1": -2.218733316626267,
     "Y2": 1.530541217360578
@@ -813,7 +813,7 @@
     "ARscore": "93,8",
     "ARrank": 34,
     "ISscore": "20,4",
-    "ISrank": 518,
+    "International Student Rank": 518,
     "Overall Score": "68,7",
     "Y1": -1.8132148314022267,
     "Y2": 2.4167232461733645
@@ -826,7 +826,7 @@
     "ARscore": "78,4",
     "ARrank": 67,
     "ISscore": "52,4",
-    "ISrank": 273,
+    "International Student Rank": 273,
     "Overall Score": 68,
     "Y1": -2.1676831246944412,
     "Y2": 0.807784592365159
@@ -839,7 +839,7 @@
     "ARscore": "46,8",
     "ARrank": 163,
     "ISscore": "95,8",
-    "ISrank": 75,
+    "International Student Rank": 75,
     "Overall Score": "67,9",
     "Y1": -2.0910276017102785,
     "Y2": -1.1962359319042888
@@ -852,7 +852,7 @@
     "ARscore": 85,
     "ARrank": 54,
     "ISscore": "38,4",
-    "ISrank": 359,
+    "International Student Rank": 359,
     "Overall Score": "67,8",
     "Y1": -2.0280226896532354,
     "Y2": 1.4379964087719235
@@ -865,7 +865,7 @@
     "ARscore": "79,4",
     "ARrank": 63,
     "ISscore": "15,5",
-    "ISrank": 584,
+    "International Student Rank": 584,
     "Overall Score": "67,7",
     "Y1": -1.2637016633011995,
     "Y2": 2.466264360439652
@@ -878,7 +878,7 @@
     "ARscore": "65,6",
     "ARrank": 95,
     "ISscore": "45,1",
-    "ISrank": 313,
+    "International Student Rank": 313,
     "Overall Score": "67,5",
     "Y1": -1.6848725068799961,
     "Y2": 0.8489852281289376
@@ -891,7 +891,7 @@
     "ARscore": "73,5",
     "ARrank": 75,
     "ISscore": "70,9",
-    "ISrank": 187,
+    "International Student Rank": 187,
     "Overall Score": "67,4",
     "Y1": -2.3787835067478125,
     "Y2": 0.1170396282849888
@@ -904,7 +904,7 @@
     "ARscore": "70,4",
     "ARrank": 80,
     "ISscore": "96,7",
-    "ISrank": 68,
+    "International Student Rank": 68,
     "Overall Score": "67,4",
     "Y1": -2.7835685084983792,
     "Y2": -0.778121385519233
@@ -917,7 +917,7 @@
     "ARscore": "89,1",
     "ARrank": 42,
     "ISscore": 70,
-    "ISrank": 191,
+    "International Student Rank": 191,
     "Overall Score": 67,
     "Y1": -2.7409193333923967,
     "Y2": 0.4002984679070036
@@ -930,7 +930,7 @@
     "ARscore": "88,6",
     "ARrank": 43,
     "ISscore": "19,8",
-    "ISrank": 529,
+    "International Student Rank": 529,
     "Overall Score": "66,3",
     "Y1": -1.5957310492011103,
     "Y2": 2.3587701244965418
@@ -943,7 +943,7 @@
     "ARscore": "86,1",
     "ARrank": 53,
     "ISscore": "68,5",
-    "ISrank": 199,
+    "International Student Rank": 199,
     "Overall Score": "66,2",
     "Y1": -2.6002264674738242,
     "Y2": 0.38628044636182873
@@ -956,7 +956,7 @@
     "ARscore": "57,1",
     "ARrank": 122,
     "ISscore": "87,5",
-    "ISrank": 117,
+    "International Student Rank": 117,
     "Overall Score": "65,7",
     "Y1": -2.1813748921397162,
     "Y2": -0.7203708275885404
@@ -969,7 +969,7 @@
     "ARscore": "88,4",
     "ARrank": 45,
     "ISscore": "54,6",
-    "ISrank": 264,
+    "International Student Rank": 264,
     "Overall Score": "64,8",
     "Y1": -2.3681447067399355,
     "Y2": 0.8778642055418484
@@ -982,7 +982,7 @@
     "ARscore": 61,
     "ARrank": 109,
     "ISscore": "94,2",
-    "ISrank": 85,
+    "International Student Rank": 85,
     "Overall Score": "64,8",
     "Y1": -2.39299618953033,
     "Y2": -0.8770595927277464
@@ -995,7 +995,7 @@
     "ARscore": "68,7",
     "ARrank": 85,
     "ISscore": "18,2",
-    "ISrank": 545,
+    "International Student Rank": 545,
     "Overall Score": "64,3",
     "Y1": -0.997525597872263,
     "Y2": 2.0914600886682284
@@ -1008,7 +1008,7 @@
     "ARscore": "55,6",
     "ARrank": 130,
     "ISscore": "59,2",
-    "ISrank": 247,
+    "International Student Rank": 247,
     "Overall Score": "63,6",
     "Y1": -1.5473292415458444,
     "Y2": 0.15380357771546307
@@ -1021,7 +1021,7 @@
     "ARscore": "63,6",
     "ARrank": 100,
     "ISscore": "88,2",
-    "ISrank": 113,
+    "International Student Rank": 113,
     "Overall Score": "63,5",
     "Y1": -2.3195606058216693,
     "Y2": -0.64001128473226
@@ -1034,7 +1034,7 @@
     "ARscore": "67,2",
     "ARrank": 87,
     "ISscore": 28,
-    "ISrank": 447,
+    "International Student Rank": 447,
     "Overall Score": "63,5",
     "Y1": -1.213196132149295,
     "Y2": 1.5795504686475375
@@ -1047,7 +1047,7 @@
     "ARscore": "76,5",
     "ARrank": 71,
     "ISscore": "39,8",
-    "ISrank": 350,
+    "International Student Rank": 350,
     "Overall Score": "63,4",
     "Y1": -1.724066392768743,
     "Y2": 1.207257557306205
@@ -1060,7 +1060,7 @@
     "ARscore": "61,3",
     "ARrank": 108,
     "ISscore": "83,8",
-    "ISrank": 131,
+    "International Student Rank": 131,
     "Overall Score": "63,1",
     "Y1": -2.1641861010762558,
     "Y2": -0.5507304760155168
@@ -1073,7 +1073,7 @@
     "ARscore": "38,7",
     "ARrank": 199,
     "ISscore": "5,4",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": 63,
     "Y1": 0.1665049270806515,
     "Y2": 1.8872310491310509
@@ -1086,7 +1086,7 @@
     "ARscore": "68,1",
     "ARrank": 86,
     "ISscore": "12,7",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": 63,
     "Y1": -0.791851304895339,
     "Y2": 2.344583200610802
@@ -1099,7 +1099,7 @@
     "ARscore": "82,7",
     "ARrank": 60,
     "ISscore": "91,3",
-    "ISrank": 95,
+    "International Student Rank": 95,
     "Overall Score": "62,8",
     "Y1": -2.8396948702926355,
     "Y2": -0.44461908385510773
@@ -1112,7 +1112,7 @@
     "ARscore": "66,7",
     "ARrank": 91,
     "ISscore": "44,2",
-    "ISrank": 321,
+    "International Student Rank": 321,
     "Overall Score": "62,7",
     "Y1": -1.5578979424182802,
     "Y2": 0.8697800865112619
@@ -1125,7 +1125,7 @@
     "ARscore": "38,7",
     "ARrank": 198,
     "ISscore": "85,3",
-    "ISrank": 124,
+    "International Student Rank": 124,
     "Overall Score": "62,6",
     "Y1": -1.4915290984450884,
     "Y2": -1.0684109418156666
@@ -1138,7 +1138,7 @@
     "ARscore": "63,9",
     "ARrank": 99,
     "ISscore": "61,2",
-    "ISrank": 237,
+    "International Student Rank": 237,
     "Overall Score": "62,6",
     "Y1": -1.8035416723432747,
     "Y2": 0.24288293508395442
@@ -1151,7 +1151,7 @@
     "ARscore": "64,8",
     "ARrank": 97,
     "ISscore": "41,2",
-    "ISrank": 339,
+    "International Student Rank": 339,
     "Overall Score": "62,4",
     "Y1": -1.4334790042444838,
     "Y2": 0.9427069588110919
@@ -1164,7 +1164,7 @@
     "ARscore": "71,3",
     "ARrank": 79,
     "ISscore": "73,1",
-    "ISrank": 173,
+    "International Student Rank": 173,
     "Overall Score": "62,3",
     "Y1": -2.2285741396299814,
     "Y2": -0.04675776128918116
@@ -1177,7 +1177,7 @@
     "ARscore": 60,
     "ARrank": 112,
     "ISscore": "94,7",
-    "ISrank": 81,
+    "International Student Rank": 81,
     "Overall Score": "62,2",
     "Y1": -2.303971073439996,
     "Y2": -0.9399314176198825
@@ -1190,7 +1190,7 @@
     "ARscore": "67,2",
     "ARrank": 88,
     "ISscore": "71,8",
-    "ISrank": 181,
+    "International Student Rank": 181,
     "Overall Score": "62,1",
     "Y1": -2.0919726790526436,
     "Y2": -0.06814800865985457
@@ -1203,7 +1203,7 @@
     "ARscore": "62,4",
     "ARrank": 105,
     "ISscore": 87,
-    "ISrank": 119,
+    "International Student Rank": 119,
     "Overall Score": 62,
     "Y1": -2.2169564832283934,
     "Y2": -0.6374848725268579
@@ -1216,7 +1216,7 @@
     "ARscore": "67,1",
     "ARrank": 89,
     "ISscore": "81,6",
-    "ISrank": 141,
+    "International Student Rank": 141,
     "Overall Score": 62,
     "Y1": -2.2568855652699247,
     "Y2": -0.37837259291357256
@@ -1229,7 +1229,7 @@
     "ARscore": "77,7",
     "ARrank": 70,
     "ISscore": "40,3",
-    "ISrank": 344,
+    "International Student Rank": 344,
     "Overall Score": "61,9",
     "Y1": -1.7227493143676413,
     "Y2": 1.1829134364070482
@@ -1242,7 +1242,7 @@
     "ARscore": "53,1",
     "ARrank": 136,
     "ISscore": "89,4",
-    "ISrank": 108,
+    "International Student Rank": 108,
     "Overall Score": "61,6",
     "Y1": -1.9848802665514367,
     "Y2": -0.8975141996912958
@@ -1255,7 +1255,7 @@
     "ARscore": "43,2",
     "ARrank": 181,
     "ISscore": "99,9",
-    "ISrank": 25,
+    "International Student Rank": 25,
     "Overall Score": "61,4",
     "Y1": -1.9164638584862372,
     "Y2": -1.5644758019422063
@@ -1268,7 +1268,7 @@
     "ARscore": "53,7",
     "ARrank": 135,
     "ISscore": "5,9",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "60,8",
     "Y1": -0.2443259058172364,
     "Y2": 2.1754319027739157
@@ -1281,7 +1281,7 @@
     "ARscore": "29,7",
     "ARrank": 275,
     "ISscore": "47,5",
-    "ISrank": 302,
+    "International Student Rank": 302,
     "Overall Score": "59,8",
     "Y1": -0.3139583475284495,
     "Y2": -0.11348278212164889
@@ -1294,7 +1294,7 @@
     "ARscore": "65,7",
     "ARrank": 92,
     "ISscore": "69,2",
-    "ISrank": 195,
+    "International Student Rank": 195,
     "Overall Score": "59,5",
     "Y1": -1.9268340334555218,
     "Y2": -0.026077513999847337
@@ -1307,7 +1307,7 @@
     "ARscore": 55,
     "ARrank": 132,
     "ISscore": 34,
-    "ISrank": 396,
+    "International Student Rank": 396,
     "Overall Score": "59,5",
     "Y1": -0.8909566446898219,
     "Y2": 1.033611820315883
@@ -1320,7 +1320,7 @@
     "ARscore": "71,4",
     "ARrank": 78,
     "ISscore": "49,5",
-    "ISrank": 292,
+    "International Student Rank": 292,
     "Overall Score": "59,5",
     "Y1": -1.6995050271582293,
     "Y2": 0.7378879703105214
@@ -1333,7 +1333,7 @@
     "ARscore": "43,4",
     "ARrank": 179,
     "ISscore": "60,1",
-    "ISrank": 242,
+    "International Student Rank": 242,
     "Overall Score": "59,5",
     "Y1": -1.0775621049143658,
     "Y2": -0.16566279275280713
@@ -1346,7 +1346,7 @@
     "ARscore": "45,5",
     "ARrank": 170,
     "ISscore": "42,6",
-    "ISrank": 331,
+    "International Student Rank": 331,
     "Overall Score": "59,3",
     "Y1": -0.7991736654268056,
     "Y2": 0.4769735532989878
@@ -1359,7 +1359,7 @@
     "ARscore": "58,8",
     "ARrank": 117,
     "ISscore": "91,2",
-    "ISrank": 96,
+    "International Student Rank": 96,
     "Overall Score": "59,3",
     "Y1": -2.121882516747922,
     "Y2": -0.8790883619275911
@@ -1372,7 +1372,7 @@
     "ARscore": 58,
     "ARrank": 120,
     "ISscore": "78,6",
-    "ISrank": 155,
+    "International Student Rank": 155,
     "Overall Score": "59,1",
     "Y1": -1.857601618874636,
     "Y2": -0.4803805758121464
@@ -1385,7 +1385,7 @@
     "ARscore": "59,8",
     "ARrank": 114,
     "ISscore": 38,
-    "ISrank": 363,
+    "International Student Rank": 363,
     "Overall Score": "58,9",
     "Y1": -1.1156717184617322,
     "Y2": 0.948773090675565
@@ -1398,7 +1398,7 @@
     "ARscore": 48,
     "ARrank": 157,
     "ISscore": "98,6",
-    "ISrank": 47,
+    "International Student Rank": 47,
     "Overall Score": "58,4",
     "Y1": -1.939687785420141,
     "Y2": -1.390477333357449
@@ -1411,7 +1411,7 @@
     "ARscore": "56,9",
     "ARrank": 124,
     "ISscore": "81,3",
-    "ISrank": 142,
+    "International Student Rank": 142,
     "Overall Score": "58,1",
     "Y1": -1.847898595153381,
     "Y2": -0.6012717778910328
@@ -1424,7 +1424,7 @@
     "ARscore": "61,7",
     "ARrank": 106,
     "ISscore": "8,2",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "57,9",
     "Y1": -0.4212196568426864,
     "Y2": 2.2647192992276923
@@ -1437,7 +1437,7 @@
     "ARscore": "60,9",
     "ARrank": 110,
     "ISscore": 21,
-    "ISrank": 507,
+    "International Student Rank": 507,
     "Overall Score": "57,3",
     "Y1": -0.6748437095615568,
     "Y2": 1.7144596179789802
@@ -1450,7 +1450,7 @@
     "ARscore": "27,8",
     "ARrank": 303,
     "ISscore": "79,4",
-    "ISrank": 150,
+    "International Student Rank": 150,
     "Overall Score": "57,1",
     "Y1": -0.7199837796996453,
     "Y2": -1.2824779957533197
@@ -1463,7 +1463,7 @@
     "ARscore": "89,3",
     "ARrank": 41,
     "ISscore": "3,9",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "56,8",
     "Y1": -1.053438759106139,
     "Y2": 2.8059474748835664
@@ -1476,7 +1476,7 @@
     "ARscore": "56,8",
     "ARrank": 125,
     "ISscore": 99,
-    "ISrank": 40,
+    "International Student Rank": 40,
     "Overall Score": "56,6",
     "Y1": -2.1634815707506183,
     "Y2": -1.2610932492927627
@@ -1489,7 +1489,7 @@
     "ARscore": 57,
     "ARrank": 123,
     "ISscore": "87,1",
-    "ISrank": 118,
+    "International Student Rank": 118,
     "Overall Score": "56,2",
     "Y1": -1.9015054056483047,
     "Y2": -0.7967465024240876
@@ -1502,7 +1502,7 @@
     "ARscore": 46,
     "ARrank": 167,
     "ISscore": "63,3",
-    "ISrank": 227,
+    "International Student Rank": 227,
     "Overall Score": "55,9",
     "Y1": -1.1189531326701778,
     "Y2": -0.24628075721078307
@@ -1515,7 +1515,7 @@
     "ARscore": "63,3",
     "ARrank": 101,
     "ISscore": "45,3",
-    "ISrank": 311,
+    "International Student Rank": 311,
     "Overall Score": "55,8",
     "Y1": -1.2982061382309904,
     "Y2": 0.6957556582827623
@@ -1528,7 +1528,7 @@
     "ARscore": "87,2",
     "ARrank": 49,
     "ISscore": "4,3",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "55,5",
     "Y1": -0.9581011424953283,
     "Y2": 2.744673440372368
@@ -1541,7 +1541,7 @@
     "ARscore": 50,
     "ARrank": 149,
     "ISscore": "99,5",
-    "ISrank": 32,
+    "International Student Rank": 32,
     "Overall Score": "55,4",
     "Y1": -1.95089768768143,
     "Y2": -1.4383494029605097
@@ -1554,7 +1554,7 @@
     "ARscore": "47,7",
     "ARrank": 158,
     "ISscore": "99,4",
-    "ISrank": 35,
+    "International Student Rank": 35,
     "Overall Score": "55,2",
     "Y1": -1.8696089814174484,
     "Y2": -1.4759513690931831
@@ -1567,7 +1567,7 @@
     "ARscore": "86,9",
     "ARrank": 50,
     "ISscore": "36,9",
-    "ISrank": 372,
+    "International Student Rank": 372,
     "Overall Score": "55,1",
     "Y1": -1.677390835096196,
     "Y2": 1.4253624378969743
@@ -1580,7 +1580,7 @@
     "ARscore": "65,1",
     "ARrank": 96,
     "ISscore": "43,3",
-    "ISrank": 325,
+    "International Student Rank": 325,
     "Overall Score": 55,
     "Y1": -1.2786992313687817,
     "Y2": 0.8012267193511482
@@ -1593,7 +1593,7 @@
     "ARscore": "58,5",
     "ARrank": 119,
     "ISscore": "16,3",
-    "ISrank": 572,
+    "International Student Rank": 572,
     "Overall Score": 55,
     "Y1": -0.376722935799593,
     "Y2": 1.9324291027427662
@@ -1606,7 +1606,7 @@
     "ARscore": "59,8",
     "ARrank": 113,
     "ISscore": "25,1",
-    "ISrank": 468,
+    "International Student Rank": 468,
     "Overall Score": "54,5",
     "Y1": -0.6766209551611648,
     "Y2": 1.47438999261479
@@ -1619,7 +1619,7 @@
     "ARscore": "37,3",
     "ARrank": 211,
     "ISscore": "86,6",
-    "ISrank": 122,
+    "International Student Rank": 122,
     "Overall Score": "54,4",
     "Y1": -1.2124842900374935,
     "Y2": -1.215741834295664
@@ -1632,7 +1632,7 @@
     "ARscore": "54,8",
     "ARrank": 133,
     "ISscore": "21,5",
-    "ISrank": 504,
+    "International Student Rank": 504,
     "Overall Score": "54,1",
     "Y1": -0.41309200761918685,
     "Y2": 1.5453606096235872
@@ -1645,7 +1645,7 @@
     "ARscore": "54,8",
     "ARrank": 134,
     "ISscore": 29,
-    "ISrank": 441,
+    "International Student Rank": 441,
     "Overall Score": "54,1",
     "Y1": -0.5980381071052537,
     "Y2": 1.2104128673810706
@@ -1658,7 +1658,7 @@
     "ARscore": "28,8",
     "ARrank": 290,
     "ISscore": "56,1",
-    "ISrank": 257,
+    "International Student Rank": 257,
     "Overall Score": "53,6",
     "Y1": -0.24651672705128808,
     "Y2": -0.5096570659152609
@@ -1671,7 +1671,7 @@
     "ARscore": "55,5",
     "ARrank": 131,
     "ISscore": "14,6",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "53,6",
     "Y1": -0.1778552729455967,
     "Y2": 1.9786899189103706
@@ -1684,7 +1684,7 @@
     "ARscore": "78,4",
     "ARrank": 66,
     "ISscore": "50,5",
-    "ISrank": 289,
+    "International Student Rank": 289,
     "Overall Score": "53,4",
     "Y1": -1.70927726224132,
     "Y2": 0.7658855222263727
@@ -1697,7 +1697,7 @@
     "ARscore": "38,8",
     "ARrank": 197,
     "ISscore": "98,1",
-    "ISrank": 51,
+    "International Student Rank": 51,
     "Overall Score": 53,
     "Y1": -1.4854076945179144,
     "Y2": -1.612419649245583
@@ -1710,7 +1710,7 @@
     "ARscore": 83,
     "ARrank": 59,
     "ISscore": "5,1",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "52,9",
     "Y1": -0.7847168952991405,
     "Y2": 2.634989703982753
@@ -1723,7 +1723,7 @@
     "ARscore": "64,6",
     "ARrank": 98,
     "ISscore": "20,8",
-    "ISrank": 508,
+    "International Student Rank": 508,
     "Overall Score": "52,9",
     "Y1": -0.6508454602380368,
     "Y2": 1.752609523367759
@@ -1736,7 +1736,7 @@
     "ARscore": "42,9",
     "ARrank": 182,
     "ISscore": "68,2",
-    "ISrank": 200,
+    "International Student Rank": 200,
     "Overall Score": "52,4",
     "Y1": -1.0163082299244872,
     "Y2": -0.5207020760338439
@@ -1749,7 +1749,7 @@
     "ARscore": "49,2",
     "ARrank": 151,
     "ISscore": "36,5",
-    "ISrank": 375,
+    "International Student Rank": 375,
     "Overall Score": "51,9",
     "Y1": -0.5738985301267562,
     "Y2": 0.7455637010598009
@@ -1762,7 +1762,7 @@
     "ARscore": "44,5",
     "ARrank": 176,
     "ISscore": "22,6",
-    "ISrank": 490,
+    "International Student Rank": 490,
     "Overall Score": "51,8",
     "Y1": -0.06513400637504646,
     "Y2": 1.2462012868149601
@@ -1775,7 +1775,7 @@
     "ARscore": "17,4",
     "ARrank": 473,
     "ISscore": "90,6",
-    "ISrank": 102,
+    "International Student Rank": 102,
     "Overall Score": "51,5",
     "Y1": -0.07600249918010081,
     "Y2": -2.1775412293421317
@@ -1788,7 +1788,7 @@
     "ARscore": "48,9",
     "ARrank": 152,
     "ISscore": "20,3",
-    "ISrank": 521,
+    "International Student Rank": 521,
     "Overall Score": "51,3",
     "Y1": -0.12555022488288978,
     "Y2": 1.4836066760115436
@@ -1801,7 +1801,7 @@
     "ARscore": "28,8",
     "ARrank": 288,
     "ISscore": "48,3",
-    "ISrank": 298,
+    "International Student Rank": 298,
     "Overall Score": "51,1",
     "Y1": -0.028355631967137515,
     "Y2": -0.2559138320811243
@@ -1814,7 +1814,7 @@
     "ARscore": "36,4",
     "ARrank": 216,
     "ISscore": "39,4",
-    "ISrank": 352,
+    "International Student Rank": 352,
     "Overall Score": "50,8",
     "Y1": -0.18383314801371708,
     "Y2": 0.31860034413875393
@@ -1827,7 +1827,7 @@
     "ARscore": "49,6",
     "ARrank": 150,
     "ISscore": "23,7",
-    "ISrank": 478,
+    "International Student Rank": 478,
     "Overall Score": "50,7",
     "Y1": -0.2375688322144059,
     "Y2": 1.2961630894661855
@@ -1840,7 +1840,7 @@
     "ARscore": "61,4",
     "ARrank": 107,
     "ISscore": "42,7",
-    "ISrank": 329,
+    "International Student Rank": 329,
     "Overall Score": "50,7",
     "Y1": -1.042026087808959,
     "Y2": 0.7189255264696174
@@ -1853,7 +1853,7 @@
     "ARscore": "38,8",
     "ARrank": 196,
     "ISscore": "79,1",
-    "ISrank": 153,
+    "International Student Rank": 153,
     "Overall Score": "50,7",
     "Y1": -1.0465332334681743,
     "Y2": -0.9627997816701505
@@ -1866,7 +1866,7 @@
     "ARscore": "56,4",
     "ARrank": 126,
     "ISscore": "64,9",
-    "ISrank": 221,
+    "International Student Rank": 221,
     "Overall Score": "50,4",
     "Y1": -1.3050544025867252,
     "Y2": -0.1304976478211957
@@ -1879,7 +1879,7 @@
     "ARscore": "47,5",
     "ARrank": 159,
     "ISscore": "79,8",
-    "ISrank": 147,
+    "International Student Rank": 147,
     "Overall Score": "50,3",
     "Y1": -1.323958974691979,
     "Y2": -0.814168155617333
@@ -1892,7 +1892,7 @@
     "ARscore": "39,5",
     "ARrank": 193,
     "ISscore": 42,
-    "ISrank": 335,
+    "International Student Rank": 335,
     "Overall Score": "50,1",
     "Y1": -0.34563535540046825,
     "Y2": 0.29826535824050526
@@ -1905,7 +1905,7 @@
     "ARscore": "52,3",
     "ARrank": 140,
     "ISscore": "60,3",
-    "ISrank": 240,
+    "International Student Rank": 240,
     "Overall Score": "49,9",
     "Y1": -1.0917062131200146,
     "Y2": -0.06972557960653195
@@ -1918,7 +1918,7 @@
     "ARscore": "27,2",
     "ARrank": 310,
     "ISscore": "47,4",
-    "ISrank": 303,
+    "International Student Rank": 303,
     "Overall Score": "49,6",
     "Y1": 0.12590353979257862,
     "Y2": -0.30331326042495205
@@ -1931,7 +1931,7 @@
     "ARscore": "52,9",
     "ARrank": 138,
     "ISscore": 68,
-    "ISrank": 201,
+    "International Student Rank": 201,
     "Overall Score": "49,5",
     "Y1": -1.2460686926824294,
     "Y2": -0.3252525894807824
@@ -1944,7 +1944,7 @@
     "ARscore": "33,4",
     "ARrank": 244,
     "ISscore": "72,7",
-    "ISrank": 175,
+    "International Student Rank": 175,
     "Overall Score": "49,5",
     "Y1": -0.6666087088403432,
     "Y2": -0.9536943248174021
@@ -1957,7 +1957,7 @@
     "ARscore": "43,5",
     "ARrank": 178,
     "ISscore": "37,3",
-    "ISrank": 370,
+    "International Student Rank": 370,
     "Overall Score": "49,4",
     "Y1": -0.33462689217353037,
     "Y2": 0.5671124883060644
@@ -1970,7 +1970,7 @@
     "ARscore": 40,
     "ARrank": 191,
     "ISscore": "94,6",
-    "ISrank": 83,
+    "International Student Rank": 83,
     "Overall Score": "49,4",
     "Y1": -1.33124878126866,
     "Y2": -1.4536298361227766
@@ -1983,7 +1983,7 @@
     "ARscore": "37,5",
     "ARrank": 208,
     "ISscore": "26,3",
-    "ISrank": 459,
+    "International Student Rank": 459,
     "Overall Score": "49,2",
     "Y1": 0.14049212208611075,
     "Y2": 0.9068946985599013
@@ -1996,7 +1996,7 @@
     "ARscore": "40,1",
     "ARrank": 189,
     "ISscore": "13,8",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "49,1",
     "Y1": 0.4162335341447418,
     "Y2": 1.6452415094366937
@@ -2009,7 +2009,7 @@
     "ARscore": "36,5",
     "ARrank": 215,
     "ISscore": "83,3",
-    "ISrank": 133,
+    "International Student Rank": 133,
     "Overall Score": "49,1",
     "Y1": -0.9818467195920096,
     "Y2": -1.1850198859711787
@@ -2022,7 +2022,7 @@
     "ARscore": "57,1",
     "ARrank": 121,
     "ISscore": "44,3",
-    "ISrank": 320,
+    "International Student Rank": 320,
     "Overall Score": "48,7",
     "Y1": -0.896186748914219,
     "Y2": 0.5623056253910763
@@ -2035,7 +2035,7 @@
     "ARscore": "66,9",
     "ARrank": 90,
     "ISscore": "21,5",
-    "ISrank": 505,
+    "International Student Rank": 505,
     "Overall Score": "48,7",
     "Y1": -0.6109380623493853,
     "Y2": 1.7380710053993271
@@ -2048,7 +2048,7 @@
     "ARscore": "35,5",
     "ARrank": 221,
     "ISscore": "91,2",
-    "ISrank": 98,
+    "International Student Rank": 98,
     "Overall Score": "48,6",
     "Y1": -1.0753111580732568,
     "Y2": -1.4693310434366094
@@ -2061,7 +2061,7 @@
     "ARscore": "63,2",
     "ARrank": 102,
     "ISscore": "25,7",
-    "ISrank": 462,
+    "International Student Rank": 462,
     "Overall Score": "48,5",
     "Y1": -0.6192595837926076,
     "Y2": 1.456369954821899
@@ -2074,7 +2074,7 @@
     "ARscore": "29,9",
     "ARrank": 273,
     "ISscore": "84,7",
-    "ISrank": 125,
+    "International Student Rank": 125,
     "Overall Score": "48,4",
     "Y1": -0.6987399343891049,
     "Y2": -1.4452943892277021
@@ -2087,7 +2087,7 @@
     "ARscore": "41,3",
     "ARrank": 187,
     "ISscore": "94,4",
-    "ISrank": 84,
+    "International Student Rank": 84,
     "Overall Score": "48,4",
     "Y1": -1.3351721777019079,
     "Y2": -1.4314717044391614
@@ -2100,7 +2100,7 @@
     "ARscore": "52,5",
     "ARrank": 139,
     "ISscore": "1,8",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "48,2",
     "Y1": 0.1901938695890354,
     "Y2": 2.1186662288992144
@@ -2113,7 +2113,7 @@
     "ARscore": "44,5",
     "ARrank": 175,
     "ISscore": "17,9",
-    "ISrank": 549,
+    "International Student Rank": 549,
     "Overall Score": 48,
     "Y1": 0.19097833742884968,
     "Y2": 1.4829004865528166
@@ -2126,7 +2126,7 @@
     "ARscore": 38,
     "ARrank": 203,
     "ISscore": "83,9",
-    "ISrank": 130,
+    "International Student Rank": 130,
     "Overall Score": 48,
     "Y1": -1.0251196180239215,
     "Y2": -1.1714096271417669
@@ -2139,7 +2139,7 @@
     "ARscore": "48,6",
     "ARrank": 154,
     "ISscore": "52,3",
-    "ISrank": 274,
+    "International Student Rank": 274,
     "Overall Score": "47,9",
     "Y1": -0.7816327159491759,
     "Y2": 0.09222185388226811
@@ -2152,7 +2152,7 @@
     "ARscore": "69,9",
     "ARrank": 81,
     "ISscore": "32,7",
-    "ISrank": 406,
+    "International Student Rank": 406,
     "Overall Score": "47,8",
     "Y1": -0.9570298758639234,
     "Y2": 1.2734276986572186
@@ -2165,7 +2165,7 @@
     "ARscore": "14,9",
     "ARrank": 501,
     "ISscore": "46,1",
-    "ISrank": 309,
+    "International Student Rank": 309,
     "Overall Score": "47,7",
     "Y1": 0.9866608502786066,
     "Y2": -0.8342281030339842
@@ -2178,7 +2178,7 @@
     "ARscore": "45,1",
     "ARrank": 172,
     "ISscore": "35,9",
-    "ISrank": 381,
+    "International Student Rank": 381,
     "Overall Score": "47,6",
     "Y1": -0.2974030684262029,
     "Y2": 0.6431187666632809
@@ -2191,7 +2191,7 @@
     "ARscore": "46,1",
     "ARrank": 166,
     "ISscore": "84,6",
-    "ISrank": 126,
+    "International Student Rank": 126,
     "Overall Score": "47,5",
     "Y1": -1.284929077476282,
     "Y2": -1.0247576727718688
@@ -2204,7 +2204,7 @@
     "ARscore": 35,
     "ARrank": 227,
     "ISscore": 2,
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "47,1",
     "Y1": 0.8035208140539707,
     "Y2": 1.706855138496745
@@ -2217,7 +2217,7 @@
     "ARscore": "30,8",
     "ARrank": 261,
     "ISscore": "14,5",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "46,8",
     "Y1": 0.8572175034488767,
     "Y2": 1.3460346870825382
@@ -2230,7 +2230,7 @@
     "ARscore": "46,8",
     "ARrank": 162,
     "ISscore": "1,6",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "46,6",
     "Y1": 0.41162612071287424,
     "Y2": 1.9907320249011449
@@ -2243,7 +2243,7 @@
     "ARscore": "28,6",
     "ARrank": 293,
     "ISscore": "96,5",
-    "ISrank": 69,
+    "International Student Rank": 69,
     "Overall Score": "46,6",
     "Y1": -0.7867692224727306,
     "Y2": -1.9119062824095479
@@ -2256,7 +2256,7 @@
     "ARscore": "21,5",
     "ARrank": 381,
     "ISscore": "77,1",
-    "ISrank": 159,
+    "International Student Rank": 159,
     "Overall Score": "46,6",
     "Y1": -0.03885919171650089,
     "Y2": -1.5469649797062306
@@ -2269,7 +2269,7 @@
     "ARscore": 19,
     "ARrank": 428,
     "ISscore": "23,3",
-    "ISrank": 482,
+    "International Student Rank": 482,
     "Overall Score": "46,4",
     "Y1": 1.2747348352411303,
     "Y2": 0.3153081976320546
@@ -2282,7 +2282,7 @@
     "ARscore": "60,8",
     "ARrank": 111,
     "ISscore": "93,4",
-    "ISrank": 87,
+    "International Student Rank": 87,
     "Overall Score": "46,4",
     "Y1": -1.8502559440954982,
     "Y2": -1.0245311400758796
@@ -2295,7 +2295,7 @@
     "ARscore": "48,6",
     "ARrank": 155,
     "ISscore": "65,6",
-    "ISrank": 215,
+    "International Student Rank": 215,
     "Overall Score": "46,4",
     "Y1": -0.9785068579965721,
     "Y2": -0.3527651885879665
@@ -2308,7 +2308,7 @@
     "ARscore": "33,2",
     "ARrank": 246,
     "ISscore": "22,2",
-    "ISrank": 494,
+    "International Student Rank": 494,
     "Overall Score": "46,2",
     "Y1": 0.5198911804950361,
     "Y2": 0.9311342935011474
@@ -2321,7 +2321,7 @@
     "ARscore": "34,1",
     "ARrank": 234,
     "ISscore": "71,6",
-    "ISrank": 182,
+    "International Student Rank": 182,
     "Overall Score": "46,1",
     "Y1": -0.5886390207520459,
     "Y2": -0.9117942612267937
@@ -2334,7 +2334,7 @@
     "ARscore": "27,3",
     "ARrank": 308,
     "ISscore": "96,9",
-    "ISrank": 65,
+    "International Student Rank": 65,
     "Overall Score": "45,9",
     "Y1": -0.7102655325769179,
     "Y2": -1.9855025284153307
@@ -2347,7 +2347,7 @@
     "ARscore": "72,1",
     "ARrank": 77,
     "ISscore": "14,6",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "45,9",
     "Y1": -0.42899346076240397,
     "Y2": 2.2256224021329856
@@ -2360,7 +2360,7 @@
     "ARscore": "48,2",
     "ARrank": 156,
     "ISscore": "17,8",
-    "ISrank": 550,
+    "International Student Rank": 550,
     "Overall Score": "45,9",
     "Y1": 0.12858480375480655,
     "Y2": 1.5544183758688752
@@ -2373,7 +2373,7 @@
     "ARscore": "21,9",
     "ARrank": 376,
     "ISscore": "37,4",
-    "ISrank": 368,
+    "International Student Rank": 368,
     "Overall Score": "45,8",
     "Y1": 0.7416135924831269,
     "Y2": -0.15588268699712102
@@ -2386,7 +2386,7 @@
     "ARscore": "47,4",
     "ARrank": 160,
     "ISscore": "38,4",
-    "ISrank": 358,
+    "International Student Rank": 358,
     "Overall Score": "45,5",
     "Y1": -0.3820047602643829,
     "Y2": 0.5609036649273064
@@ -2399,7 +2399,7 @@
     "ARscore": "24,4",
     "ARrank": 336,
     "ISscore": "89,3",
-    "ISrank": 109,
+    "International Student Rank": 109,
     "Overall Score": "45,5",
     "Y1": -0.40729314293018537,
     "Y2": -1.8069756743437744
@@ -2412,7 +2412,7 @@
     "ARscore": "20,6",
     "ARrank": 394,
     "ISscore": "72,2",
-    "ISrank": 180,
+    "International Student Rank": 180,
     "Overall Score": "45,4",
     "Y1": 0.13758981128016512,
     "Y2": -1.440135558372261
@@ -2425,7 +2425,7 @@
     "ARscore": "50,1",
     "ARrank": 148,
     "ISscore": "45,9",
-    "ISrank": 310,
+    "International Student Rank": 310,
     "Overall Score": "45,4",
     "Y1": -0.6267573246405256,
     "Y2": 0.33097552169183975
@@ -2438,7 +2438,7 @@
     "ARscore": "24,2",
     "ARrank": 338,
     "ISscore": "65,4",
-    "ISrank": 217,
+    "International Student Rank": 217,
     "Overall Score": "45,2",
     "Y1": 0.049482322854044095,
     "Y2": -1.0382129331451735
@@ -2451,7 +2451,7 @@
     "ARscore": "24,4",
     "ARrank": 335,
     "ISscore": "35,9",
-    "ISrank": 382,
+    "International Student Rank": 382,
     "Overall Score": "45,1",
     "Y1": 0.6360285433122441,
     "Y2": 0.02664391626745128
@@ -2464,7 +2464,7 @@
     "ARscore": "37,5",
     "ARrank": 207,
     "ISscore": "15,7",
-    "ISrank": 578,
+    "International Student Rank": 578,
     "Overall Score": 45,
     "Y1": 0.5736814939673384,
     "Y2": 1.4336686029533443
@@ -2477,7 +2477,7 @@
     "ARscore": "33,4",
     "ARrank": 243,
     "ISscore": "36,4",
-    "ISrank": 376,
+    "International Student Rank": 376,
     "Overall Score": "44,9",
     "Y1": 0.19088147978448403,
     "Y2": 0.30231259457952003
@@ -2490,7 +2490,7 @@
     "ARscore": "38,6",
     "ARrank": 201,
     "ISscore": 17,
-    "ISrank": 559,
+    "International Student Rank": 559,
     "Overall Score": "44,8",
     "Y1": 0.49479392968659425,
     "Y2": 1.3756648899369577
@@ -2503,7 +2503,7 @@
     "ARscore": 63,
     "ARrank": 103,
     "ISscore": "28,3",
-    "ISrank": 445,
+    "International Student Rank": 445,
     "Overall Score": "44,7",
     "Y1": -0.5617150732304204,
     "Y2": 1.3177561209396418
@@ -2516,7 +2516,7 @@
     "ARscore": "42,4",
     "ARrank": 184,
     "ISscore": "65,1",
-    "ISrank": 220,
+    "International Student Rank": 220,
     "Overall Score": "44,7",
     "Y1": -0.7157168292794447,
     "Y2": -0.4795714271880396
@@ -2529,7 +2529,7 @@
     "ARscore": "33,6",
     "ARrank": 240,
     "ISscore": "91,2",
-    "ISrank": 97,
+    "International Student Rank": 97,
     "Overall Score": "44,4",
     "Y1": -0.8673861798473349,
     "Y2": -1.5728385532427684
@@ -2542,7 +2542,7 @@
     "ARscore": "29,1",
     "ARrank": 281,
     "ISscore": 36,
-    "ISrank": 380,
+    "International Student Rank": 380,
     "Overall Score": "44,4",
     "Y1": 0.40692855583228665,
     "Y2": 0.18461180762502352
@@ -2555,7 +2555,7 @@
     "ARscore": "50,1",
     "ARrank": 147,
     "ISscore": "27,5",
-    "ISrank": 449,
+    "International Student Rank": 449,
     "Overall Score": "44,3",
     "Y1": -0.16447787042993506,
     "Y2": 1.0925393013462363
@@ -2568,7 +2568,7 @@
     "ARscore": "51,1",
     "ARrank": 146,
     "ISscore": "11,1",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "44,1",
     "Y1": 0.2546612609475026,
     "Y2": 1.8759964555504103
@@ -2581,7 +2581,7 @@
     "ARscore": "30,3",
     "ARrank": 267,
     "ISscore": "91,4",
-    "ISrank": 94,
+    "International Student Rank": 94,
     "Overall Score": 44,
     "Y1": -0.7231711518216798,
     "Y2": -1.6866845216701816
@@ -2594,7 +2594,7 @@
     "ARscore": "51,8",
     "ARrank": 143,
     "ISscore": "17,5",
-    "ISrank": 554,
+    "International Student Rank": 554,
     "Overall Score": "43,9",
     "Y1": 0.08982162002579154,
     "Y2": 1.6256477054352805
@@ -2607,7 +2607,7 @@
     "ARscore": "45,6",
     "ARrank": 169,
     "ISscore": "44,8",
-    "ISrank": 314,
+    "International Student Rank": 314,
     "Overall Score": "43,9",
     "Y1": -0.4201907714322304,
     "Y2": 0.2516850138327928
@@ -2620,7 +2620,7 @@
     "ARscore": 41,
     "ARrank": 188,
     "ISscore": "74,4",
-    "ISrank": 170,
+    "International Student Rank": 170,
     "Overall Score": "43,8",
     "Y1": -0.8366973928928556,
     "Y2": -0.8398962854263179
@@ -2633,7 +2633,7 @@
     "ARscore": "59,1",
     "ARrank": 115,
     "ISscore": "14,5",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "43,5",
     "Y1": -0.00478688839355079,
     "Y2": 1.9691350949142774
@@ -2646,7 +2646,7 @@
     "ARscore": "29,4",
     "ARrank": 279,
     "ISscore": "28,4",
-    "ISrank": 444,
+    "International Student Rank": 444,
     "Overall Score": "43,3",
     "Y1": 0.6172684581974274,
     "Y2": 0.5205433142882406
@@ -2659,7 +2659,7 @@
     "ARscore": "65,6",
     "ARrank": 93,
     "ISscore": "5,1",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "43,3",
     "Y1": -0.08596874027294221,
     "Y2": 2.269117959215718
@@ -2672,7 +2672,7 @@
     "ARscore": "65,6",
     "ARrank": 94,
     "ISscore": "29,5",
-    "ISrank": 433,
+    "International Student Rank": 433,
     "Overall Score": "43,2",
     "Y1": -0.6276440588108219,
     "Y2": 1.2959129977577468
@@ -2685,7 +2685,7 @@
     "ARscore": "45,9",
     "ARrank": 168,
     "ISscore": "37,5",
-    "ISrank": 367,
+    "International Student Rank": 367,
     "Overall Score": 43,
     "Y1": -0.23475817965532406,
     "Y2": 0.5480992966936733
@@ -2698,7 +2698,7 @@
     "ARscore": "26,7",
     "ARrank": 312,
     "ISscore": 43,
-    "ISrank": 328,
+    "International Student Rank": 328,
     "Overall Score": "42,6",
     "Y1": 0.4290206512429581,
     "Y2": -0.21636281953936176
@@ -2711,7 +2711,7 @@
     "ARscore": "68,8",
     "ARrank": 84,
     "ISscore": "8,3",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "42,6",
     "Y1": -0.18636947423235037,
     "Y2": 2.260450284587056
@@ -2724,7 +2724,7 @@
     "ARscore": "56,1",
     "ARrank": 127,
     "ISscore": "34,5",
-    "ISrank": 390,
+    "International Student Rank": 390,
     "Overall Score": "42,6",
     "Y1": -0.4629766403663485,
     "Y2": 0.8811307361315266
@@ -2737,7 +2737,7 @@
     "ARscore": "21,8",
     "ARrank": 377,
     "ISscore": 100,
-    "ISrank": 15,
+    "International Student Rank": 15,
     "Overall Score": "42,5",
     "Y1": -0.4300814488519003,
     "Y2": -2.4397806996097784
@@ -2750,7 +2750,7 @@
     "ARscore": "41,6",
     "ARrank": 186,
     "ISscore": "61,6",
-    "ISrank": 233,
+    "International Student Rank": 233,
     "Overall Score": "42,3",
     "Y1": -0.5674433799884208,
     "Y2": -0.4091931827832043
@@ -2763,7 +2763,7 @@
     "ARscore": "30,3",
     "ARrank": 266,
     "ISscore": "20,8",
-    "ISrank": 509,
+    "International Student Rank": 509,
     "Overall Score": "42,3",
     "Y1": 0.7834604926466868,
     "Y2": 0.8911738742768455
@@ -2776,7 +2776,7 @@
     "ARscore": "46,4",
     "ARrank": 165,
     "ISscore": "37,7",
-    "ISrank": 364,
+    "International Student Rank": 364,
     "Overall Score": 42,
     "Y1": -0.23180325009585995,
     "Y2": 0.5388290216466428
@@ -2789,7 +2789,7 @@
     "ARscore": "31,2",
     "ARrank": 259,
     "ISscore": "82,3",
-    "ISrank": 138,
+    "International Student Rank": 138,
     "Overall Score": 42,
     "Y1": -0.5345609785777342,
     "Y2": -1.371322616388924
@@ -2802,7 +2802,7 @@
     "ARscore": "29,7",
     "ARrank": 274,
     "ISscore": "51,9",
-    "ISrank": 281,
+    "International Student Rank": 281,
     "Overall Score": 42,
     "Y1": 0.10475973158306964,
     "Y2": -0.4146207057960424
@@ -2815,7 +2815,7 @@
     "ARscore": "69,9",
     "ARrank": 82,
     "ISscore": "9,5",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "41,8",
     "Y1": -0.20293962886700478,
     "Y2": 2.2483237487076044
@@ -2828,7 +2828,7 @@
     "ARscore": "28,8",
     "ARrank": 287,
     "ISscore": "76,1",
-    "ISrank": 163,
+    "International Student Rank": 163,
     "Overall Score": "41,4",
     "Y1": -0.28290488697491756,
     "Y2": -1.2727330068550835
@@ -2841,7 +2841,7 @@
     "ARscore": "28,3",
     "ARrank": 295,
     "ISscore": "86,9",
-    "ISrank": 120,
+    "International Student Rank": 120,
     "Overall Score": "41,4",
     "Y1": -0.4386600978317397,
     "Y2": -1.6298102827696088
@@ -2854,7 +2854,7 @@
     "ARscore": "33,4",
     "ARrank": 245,
     "ISscore": 23,
-    "ISrank": 487,
+    "International Student Rank": 487,
     "Overall Score": "41,3",
     "Y1": 0.6315357610077827,
     "Y2": 0.8562048421759703
@@ -2867,7 +2867,7 @@
     "ARscore": 25,
     "ARrank": 329,
     "ISscore": 99,
-    "ISrank": 41,
+    "International Student Rank": 41,
     "Overall Score": 41,
     "Y1": -0.5310130440021861,
     "Y2": -2.213756778095781
@@ -2880,7 +2880,7 @@
     "ARscore": "43,6",
     "ARrank": 177,
     "ISscore": "59,5",
-    "ISrank": 244,
+    "International Student Rank": 244,
     "Overall Score": 41,
     "Y1": -0.5531887211365502,
     "Y2": -0.3044043431600686
@@ -2893,7 +2893,7 @@
     "ARscore": "44,8",
     "ARrank": 174,
     "ISscore": "25,2",
-    "ISrank": 467,
+    "International Student Rank": 467,
     "Overall Score": "40,9",
     "Y1": 0.16513162965017053,
     "Y2": 1.0392637085511693
@@ -2906,7 +2906,7 @@
     "ARscore": "22,6",
     "ARrank": 365,
     "ISscore": "42,7",
-    "ISrank": 330,
+    "International Student Rank": 330,
     "Overall Score": "40,9",
     "Y1": 0.714010614733171,
     "Y2": -0.38235701947911743
@@ -2919,7 +2919,7 @@
     "ARscore": "23,6",
     "ARrank": 348,
     "ISscore": "91,2",
-    "ISrank": 99,
+    "International Student Rank": 99,
     "Overall Score": "40,9",
     "Y1": -0.2645858633361493,
     "Y2": -1.9489314147434333
@@ -2932,7 +2932,7 @@
     "ARscore": "35,1",
     "ARrank": 225,
     "ISscore": "46,4",
-    "ISrank": 306,
+    "International Student Rank": 306,
     "Overall Score": "40,8",
     "Y1": -0.003273620019121162,
     "Y2": -0.07591197189309085
@@ -2945,7 +2945,7 @@
     "ARscore": 29,
     "ARrank": 285,
     "ISscore": 98,
-    "ISrank": 52,
+    "International Student Rank": 52,
     "Overall Score": "40,7",
     "Y1": -0.6953741544028843,
     "Y2": -2.021837262761247
@@ -2958,7 +2958,7 @@
     "ARscore": "30,1",
     "ARrank": 269,
     "ISscore": "58,8",
-    "ISrank": 251,
+    "International Student Rank": 251,
     "Overall Score": "40,5",
     "Y1": 0.0006583262389932913,
     "Y2": -0.6333502179424111
@@ -2971,7 +2971,7 @@
     "ARscore": "33,4",
     "ARrank": 241,
     "ISscore": "61,6",
-    "ISrank": 234,
+    "International Student Rank": 234,
     "Overall Score": "40,4",
     "Y1": -0.198445270199897,
     "Y2": -0.6390478995862777
@@ -2984,7 +2984,7 @@
     "ARscore": "34,3",
     "ARrank": 233,
     "ISscore": "6,7",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "40,3",
     "Y1": 0.977003758481771,
     "Y2": 1.5374218549774097
@@ -2997,7 +2997,7 @@
     "ARscore": "24,9",
     "ARrank": 330,
     "ISscore": "63,9",
-    "ISrank": 223,
+    "International Student Rank": 223,
     "Overall Score": 40,
     "Y1": 0.1867177120964234,
     "Y2": -1.0119667258103298
@@ -3010,7 +3010,7 @@
     "ARscore": "35,6",
     "ARrank": 220,
     "ISscore": "66,9",
-    "ISrank": 209,
+    "International Student Rank": 209,
     "Overall Score": 40,
     "Y1": -0.3883035864726376,
     "Y2": -0.7469252677911601
@@ -3023,7 +3023,7 @@
     "ARscore": "38,6",
     "ARrank": 200,
     "ISscore": "14,9",
-    "ISrank": 594,
+    "International Student Rank": 594,
     "Overall Score": 40,
     "Y1": 0.7104024439709247,
     "Y2": 1.4816154386706184
@@ -3036,7 +3036,7 @@
     "ARscore": "37,8",
     "ARrank": 205,
     "ISscore": "29,4",
-    "ISrank": 435,
+    "International Student Rank": 435,
     "Overall Score": "39,4",
     "Y1": 0.3297028564654233,
     "Y2": 0.699337657476836
@@ -3049,7 +3049,7 @@
     "ARscore": "35,3",
     "ARrank": 223,
     "ISscore": "31,8",
-    "ISrank": 412,
+    "International Student Rank": 412,
     "Overall Score": "39,2",
     "Y1": 0.369483625848906,
     "Y2": 0.5138834929321736
@@ -3062,7 +3062,7 @@
     "ARscore": "19,3",
     "ARrank": 422,
     "ISscore": "97,9",
-    "ISrank": 54,
+    "International Student Rank": 54,
     "Overall Score": "39,1",
     "Y1": -0.06744159425947437,
     "Y2": -2.437913935328884
@@ -3075,7 +3075,7 @@
     "ARscore": "21,1",
     "ARrank": 387,
     "ISscore": "67,8",
-    "ISrank": 202,
+    "International Student Rank": 202,
     "Overall Score": 39,
     "Y1": 0.37370739916668017,
     "Y2": -1.325761000519858
@@ -3088,7 +3088,7 @@
     "ARscore": "19,8",
     "ARrank": 412,
     "ISscore": "41,4",
-    "ISrank": 337,
+    "International Student Rank": 337,
     "Overall Score": 39,
     "Y1": 0.9819973725253145,
     "Y2": -0.48764837361421876
@@ -3101,7 +3101,7 @@
     "ARscore": "33,7",
     "ARrank": 238,
     "ISscore": "23,7",
-    "ISrank": 480,
+    "International Student Rank": 480,
     "Overall Score": "38,9",
     "Y1": 0.6542289248715017,
     "Y2": 0.819216804962608
@@ -3114,7 +3114,7 @@
     "ARscore": "31,3",
     "ARrank": 257,
     "ISscore": "91,7",
-    "ISrank": 92,
+    "International Student Rank": 92,
     "Overall Score": "38,9",
     "Y1": -0.6330132741515726,
     "Y2": -1.7098684865411025
@@ -3127,7 +3127,7 @@
     "ARscore": 29,
     "ARrank": 284,
     "ISscore": "43,8",
-    "ISrank": 323,
+    "International Student Rank": 323,
     "Overall Score": "38,9",
     "Y1": 0.392622942454785,
     "Y2": -0.1915898877221691
@@ -3140,7 +3140,7 @@
     "ARscore": 33,
     "ARrank": 249,
     "ISscore": "60,1",
-    "ISrank": 241,
+    "International Student Rank": 241,
     "Overall Score": "38,8",
     "Y1": -0.09458476026049446,
     "Y2": -0.6255636876572656
@@ -3153,7 +3153,7 @@
     "ARscore": "21,1",
     "ARrank": 388,
     "ISscore": "41,2",
-    "ISrank": 341,
+    "International Student Rank": 341,
     "Overall Score": "38,8",
     "Y1": 0.9029409408454905,
     "Y2": -0.406434624908345
@@ -3166,7 +3166,7 @@
     "ARscore": "28,6",
     "ARrank": 292,
     "ISscore": "51,2",
-    "ISrank": 285,
+    "International Student Rank": 285,
     "Overall Score": "38,7",
     "Y1": 0.2852026752301273,
     "Y2": -0.4700962423015857
@@ -3179,7 +3179,7 @@
     "ARscore": "39,9",
     "ARrank": 192,
     "ISscore": "42,3",
-    "ISrank": 334,
+    "International Student Rank": 334,
     "Overall Score": "38,7",
     "Y1": -0.03799405055892003,
     "Y2": 0.1962023414616527
@@ -3192,7 +3192,7 @@
     "ARscore": "40,1",
     "ARrank": 190,
     "ISscore": "18,2",
-    "ISrank": 543,
+    "International Student Rank": 543,
     "Overall Score": "38,5",
     "Y1": 0.5729850342284702,
     "Y2": 1.2905109170332836
@@ -3205,7 +3205,7 @@
     "ARscore": "31,5",
     "ARrank": 255,
     "ISscore": "9,9",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "38,4",
     "Y1": 1.1133118132029314,
     "Y2": 1.379833332037856
@@ -3218,7 +3218,7 @@
     "ARscore": "23,7",
     "ARrank": 346,
     "ISscore": "97,2",
-    "ISrank": 63,
+    "International Student Rank": 63,
     "Overall Score": "38,3",
     "Y1": -0.324031229705939,
     "Y2": -2.1887202332419196
@@ -3231,7 +3231,7 @@
     "ARscore": "52,2",
     "ARrank": 141,
     "ISscore": "6,4",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "38,2",
     "Y1": 0.4363082424595444,
     "Y2": 1.9363229027990756
@@ -3244,7 +3244,7 @@
     "ARscore": 30,
     "ARrank": 271,
     "ISscore": "59,2",
-    "ISrank": 248,
+    "International Student Rank": 248,
     "Overall Score": 38,
     "Y1": 0.06974233286710124,
     "Y2": -0.6774891212616979
@@ -3257,7 +3257,7 @@
     "ARscore": "30,2",
     "ARrank": 268,
     "ISscore": "91,5",
-    "ISrank": 93,
+    "International Student Rank": 93,
     "Overall Score": 38,
     "Y1": -0.551192497797963,
     "Y2": -1.7477494294105202
@@ -3270,7 +3270,7 @@
     "ARscore": "33,9",
     "ARrank": 237,
     "ISscore": "89,8",
-    "ISrank": 106,
+    "International Student Rank": 106,
     "Overall Score": 38,
     "Y1": -0.6700744977892974,
     "Y2": -1.5654101373186053
@@ -3283,7 +3283,7 @@
     "ARscore": "20,5",
     "ARrank": 399,
     "ISscore": "59,5",
-    "ISrank": 245,
+    "International Student Rank": 245,
     "Overall Score": "37,9",
     "Y1": 0.6126194763812611,
     "Y2": -1.0814164767927952
@@ -3296,7 +3296,7 @@
     "ARscore": "34,4",
     "ARrank": 232,
     "ISscore": "14,9",
-    "ISrank": 593,
+    "International Student Rank": 593,
     "Overall Score": "37,9",
     "Y1": 0.9397559316077023,
     "Y2": 1.341154565016597
@@ -3309,7 +3309,7 @@
     "ARscore": "46,6",
     "ARrank": 164,
     "ISscore": "27,6",
-    "ISrank": 448,
+    "International Student Rank": 448,
     "Overall Score": "37,7",
     "Y1": 0.134854398266397,
     "Y2": 0.9511489067269027
@@ -3322,7 +3322,7 @@
     "ARscore": "25,1",
     "ARrank": 327,
     "ISscore": "11,8",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "37,6",
     "Y1": 1.4443151292109706,
     "Y2": 1.1060197626833514
@@ -3335,7 +3335,7 @@
     "ARscore": "23,4",
     "ARrank": 353,
     "ISscore": "31,7",
-    "ISrank": 414,
+    "International Student Rank": 414,
     "Overall Score": "37,5",
     "Y1": 1.021647166786806,
     "Y2": 0.08557354885946246
@@ -3348,7 +3348,7 @@
     "ARscore": "37,4",
     "ARrank": 209,
     "ISscore": "12,5",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "37,5",
     "Y1": 0.8672740792022882,
     "Y2": 1.492366639108973
@@ -3361,7 +3361,7 @@
     "ARscore": "44,8",
     "ARrank": 173,
     "ISscore": "15,7",
-    "ISrank": 579,
+    "International Student Rank": 579,
     "Overall Score": "37,3",
     "Y1": 0.5576333651717991,
     "Y2": 1.5293268374920845
@@ -3374,7 +3374,7 @@
     "ARscore": "20,5",
     "ARrank": 398,
     "ISscore": "59,1",
-    "ISrank": 250,
+    "International Student Rank": 250,
     "Overall Score": "37,1",
     "Y1": 0.6452455817470251,
     "Y2": -1.0635689525624994
@@ -3387,7 +3387,7 @@
     "ARscore": "26,7",
     "ARrank": 313,
     "ISscore": "62,8",
-    "ISrank": 229,
+    "International Student Rank": 229,
     "Overall Score": "37,1",
     "Y1": 0.20784078694790845,
     "Y2": -0.9405225165561595
@@ -3400,7 +3400,7 @@
     "ARscore": "34,9",
     "ARrank": 228,
     "ISscore": "33,7",
-    "ISrank": 398,
+    "International Student Rank": 398,
     "Overall Score": "37,1",
     "Y1": 0.4067403455968372,
     "Y2": 0.4015486561996529
@@ -3413,7 +3413,7 @@
     "ARscore": 10,
     "ARrank": 501,
     "ISscore": 100,
-    "ISrank": 21,
+    "International Student Rank": 21,
     "Overall Score": 37,
     "Y1": 0.3163943671592901,
     "Y2": -2.8771667509721475
@@ -3426,7 +3426,7 @@
     "ARscore": "35,2",
     "ARrank": 224,
     "ISscore": "1,6",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "36,7",
     "Y1": 1.08996948759369,
     "Y2": 1.6316858342464902
@@ -3439,7 +3439,7 @@
     "ARscore": "23,8",
     "ARrank": 344,
     "ISscore": "35,4",
-    "ISrank": 385,
+    "International Student Rank": 385,
     "Overall Score": "36,7",
     "Y1": 0.9217391053394004,
     "Y2": -0.05522636398211143
@@ -3452,7 +3452,7 @@
     "ARscore": "22,7",
     "ARrank": 362,
     "ISscore": "91,8",
-    "ISrank": 91,
+    "International Student Rank": 91,
     "Overall Score": "36,7",
     "Y1": -0.10836882584894217,
     "Y2": -2.0623284057091187
@@ -3465,7 +3465,7 @@
     "ARscore": "23,8",
     "ARrank": 345,
     "ISscore": "72,6",
-    "ISrank": 176,
+    "International Student Rank": 176,
     "Overall Score": "36,7",
     "Y1": 0.17127508820468126,
     "Y2": -1.3929879768044888
@@ -3478,7 +3478,7 @@
     "ARscore": "25,5",
     "ARrank": 326,
     "ISscore": "79,6",
-    "ISrank": 148,
+    "International Student Rank": 148,
     "Overall Score": "36,6",
     "Y1": -0.03501161327470435,
     "Y2": -1.5495936087958184
@@ -3491,7 +3491,7 @@
     "ARscore": "20,2",
     "ARrank": 406,
     "ISscore": "84,4",
-    "ISrank": 127,
+    "International Student Rank": 127,
     "Overall Score": "36,4",
     "Y1": 0.21442426663704411,
     "Y2": -1.940552120873513
@@ -3504,7 +3504,7 @@
     "ARscore": "34,6",
     "ARrank": 231,
     "ISscore": "27,4",
-    "ISrank": 450,
+    "International Student Rank": 450,
     "Overall Score": "36,4",
     "Y1": 0.5970768541467208,
     "Y2": 0.6621157111450031
@@ -3517,7 +3517,7 @@
     "ARscore": "58,6",
     "ARrank": 118,
     "ISscore": "3,3",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "36,3",
     "Y1": 0.33569504403226036,
     "Y2": 2.103874401787036
@@ -3530,7 +3530,7 @@
     "ARscore": "51,6",
     "ARrank": 144,
     "ISscore": 3,
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "36,1",
     "Y1": 0.5517307582889482,
     "Y2": 1.9681298528449842
@@ -3543,7 +3543,7 @@
     "ARscore": "18,4",
     "ARrank": 447,
     "ISscore": "63,6",
-    "ISrank": 225,
+    "International Student Rank": 225,
     "Overall Score": "36,1",
     "Y1": 0.7638233565151723,
     "Y2": -1.3632979590421994
@@ -3556,7 +3556,7 @@
     "ARscore": "18,3",
     "ARrank": 448,
     "ISscore": "80,4",
-    "ISrank": 146,
+    "International Student Rank": 146,
     "Overall Score": 36,
     "Y1": 0.4577168641947429,
     "Y2": -1.9238498236624375
@@ -3569,7 +3569,7 @@
     "ARscore": "58,9",
     "ARrank": 116,
     "ISscore": "1,6",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "35,9",
     "Y1": 0.35356714800981753,
     "Y2": 2.1401914092018814
@@ -3582,7 +3582,7 @@
     "ARscore": 36,
     "ARrank": 219,
     "ISscore": "29,5",
-    "ISrank": 431,
+    "International Student Rank": 431,
     "Overall Score": "35,9",
     "Y1": 0.49527152272049124,
     "Y2": 0.6028940347944688
@@ -3595,7 +3595,7 @@
     "ARscore": "15,8",
     "ARrank": 501,
     "ISscore": "89,7",
-    "ISrank": 107,
+    "International Student Rank": 107,
     "Overall Score": "35,8",
     "Y1": 0.4978508772408423,
     "Y2": -2.3627603119621696
@@ -3608,7 +3608,7 @@
     "ARscore": "19,2",
     "ARrank": 424,
     "ISscore": "82,9",
-    "ISrank": 134,
+    "International Student Rank": 134,
     "Overall Score": "35,8",
     "Y1": 0.33010933128416914,
     "Y2": -1.946898345300429
@@ -3621,7 +3621,7 @@
     "ARscore": "19,1",
     "ARrank": 426,
     "ISscore": "76,9",
-    "ISrank": 161,
+    "International Student Rank": 161,
     "Overall Score": "35,7",
     "Y1": 0.4505433069133418,
     "Y2": -1.7582729527023695
@@ -3634,7 +3634,7 @@
     "ARscore": 32,
     "ARrank": 254,
     "ISscore": "38,3",
-    "ISrank": 362,
+    "International Student Rank": 362,
     "Overall Score": "35,7",
     "Y1": 0.465476556951275,
     "Y2": 0.10265317688212659
@@ -3647,7 +3647,7 @@
     "ARscore": "48,6",
     "ARrank": 153,
     "ISscore": "36,1",
-    "ISrank": 379,
+    "International Student Rank": 379,
     "Overall Score": "35,7",
     "Y1": -0.08671165240524623,
     "Y2": 0.6112296562395622
@@ -3660,7 +3660,7 @@
     "ARscore": 20,
     "ARrank": 409,
     "ISscore": "99,2",
-    "ISrank": 38,
+    "International Student Rank": 38,
     "Overall Score": "35,7",
     "Y1": -0.06311523558153412,
     "Y2": -2.504726469184604
@@ -3673,7 +3673,7 @@
     "ARscore": "32,5",
     "ARrank": 252,
     "ISscore": "1,4",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "35,6",
     "Y1": 1.2549580012221433,
     "Y2": 1.5333789508546982
@@ -3686,7 +3686,7 @@
     "ARscore": "39,4",
     "ARrank": 194,
     "ISscore": "25,6",
-    "ISrank": 464,
+    "International Student Rank": 464,
     "Overall Score": "35,6",
     "Y1": 0.46556352857884575,
     "Y2": 0.8683850160213857
@@ -3699,7 +3699,7 @@
     "ARscore": "22,1",
     "ARrank": 374,
     "ISscore": "11,6",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "35,3",
     "Y1": 1.7037246156386063,
     "Y2": 0.9528214450553771
@@ -3712,7 +3712,7 @@
     "ARscore": 26,
     "ARrank": 319,
     "ISscore": "7,5",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "35,3",
     "Y1": 1.51487469670176,
     "Y2": 1.1945420871548218
@@ -3725,7 +3725,7 @@
     "ARscore": "18,6",
     "ARrank": 439,
     "ISscore": "93,6",
-    "ISrank": 86,
+    "International Student Rank": 86,
     "Overall Score": "35,2",
     "Y1": 0.20585816007616728,
     "Y2": -2.338807043671045
@@ -3738,7 +3738,7 @@
     "ARscore": "27,5",
     "ARrank": 306,
     "ISscore": 100,
-    "ISrank": 17,
+    "International Student Rank": 17,
     "Overall Score": "35,1",
     "Y1": -0.5293006176233681,
     "Y2": -2.2782797287520977
@@ -3751,7 +3751,7 @@
     "ARscore": "52,2",
     "ARrank": 142,
     "ISscore": "29,8",
-    "ISrank": 428,
+    "International Student Rank": 428,
     "Overall Score": 35,
     "Y1": -0.01558280491146588,
     "Y2": 0.9394108068028395
@@ -3764,7 +3764,7 @@
     "ARscore": "26,3",
     "ARrank": 317,
     "ISscore": "54,3",
-    "ISrank": 266,
+    "International Student Rank": 266,
     "Overall Score": 35,
     "Y1": 0.4400275205569186,
     "Y2": -0.6999389532216724
@@ -3777,7 +3777,7 @@
     "ARscore": "29,6",
     "ARrank": 277,
     "ISscore": "27,1",
-    "ISrank": 453,
+    "International Student Rank": 453,
     "Overall Score": "34,9",
     "Y1": 0.874956795593304,
     "Y2": 0.5051504285637096
@@ -3790,7 +3790,7 @@
     "ARscore": "37,8",
     "ARrank": 204,
     "ISscore": "12,8",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "34,8",
     "Y1": 0.9186293622150716,
     "Y2": 1.4784819017068203
@@ -3803,7 +3803,7 @@
     "ARscore": "14,5",
     "ARrank": 501,
     "ISscore": "7,5",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "34,8",
     "Y1": 2.270834809631843,
     "Y2": 0.6621244056552784
@@ -3816,7 +3816,7 @@
     "ARscore": "36,1",
     "ARrank": 218,
     "ISscore": "5,5",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "34,8",
     "Y1": 1.0682717152792347,
     "Y2": 1.5653089127054058
@@ -3829,7 +3829,7 @@
     "ARscore": "26,5",
     "ARrank": 314,
     "ISscore": 1,
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "34,7",
     "Y1": 1.5767328953958197,
     "Y2": 1.3281508706318563
@@ -3842,7 +3842,7 @@
     "ARscore": "35,4",
     "ARrank": 222,
     "ISscore": "9,3",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "34,7",
     "Y1": 1.055686466717966,
     "Y2": 1.476038350110954
@@ -3855,7 +3855,7 @@
     "ARscore": "42,2",
     "ARrank": 185,
     "ISscore": "59,4",
-    "ISrank": 246,
+    "International Student Rank": 246,
     "Overall Score": "34,7",
     "Y1": -0.3206904866409369,
     "Y2": -0.3858008393166169
@@ -3868,7 +3868,7 @@
     "ARscore": "32,8",
     "ARrank": 250,
     "ISscore": "26,2",
-    "ISrank": 460,
+    "International Student Rank": 460,
     "Overall Score": "34,6",
     "Y1": 0.7667548383549128,
     "Y2": 0.6369755892938046
@@ -3881,7 +3881,7 @@
     "ARscore": "19,7",
     "ARrank": 417,
     "ISscore": "11,7",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "34,5",
     "Y1": 1.8946009708322198,
     "Y2": 0.8229494683492605
@@ -3894,7 +3894,7 @@
     "ARscore": "23,3",
     "ARrank": 354,
     "ISscore": "26,8",
-    "ISrank": 455,
+    "International Student Rank": 455,
     "Overall Score": "34,5",
     "Y1": 1.233850803397437,
     "Y2": 0.2727767772697451
@@ -3907,7 +3907,7 @@
     "ARscore": "55,8",
     "ARrank": 128,
     "ISscore": "75,6",
-    "ISrank": 167,
+    "International Student Rank": 167,
     "Overall Score": "34,5",
     "Y1": -1.0436389341804424,
     "Y2": -0.6474381283543723
@@ -3920,7 +3920,7 @@
     "ARscore": "15,1",
     "ARrank": 501,
     "ISscore": "96,8",
-    "ISrank": 66,
+    "International Student Rank": 66,
     "Overall Score": "34,4",
     "Y1": 0.40504512190049213,
     "Y2": -2.641764436598984
@@ -3933,7 +3933,7 @@
     "ARscore": "19,9",
     "ARrank": 411,
     "ISscore": "19,1",
-    "ISrank": 536,
+    "International Student Rank": 536,
     "Overall Score": "34,4",
     "Y1": 1.6861474969251677,
     "Y2": 0.5003164631317594
@@ -3946,7 +3946,7 @@
     "ARscore": "19,8",
     "ARrank": 414,
     "ISscore": "20,7",
-    "ISrank": 512,
+    "International Student Rank": 512,
     "Overall Score": "34,4",
     "Y1": 1.6384192943851215,
     "Y2": 0.38953352142160735
@@ -3959,7 +3959,7 @@
     "ARscore": "15,4",
     "ARrank": 501,
     "ISscore": "35,7",
-    "ISrank": 383,
+    "International Student Rank": 383,
     "Overall Score": "34,3",
     "Y1": 1.5942886502614404,
     "Y2": -0.5253447992763663
@@ -3972,7 +3972,7 @@
     "ARscore": "15,4",
     "ARrank": 501,
     "ISscore": "98,6",
-    "ISrank": 48,
+    "International Student Rank": 48,
     "Overall Score": "34,2",
     "Y1": 0.3550021197700523,
     "Y2": -2.728571860229489
@@ -3985,7 +3985,7 @@
     "ARscore": "36,9",
     "ARrank": 213,
     "ISscore": "30,4",
-    "ISrank": 426,
+    "International Student Rank": 426,
     "Overall Score": "34,2",
     "Y1": 0.4910085607374233,
     "Y2": 0.5794418191378161
@@ -3998,7 +3998,7 @@
     "ARscore": "26,3",
     "ARrank": 316,
     "ISscore": "73,4",
-    "ISrank": 172,
+    "International Student Rank": 172,
     "Overall Score": "34,1",
     "Y1": 0.09877491379324332,
     "Y2": -1.3509499105157607
@@ -4011,7 +4011,7 @@
     "ARscore": "28,1",
     "ARrank": 299,
     "ISscore": "68,7",
-    "ISrank": 197,
+    "International Student Rank": 197,
     "Overall Score": 34,
     "Y1": 0.11136314768923496,
     "Y2": -1.1293457991581388
@@ -4024,7 +4024,7 @@
     "ARscore": "24,1",
     "ARrank": 339,
     "ISscore": 32,
-    "ISrank": 410,
+    "International Student Rank": 410,
     "Overall Score": "33,7",
     "Y1": 1.0656701694405064,
     "Y2": 0.07272075331323447
@@ -4037,7 +4037,7 @@
     "ARscore": "3,3",
     "ARrank": 501,
     "ISscore": "13,3",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "33,7",
     "Y1": 2.452315410748192,
     "Y2": 0.40922029777239005
@@ -4050,7 +4050,7 @@
     "ARscore": "14,1",
     "ARrank": 501,
     "ISscore": 40,
-    "ISrank": 347,
+    "International Student Rank": 347,
     "Overall Score": "33,6",
     "Y1": 1.5312037184805973,
     "Y2": -0.7375239886448149
@@ -4063,7 +4063,7 @@
     "ARscore": "20,1",
     "ARrank": 407,
     "ISscore": "59,1",
-    "ISrank": 249,
+    "International Student Rank": 249,
     "Overall Score": "33,4",
     "Y1": 0.78184300052727,
     "Y2": -1.1232621914459882
@@ -4076,7 +4076,7 @@
     "ARscore": 24,
     "ARrank": 343,
     "ISscore": "9,7",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "33,4",
     "Y1": 1.65240157411021,
     "Y2": 1.061047987169178
@@ -4089,7 +4089,7 @@
     "ARscore": "9,7",
     "ARrank": 501,
     "ISscore": 9,
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "33,3",
     "Y1": 2.3881736309555093,
     "Y2": 0.5632137840632638
@@ -4102,7 +4102,7 @@
     "ARscore": "6,4",
     "ARrank": 501,
     "ISscore": "56,9",
-    "ISrank": 255,
+    "International Student Rank": 255,
     "Overall Score": "33,3",
     "Y1": 1.3480351811691917,
     "Y2": -1.4302230545964538
@@ -4115,7 +4115,7 @@
     "ARscore": "38,2",
     "ARrank": 202,
     "ISscore": "47,8",
-    "ISrank": 299,
+    "International Student Rank": 299,
     "Overall Score": "33,2",
     "Y1": 0.060324180143750766,
     "Y2": -0.10395968853188935
@@ -4128,7 +4128,7 @@
     "ARscore": "7,8",
     "ARrank": 501,
     "ISscore": "97,6",
-    "ISrank": 58,
+    "International Student Rank": 58,
     "Overall Score": "33,2",
     "Y1": 0.5547414108039378,
     "Y2": -2.779193492637748
@@ -4141,7 +4141,7 @@
     "ARscore": "20,7",
     "ARrank": 393,
     "ISscore": "43,1",
-    "ISrank": 326,
+    "International Student Rank": 326,
     "Overall Score": "33,1",
     "Y1": 1.0404671742473048,
     "Y2": -0.5534931995172025
@@ -4154,7 +4154,7 @@
     "ARscore": "15,1",
     "ARrank": 501,
     "ISscore": "52,9",
-    "ISrank": 272,
+    "International Student Rank": 272,
     "Overall Score": "33,1",
     "Y1": 1.2608838527641144,
     "Y2": -1.2007849151153904
@@ -4167,7 +4167,7 @@
     "ARscore": "24,5",
     "ARrank": 334,
     "ISscore": "16,7",
-    "ISrank": 566,
+    "International Student Rank": 566,
     "Overall Score": "32,8",
     "Y1": 1.4997137420153936,
     "Y2": 0.842908392938325
@@ -4180,7 +4180,7 @@
     "ARscore": "20,4",
     "ARrank": 402,
     "ISscore": 20,
-    "ISrank": 526,
+    "International Student Rank": 526,
     "Overall Score": "32,8",
     "Y1": 1.6693499673312753,
     "Y2": 0.46415872614834214
@@ -4193,7 +4193,7 @@
     "ARscore": "42,7",
     "ARrank": 183,
     "ISscore": "22,1",
-    "ISrank": 495,
+    "International Student Rank": 495,
     "Overall Score": "32,7",
     "Y1": 0.5440774860082391,
     "Y2": 1.0661733855481899
@@ -4206,7 +4206,7 @@
     "ARscore": 10,
     "ARrank": 501,
     "ISscore": "65,7",
-    "ISrank": 214,
+    "International Student Rank": 214,
     "Overall Score": "32,7",
     "Y1": 1.133340669263377,
     "Y2": -1.6826163050074812
@@ -4219,7 +4219,7 @@
     "ARscore": "45,2",
     "ARrank": 171,
     "ISscore": "6,2",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "32,5",
     "Y1": 0.8186357728891849,
     "Y2": 1.7417242977590326
@@ -4232,7 +4232,7 @@
     "ARscore": "18,8",
     "ARrank": 434,
     "ISscore": "97,4",
-    "ISrank": 59,
+    "International Student Rank": 59,
     "Overall Score": "32,3",
     "Y1": 0.18314064771299782,
     "Y2": -2.5048488024054367
@@ -4245,7 +4245,7 @@
     "ARscore": "18,5",
     "ARrank": 443,
     "ISscore": "28,2",
-    "ISrank": 446,
+    "International Student Rank": 446,
     "Overall Score": "32,3",
     "Y1": 1.6130559452317126,
     "Y2": -0.04863921681678451
@@ -4258,7 +4258,7 @@
     "ARscore": "36,9",
     "ARrank": 212,
     "ISscore": "9,5",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "32,2",
     "Y1": 1.0672381909443982,
     "Y2": 1.4896943166541752
@@ -4271,7 +4271,7 @@
     "ARscore": 24,
     "ARrank": 341,
     "ISscore": "54,4",
-    "ISrank": 265,
+    "International Student Rank": 265,
     "Overall Score": "32,1",
     "Y1": 0.6320322052463427,
     "Y2": -0.8093998499085379
@@ -4284,7 +4284,7 @@
     "ARscore": "9,9",
     "ARrank": 501,
     "ISscore": "72,6",
-    "ISrank": 177,
+    "International Student Rank": 177,
     "Overall Score": "32,1",
     "Y1": 1.0155382472178247,
     "Y2": -1.9314521521885473
@@ -4297,7 +4297,7 @@
     "ARscore": "34,1",
     "ARrank": 235,
     "ISscore": "10,5",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "32,1",
     "Y1": 1.1786897887721413,
     "Y2": 1.3871533656557569
@@ -4310,7 +4310,7 @@
     "ARscore": "11,9",
     "ARrank": 501,
     "ISscore": "98,5",
-    "ISrank": 50,
+    "International Student Rank": 50,
     "Overall Score": 32,
     "Y1": 0.487968835012425,
     "Y2": -2.7819006974405447
@@ -4323,7 +4323,7 @@
     "ARscore": "27,3",
     "ARrank": 309,
     "ISscore": "89,1",
-    "ISrank": 110,
+    "International Student Rank": 110,
     "Overall Score": 32,
     "Y1": -0.1535917145319599,
     "Y2": -1.8263280092795915
@@ -4336,7 +4336,7 @@
     "ARscore": "13,9",
     "ARrank": 501,
     "ISscore": "99,5",
-    "ISrank": 34,
+    "International Student Rank": 34,
     "Overall Score": 32,
     "Y1": 0.4120399143771043,
     "Y2": -2.8254507692600614
@@ -4349,7 +4349,7 @@
     "ARscore": "7,4",
     "ARrank": 501,
     "ISscore": "31,4",
-    "ISrank": 418,
+    "International Student Rank": 418,
     "Overall Score": 32,
     "Y1": 1.9163749554505987,
     "Y2": -0.4540476093077901
@@ -4362,7 +4362,7 @@
     "ARscore": "20,1",
     "ARrank": 408,
     "ISscore": "10,7",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "31,9",
     "Y1": 1.945339110011054,
     "Y2": 0.8429563227262881
@@ -4375,7 +4375,7 @@
     "ARscore": "17,2",
     "ARrank": 475,
     "ISscore": "7,3",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "31,9",
     "Y1": 2.2291635164675037,
     "Y2": 0.7284630815456793
@@ -4388,7 +4388,7 @@
     "ARscore": "24,1",
     "ARrank": 340,
     "ISscore": "8,8",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "31,7",
     "Y1": 1.699544159581227,
     "Y2": 1.0706357897624321
@@ -4401,7 +4401,7 @@
     "ARscore": "18,6",
     "ARrank": 438,
     "ISscore": "15,1",
-    "ISrank": 592,
+    "International Student Rank": 592,
     "Overall Score": "31,7",
     "Y1": 2.0037824715683037,
     "Y2": 0.6487920879199611
@@ -4414,7 +4414,7 @@
     "ARscore": "18,5",
     "ARrank": 444,
     "ISscore": "33,3",
-    "ISrank": 401,
+    "International Student Rank": 401,
     "Overall Score": "31,7",
     "Y1": 1.5014921515209563,
     "Y2": -0.2889466173123763
@@ -4427,7 +4427,7 @@
     "ARscore": "25,7",
     "ARrank": 324,
     "ISscore": "46,4",
-    "ISrank": 307,
+    "International Student Rank": 307,
     "Overall Score": "31,7",
     "Y1": 0.7191846990224499,
     "Y2": -0.4778418608912313
@@ -4440,7 +4440,7 @@
     "ARscore": "31,4",
     "ARrank": 256,
     "ISscore": "22,4",
-    "ISrank": 491,
+    "International Student Rank": 491,
     "Overall Score": "31,7",
     "Y1": 0.9862415357131284,
     "Y2": 0.7476357942092502
@@ -4453,7 +4453,7 @@
     "ARscore": 17,
     "ARrank": 479,
     "ISscore": "39,7",
-    "ISrank": 351,
+    "International Student Rank": 351,
     "Overall Score": "31,6",
     "Y1": 1.4797310891663014,
     "Y2": -0.6553859713864985
@@ -4466,7 +4466,7 @@
     "ARscore": "19,4",
     "ARrank": 420,
     "ISscore": "14,5",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "31,6",
     "Y1": 1.9614747519996947,
     "Y2": 0.734773382513805
@@ -4479,7 +4479,7 @@
     "ARscore": "28,2",
     "ARrank": 297,
     "ISscore": "50,1",
-    "ISrank": 290,
+    "International Student Rank": 290,
     "Overall Score": "31,5",
     "Y1": 0.5313980712009089,
     "Y2": -0.513066452476906
@@ -4492,7 +4492,7 @@
     "ARscore": "11,9",
     "ARrank": 501,
     "ISscore": "47,7",
-    "ISrank": 301,
+    "International Student Rank": 301,
     "Overall Score": "31,5",
     "Y1": 1.471616134685669,
     "Y2": -1.0671642619107369
@@ -4505,7 +4505,7 @@
     "ARscore": "16,4",
     "ARrank": 501,
     "ISscore": "14,1",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "31,5",
     "Y1": 2.2586521789633363,
     "Y2": 0.531795747915561
@@ -4518,7 +4518,7 @@
     "ARscore": "47,1",
     "ARrank": 161,
     "ISscore": "46,5",
-    "ISrank": 305,
+    "International Student Rank": 305,
     "Overall Score": "31,3",
     "Y1": -0.14809345835489782,
     "Y2": 0.11657718587999315
@@ -4531,7 +4531,7 @@
     "ARscore": "22,1",
     "ARrank": 373,
     "ISscore": "82,4",
-    "ISrank": 137,
+    "International Student Rank": 137,
     "Overall Score": "31,2",
     "Y1": 0.26911625798868655,
     "Y2": -1.824747494890421
@@ -4544,7 +4544,7 @@
     "ARscore": "17,2",
     "ARrank": 477,
     "ISscore": "62,9",
-    "ISrank": 228,
+    "International Student Rank": 228,
     "Overall Score": "31,1",
     "Y1": 1.0271780581725622,
     "Y2": -1.463704783417971
@@ -4557,7 +4557,7 @@
     "ARscore": "15,4",
     "ARrank": 501,
     "ISscore": "99,8",
-    "ISrank": 27,
+    "International Student Rank": 27,
     "Overall Score": 31,
     "Y1": 0.3967959913035761,
     "Y2": -2.8432299652496935
@@ -4570,7 +4570,7 @@
     "ARscore": "26,1",
     "ARrank": 318,
     "ISscore": "8,9",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "30,9",
     "Y1": 1.6199601463669744,
     "Y2": 1.132850801623786
@@ -4583,7 +4583,7 @@
     "ARscore": "12,5",
     "ARrank": 501,
     "ISscore": "14,4",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "30,9",
     "Y1": 2.346172847504122,
     "Y2": 0.47414491515517143
@@ -4596,7 +4596,7 @@
     "ARscore": "16,4",
     "ARrank": 501,
     "ISscore": "24,4",
-    "ISrank": 471,
+    "International Student Rank": 471,
     "Overall Score": "30,8",
     "Y1": 1.9456240808468634,
     "Y2": -0.06380771085387671
@@ -4609,7 +4609,7 @@
     "ARscore": "10,1",
     "ARrank": 501,
     "ISscore": "52,1",
-    "ISrank": 277,
+    "International Student Rank": 277,
     "Overall Score": "30,7",
     "Y1": 1.4404292477754355,
     "Y2": -1.251555271207722
@@ -4622,7 +4622,7 @@
     "ARscore": "20,3",
     "ARrank": 405,
     "ISscore": "99,7",
-    "ISrank": 30,
+    "International Student Rank": 30,
     "Overall Score": "30,7",
     "Y1": 0.04227607643664728,
     "Y2": -2.570311447287784
@@ -4635,7 +4635,7 @@
     "ARscore": "19,1",
     "ARrank": 425,
     "ISscore": "88,4",
-    "ISrank": 112,
+    "International Student Rank": 112,
     "Overall Score": "30,7",
     "Y1": 0.38332244983868147,
     "Y2": -2.1654878569115215
@@ -4648,7 +4648,7 @@
     "ARscore": "37,7",
     "ARrank": 206,
     "ISscore": "33,6",
-    "ISrank": 399,
+    "International Student Rank": 399,
     "Overall Score": "30,7",
     "Y1": 0.4745317188719907,
     "Y2": 0.4308757997582055
@@ -4661,7 +4661,7 @@
     "ARscore": "36,2",
     "ARrank": 217,
     "ISscore": "2,6",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "30,4",
     "Y1": 1.2188157774031605,
     "Y2": 1.5844424216141448
@@ -4674,7 +4674,7 @@
     "ARscore": "16,3",
     "ARrank": 501,
     "ISscore": "54,9",
-    "ISrank": 261,
+    "International Student Rank": 261,
     "Overall Score": "30,4",
     "Y1": 1.2746083035862639,
     "Y2": -1.281252011526906
@@ -4687,7 +4687,7 @@
     "ARscore": 53,
     "ARrank": 137,
     "ISscore": 3,
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "30,3",
     "Y1": 0.6694249073174493,
     "Y2": 1.9488757743091276
@@ -4700,7 +4700,7 @@
     "ARscore": "9,7",
     "ARrank": 501,
     "ISscore": 20,
-    "ISrank": 525,
+    "International Student Rank": 525,
     "Overall Score": "30,2",
     "Y1": 2.228774192033001,
     "Y2": 0.09775948400833148
@@ -4713,7 +4713,7 @@
     "ARscore": 27,
     "ARrank": 311,
     "ISscore": "15,6",
-    "ISrank": 583,
+    "International Student Rank": 583,
     "Overall Score": "30,1",
     "Y1": 1.5036039228472824,
     "Y2": 0.9708588435144277
@@ -4726,7 +4726,7 @@
     "ARscore": "27,8",
     "ARrank": 302,
     "ISscore": "79,3",
-    "ISrank": 152,
+    "International Student Rank": 152,
     "Overall Score": "30,1",
     "Y1": 0.04658000925777383,
     "Y2": -1.509955550588346
@@ -4739,7 +4739,7 @@
     "ARscore": "11,4",
     "ARrank": 501,
     "ISscore": "52,1",
-    "ISrank": 279,
+    "International Student Rank": 279,
     "Overall Score": "30,1",
     "Y1": 1.4363091878933667,
     "Y2": -1.2351678618900617
@@ -4752,7 +4752,7 @@
     "ARscore": 9,
     "ARrank": 501,
     "ISscore": "17,6",
-    "ISrank": 551,
+    "International Student Rank": 551,
     "Overall Score": 30,
     "Y1": 2.317833859301701,
     "Y2": 0.21189127422183335
@@ -4765,7 +4765,7 @@
     "ARscore": "17,3",
     "ARrank": 474,
     "ISscore": "9,8",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "29,9",
     "Y1": 2.2546251085675943,
     "Y2": 0.6672148951009663
@@ -4778,7 +4778,7 @@
     "ARscore": "16,6",
     "ARrank": 495,
     "ISscore": "15,7",
-    "ISrank": 581,
+    "International Student Rank": 581,
     "Overall Score": "29,9",
     "Y1": 2.231540115426714,
     "Y2": 0.4420043043007312
@@ -4791,7 +4791,7 @@
     "ARscore": "13,5",
     "ARrank": 501,
     "ISscore": 90,
-    "ISrank": 105,
+    "International Student Rank": 105,
     "Overall Score": "29,7",
     "Y1": 0.7075142923825722,
     "Y2": -2.455727040543573
@@ -4804,7 +4804,7 @@
     "ARscore": "16,2",
     "ARrank": 501,
     "ISscore": "20,6",
-    "ISrank": 514,
+    "International Student Rank": 514,
     "Overall Score": "29,7",
     "Y1": 2.0948229146538058,
     "Y2": 0.1264744259384869
@@ -4817,7 +4817,7 @@
     "ARscore": "13,3",
     "ARrank": 501,
     "ISscore": "15,5",
-    "ISrank": 585,
+    "International Student Rank": 585,
     "Overall Score": "29,7",
     "Y1": 2.3258591194214957,
     "Y2": 0.4037764872949601
@@ -4830,7 +4830,7 @@
     "ARscore": "22,8",
     "ARrank": 361,
     "ISscore": 33,
-    "ISrank": 405,
+    "International Student Rank": 405,
     "Overall Score": "29,6",
     "Y1": 1.2506068853003374,
     "Y2": -0.06012556282673338
@@ -4843,7 +4843,7 @@
     "ARscore": "9,2",
     "ARrank": 501,
     "ISscore": "81,7",
-    "ISrank": 139,
+    "International Student Rank": 139,
     "Overall Score": "29,4",
     "Y1": 0.9435880824551776,
     "Y2": -2.250354004355819
@@ -4856,7 +4856,7 @@
     "ARscore": "16,7",
     "ARrank": 492,
     "ISscore": "33,3",
-    "ISrank": 402,
+    "International Student Rank": 402,
     "Overall Score": "29,4",
     "Y1": 1.740717052028413,
     "Y2": -0.43062425419277045
@@ -4869,7 +4869,7 @@
     "ARscore": "9,9",
     "ARrank": 501,
     "ISscore": "94,6",
-    "ISrank": 82,
+    "International Student Rank": 82,
     "Overall Score": "29,3",
     "Y1": 0.6986157897425147,
     "Y2": -2.6588812079700017
@@ -4882,7 +4882,7 @@
     "ARscore": "16,8",
     "ARrank": 486,
     "ISscore": 100,
-    "ISrank": 4,
+    "International Student Rank": 4,
     "Overall Score": "29,2",
     "Y1": 0.3363707003269005,
     "Y2": -2.8839254614737664
@@ -4895,7 +4895,7 @@
     "ARscore": "23,4",
     "ARrank": 352,
     "ISscore": "20,7",
-    "ISrank": 510,
+    "International Student Rank": 510,
     "Overall Score": "29,2",
     "Y1": 1.535597630798192,
     "Y2": 0.5137541389882507
@@ -4908,7 +4908,7 @@
     "ARscore": "16,1",
     "ARrank": 501,
     "ISscore": "9,5",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "29,2",
     "Y1": 2.3781128400804437,
     "Y2": 0.594425463011164
@@ -4921,7 +4921,7 @@
     "ARscore": "18,2",
     "ARrank": 452,
     "ISscore": "36,2",
-    "ISrank": 378,
+    "International Student Rank": 378,
     "Overall Score": "29,2",
     "Y1": 1.5307598380602327,
     "Y2": -0.45623600909586126
@@ -4934,7 +4934,7 @@
     "ARscore": "35,1",
     "ARrank": 226,
     "ISscore": "5,5",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "29,1",
     "Y1": 1.271710037094593,
     "Y2": 1.4860157596165162
@@ -4947,7 +4947,7 @@
     "ARscore": "11,1",
     "ARrank": 501,
     "ISscore": "70,9",
-    "ISrank": 186,
+    "International Student Rank": 186,
     "Overall Score": 29,
     "Y1": 1.1141677660084215,
     "Y2": -1.8849937218981867
@@ -4960,7 +4960,7 @@
     "ARscore": "13,5",
     "ARrank": 501,
     "ISscore": "2,6",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": 29,
     "Y1": 2.50585327933354,
     "Y2": 0.6912064017566361
@@ -4973,7 +4973,7 @@
     "ARscore": "25,1",
     "ARrank": 328,
     "ISscore": "12,7",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": 29,
     "Y1": 1.6813307950977727,
     "Y2": 1.0112817231745528
@@ -4986,7 +4986,7 @@
     "ARscore": "8,9",
     "ARrank": 501,
     "ISscore": "71,3",
-    "ISrank": 183,
+    "International Student Rank": 183,
     "Overall Score": "28,8",
     "Y1": 1.1520074220526966,
     "Y2": -1.9297687058736488
@@ -4999,7 +4999,7 @@
     "ARscore": "18,2",
     "ARrank": 450,
     "ISscore": 10,
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "28,8",
     "Y1": 2.197504958368018,
     "Y2": 0.7160176240346995
@@ -5012,7 +5012,7 @@
     "ARscore": "30,9",
     "ARrank": 260,
     "ISscore": "1,5",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "28,8",
     "Y1": 1.4998409370868797,
     "Y2": 1.435336961285166
@@ -5025,7 +5025,7 @@
     "ARscore": "12,6",
     "ARrank": 501,
     "ISscore": "40,8",
-    "ISrank": 342,
+    "International Student Rank": 342,
     "Overall Score": "28,7",
     "Y1": 1.681298628794111,
     "Y2": -0.8288780462992953
@@ -5038,7 +5038,7 @@
     "ARscore": "29,4",
     "ARrank": 278,
     "ISscore": "32,2",
-    "ISrank": 409,
+    "International Student Rank": 409,
     "Overall Score": "28,7",
     "Y1": 0.9275497963796361,
     "Y2": 0.21621327949029961
@@ -5051,7 +5051,7 @@
     "ARscore": "12,6",
     "ARrank": 501,
     "ISscore": "87,6",
-    "ISrank": 116,
+    "International Student Rank": 116,
     "Overall Score": "28,7",
     "Y1": 0.797175307619404,
     "Y2": -2.3967053633412605
@@ -5064,7 +5064,7 @@
     "ARscore": "6,5",
     "ARrank": 501,
     "ISscore": "19,7",
-    "ISrank": 531,
+    "International Student Rank": 531,
     "Overall Score": "28,7",
     "Y1": 2.3452460904508285,
     "Y2": 0.07012418094608423
@@ -5077,7 +5077,7 @@
     "ARscore": "37,4",
     "ARrank": 210,
     "ISscore": "2,6",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "28,6",
     "Y1": 1.2269642285268259,
     "Y2": 1.597990507729291
@@ -5090,7 +5090,7 @@
     "ARscore": "17,7",
     "ARrank": 463,
     "ISscore": "61,8",
-    "ISrank": 231,
+    "International Student Rank": 231,
     "Overall Score": "28,6",
     "Y1": 1.065010076800766,
     "Y2": -1.419885007844073
@@ -5103,7 +5103,7 @@
     "ARscore": "28,5",
     "ARrank": 294,
     "ISscore": 12,
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "28,6",
     "Y1": 1.5378356741663046,
     "Y2": 1.1345580620898699
@@ -5116,7 +5116,7 @@
     "ARscore": "13,2",
     "ARrank": 501,
     "ISscore": 5,
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "28,5",
     "Y1": 2.500315365432027,
     "Y2": 0.6381002770587002
@@ -5129,7 +5129,7 @@
     "ARscore": "36,8",
     "ARrank": 214,
     "ISscore": "13,4",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "28,5",
     "Y1": 1.138487011383358,
     "Y2": 1.3783429571234527
@@ -5142,7 +5142,7 @@
     "ARscore": "21,2",
     "ARrank": 385,
     "ISscore": "95,8",
-    "ISrank": 76,
+    "International Student Rank": 76,
     "Overall Score": "28,3",
     "Y1": 0.15610926016582388,
     "Y2": -2.324392508959794
@@ -5155,7 +5155,7 @@
     "ARscore": "13,3",
     "ARrank": 501,
     "ISscore": "30,6",
-    "ISrank": 423,
+    "International Student Rank": 423,
     "Overall Score": "28,2",
     "Y1": 1.9296202414506287,
     "Y2": -0.38652730029059984
@@ -5168,7 +5168,7 @@
     "ARscore": "18,5",
     "ARrank": 442,
     "ISscore": "95,3",
-    "ISrank": 78,
+    "International Student Rank": 78,
     "Overall Score": "28,2",
     "Y1": 0.38295689470712213,
     "Y2": -2.4643485425143394
@@ -5181,7 +5181,7 @@
     "ARscore": "5,8",
     "ARrank": 501,
     "ISscore": "1,1",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "28,2",
     "Y1": 2.6898732728879575,
     "Y2": 0.6200954372309296
@@ -5194,7 +5194,7 @@
     "ARscore": "23,1",
     "ARrank": 357,
     "ISscore": "31,1",
-    "ISrank": 421,
+    "International Student Rank": 421,
     "Overall Score": "28,2",
     "Y1": 1.3207265200622753,
     "Y2": 0.024157960709142303
@@ -5207,7 +5207,7 @@
     "ARscore": "8,3",
     "ARrank": 501,
     "ISscore": 13,
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "28,2",
     "Y1": 2.516829800662235,
     "Y2": 0.42637398651074904
@@ -5220,7 +5220,7 @@
     "ARscore": "21,4",
     "ARrank": 384,
     "ISscore": "29,5",
-    "ISrank": 434,
+    "International Student Rank": 434,
     "Overall Score": "28,1",
     "Y1": 1.472803777748738,
     "Y2": 0.014676451358643577
@@ -5233,7 +5233,7 @@
     "ARscore": "23,4",
     "ARrank": 350,
     "ISscore": "8,6",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "28,1",
     "Y1": 1.8456962224322822,
     "Y2": 1.0128879029440676
@@ -5246,7 +5246,7 @@
     "ARscore": "9,9",
     "ARrank": 501,
     "ISscore": "69,9",
-    "ISrank": 192,
+    "International Student Rank": 192,
     "Overall Score": 28,
     "Y1": 1.1860827732226622,
     "Y2": -1.8711064899943046
@@ -5259,7 +5259,7 @@
     "ARscore": "25,6",
     "ARrank": 325,
     "ISscore": "13,2",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "27,9",
     "Y1": 1.6891158697156572,
     "Y2": 1.0046273137424342
@@ -5272,7 +5272,7 @@
     "ARscore": "27,7",
     "ARrank": 304,
     "ISscore": 35,
-    "ISrank": 388,
+    "International Student Rank": 388,
     "Overall Score": "27,9",
     "Y1": 0.9914843268170331,
     "Y2": 0.016484201468450962
@@ -5285,7 +5285,7 @@
     "ARscore": "16,8",
     "ARrank": 488,
     "ISscore": "26,5",
-    "ISrank": 457,
+    "International Student Rank": 457,
     "Overall Score": "27,7",
     "Y1": 1.942108091370207,
     "Y2": -0.1405224429826578
@@ -5298,7 +5298,7 @@
     "ARscore": "20,3",
     "ARrank": 403,
     "ISscore": "23,2",
-    "ISrank": 483,
+    "International Student Rank": 483,
     "Overall Score": "27,7",
     "Y1": 1.7106982733506813,
     "Y2": 0.22485767862071931
@@ -5311,7 +5311,7 @@
     "ARscore": "9,3",
     "ARrank": 501,
     "ISscore": "1,6",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "27,7",
     "Y1": 2.6326178267439797,
     "Y2": 0.6482364263365096
@@ -5324,7 +5324,7 @@
     "ARscore": "29,3",
     "ARrank": 280,
     "ISscore": 53,
-    "ISrank": 271,
+    "International Student Rank": 271,
     "Overall Score": "27,7",
     "Y1": 0.5058878986187066,
     "Y2": -0.6092387117214194
@@ -5337,7 +5337,7 @@
     "ARscore": "30,7",
     "ARrank": 264,
     "ISscore": "10,4",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "27,6",
     "Y1": 1.4550561125957309,
     "Y2": 1.246516089355468
@@ -5350,7 +5350,7 @@
     "ARscore": "10,6",
     "ARrank": 501,
     "ISscore": "23,1",
-    "ISrank": 486,
+    "International Student Rank": 486,
     "Overall Score": "27,5",
     "Y1": 2.188298578350854,
     "Y2": -0.09223636914168445
@@ -5363,7 +5363,7 @@
     "ARscore": "22,2",
     "ARrank": 372,
     "ISscore": "6,7",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "27,5",
     "Y1": 1.968856510208714,
     "Y2": 0.9817730572192035
@@ -5376,7 +5376,7 @@
     "ARscore": "14,7",
     "ARrank": 501,
     "ISscore": "25,7",
-    "ISrank": 463,
+    "International Student Rank": 463,
     "Overall Score": "27,5",
     "Y1": 2.0437137633756963,
     "Y2": -0.1620118168765025
@@ -5389,7 +5389,7 @@
     "ARscore": "19,8",
     "ARrank": 415,
     "ISscore": "7,9",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "27,4",
     "Y1": 2.128272069223179,
     "Y2": 0.837384739684352
@@ -5402,7 +5402,7 @@
     "ARscore": "22,2",
     "ARrank": 369,
     "ISscore": "21,5",
-    "ISrank": 503,
+    "International Student Rank": 503,
     "Overall Score": "27,4",
     "Y1": 1.6377424772950273,
     "Y2": 0.41073504591883375
@@ -5415,7 +5415,7 @@
     "ARscore": "15,9",
     "ARrank": 501,
     "ISscore": 4,
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "27,3",
     "Y1": 2.4938660332633154,
     "Y2": 0.6786901225139956
@@ -5428,7 +5428,7 @@
     "ARscore": "11,1",
     "ARrank": 501,
     "ISscore": "57,3",
-    "ISrank": 254,
+    "International Student Rank": 254,
     "Overall Score": "27,3",
     "Y1": 1.423260815124358,
     "Y2": -1.4372664259951513
@@ -5441,7 +5441,7 @@
     "ARscore": "13,2",
     "ARrank": 501,
     "ISscore": 5,
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "27,2",
     "Y1": 2.537145941786008,
     "Y2": 0.6266607053589498
@@ -5454,7 +5454,7 @@
     "ARscore": "22,2",
     "ARrank": 371,
     "ISscore": "4,9",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "27,1",
     "Y1": 1.9963363508470926,
     "Y2": 1.014230879324459
@@ -5467,7 +5467,7 @@
     "ARscore": "9,5",
     "ARrank": 501,
     "ISscore": "95,9",
-    "ISrank": 74,
+    "International Student Rank": 74,
     "Overall Score": "27,1",
     "Y1": 0.7409766477351749,
     "Y2": -2.7318283126370417
@@ -5480,7 +5480,7 @@
     "ARscore": "14,7",
     "ARrank": 501,
     "ISscore": "53,8",
-    "ISrank": 269,
+    "International Student Rank": 269,
     "Overall Score": 27,
     "Y1": 1.4265794061247334,
     "Y2": -1.2853075296595677
@@ -5493,7 +5493,7 @@
     "ARscore": "25,9",
     "ARrank": 322,
     "ISscore": "4,5",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": 27,
     "Y1": 1.7922741413536143,
     "Y2": 1.170263788089366
@@ -5506,7 +5506,7 @@
     "ARscore": 39,
     "ARrank": 195,
     "ISscore": "5,8",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": 27,
     "Y1": 1.1650038191848175,
     "Y2": 1.575095322232368
@@ -5519,7 +5519,7 @@
     "ARscore": "22,2",
     "ARrank": 370,
     "ISscore": "43,1",
-    "ISrank": 327,
+    "International Student Rank": 327,
     "Overall Score": 27,
     "Y1": 1.1203846664084884,
     "Y2": -0.5368391095041812
@@ -5532,7 +5532,7 @@
     "ARscore": 18,
     "ARrank": 456,
     "ISscore": 100,
-    "ISrank": 14,
+    "International Student Rank": 14,
     "Overall Score": "26,9",
     "Y1": 0.3096311609837025,
     "Y2": -2.7950146961497544
@@ -5545,7 +5545,7 @@
     "ARscore": "24,4",
     "ARrank": 337,
     "ISscore": "9,1",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "26,9",
     "Y1": 1.8180482272280103,
     "Y2": 1.0327853746012814
@@ -5558,7 +5558,7 @@
     "ARscore": "15,9",
     "ARrank": 501,
     "ISscore": "75,7",
-    "ISrank": 165,
+    "International Student Rank": 165,
     "Overall Score": "26,9",
     "Y1": 0.9960392725201734,
     "Y2": -2.0001230390400218
@@ -5571,7 +5571,7 @@
     "ARscore": "12,1",
     "ARrank": 501,
     "ISscore": "82,8",
-    "ISrank": 135,
+    "International Student Rank": 135,
     "Overall Score": "26,8",
     "Y1": 0.9439311712346888,
     "Y2": -2.2713394499350192
@@ -5584,7 +5584,7 @@
     "ARscore": "4,1",
     "ARrank": 501,
     "ISscore": "9,5",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "26,8",
     "Y1": 2.6728568951787612,
     "Y2": 0.42951520359480416
@@ -5597,7 +5597,7 @@
     "ARscore": "24,7",
     "ARrank": 333,
     "ISscore": "11,9",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "26,7",
     "Y1": 1.7769174601545341,
     "Y2": 0.9905663397969596
@@ -5610,7 +5610,7 @@
     "ARscore": "10,7",
     "ARrank": 501,
     "ISscore": "48,3",
-    "ISrank": 297,
+    "International Student Rank": 297,
     "Overall Score": "26,5",
     "Y1": 1.6227126433364338,
     "Y2": -1.1489992936627242
@@ -5623,7 +5623,7 @@
     "ARscore": "10,1",
     "ARrank": 501,
     "ISscore": "35,6",
-    "ISrank": 384,
+    "International Student Rank": 384,
     "Overall Score": "26,5",
     "Y1": 1.91819967605362,
     "Y2": -0.6525653729589748
@@ -5636,7 +5636,7 @@
     "ARscore": "11,3",
     "ARrank": 501,
     "ISscore": "1,9",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "26,5",
     "Y1": 2.625652226587133,
     "Y2": 0.6560030575643774
@@ -5649,7 +5649,7 @@
     "ARscore": "8,3",
     "ARrank": 501,
     "ISscore": "67,1",
-    "ISrank": 206,
+    "International Student Rank": 206,
     "Overall Score": "26,4",
     "Y1": 1.3153668124982425,
     "Y2": -1.8090990690272357
@@ -5662,7 +5662,7 @@
     "ARscore": "18,9",
     "ARrank": 429,
     "ISscore": "15,4",
-    "ISrank": 586,
+    "International Student Rank": 586,
     "Overall Score": "26,4",
     "Y1": 2.1088240496752606,
     "Y2": 0.6011366264910594
@@ -5675,7 +5675,7 @@
     "ARscore": "12,2",
     "ARrank": 501,
     "ISscore": "65,4",
-    "ISrank": 216,
+    "International Student Rank": 216,
     "Overall Score": "26,4",
     "Y1": 1.2768738663210193,
     "Y2": -1.6999637498516578
@@ -5688,7 +5688,7 @@
     "ARscore": "22,7",
     "ARrank": 364,
     "ISscore": "20,4",
-    "ISrank": 517,
+    "International Student Rank": 517,
     "Overall Score": "26,4",
     "Y1": 1.67796552406611,
     "Y2": 0.48195199167519376
@@ -5701,7 +5701,7 @@
     "ARscore": "17,2",
     "ARrank": 478,
     "ISscore": 39,
-    "ISrank": 355,
+    "International Student Rank": 355,
     "Overall Score": "26,2",
     "Y1": 1.640350299452599,
     "Y2": -0.6730263989217729
@@ -5714,7 +5714,7 @@
     "ARscore": "12,8",
     "ARrank": 501,
     "ISscore": "24,9",
-    "ISrank": 469,
+    "International Student Rank": 469,
     "Overall Score": "26,2",
     "Y1": 2.1352408137489562,
     "Y2": -0.16291159015600523
@@ -5727,7 +5727,7 @@
     "ARscore": "10,5",
     "ARrank": 501,
     "ISscore": "20,5",
-    "ISrank": 516,
+    "International Student Rank": 516,
     "Overall Score": "26,2",
     "Y1": 2.306190882816324,
     "Y2": 0.03534432450485346
@@ -5740,7 +5740,7 @@
     "ARscore": "6,8",
     "ARrank": 501,
     "ISscore": 20,
-    "ISrank": 527,
+    "International Student Rank": 527,
     "Overall Score": "26,1",
     "Y1": 2.403175576898105,
     "Y2": 0.03302117889846892
@@ -5753,7 +5753,7 @@
     "ARscore": 3,
     "ARrank": 501,
     "ISscore": "97,7",
-    "ISrank": 56,
+    "International Student Rank": 56,
     "Overall Score": 26,
     "Y1": 0.8449229190403219,
     "Y2": -2.908037034822547
@@ -5766,7 +5766,7 @@
     "ARscore": "17,2",
     "ARrank": 476,
     "ISscore": "5,5",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": 26,
     "Y1": 2.41822868830428,
     "Y2": 0.708234604812858
@@ -5779,7 +5779,7 @@
     "ARscore": "10,9",
     "ARrank": 501,
     "ISscore": "96,7",
-    "ISrank": 67,
+    "International Student Rank": 67,
     "Overall Score": 26,
     "Y1": 0.7251695369575807,
     "Y2": -2.7610839663431404
@@ -5792,7 +5792,7 @@
     "ARscore": "19,4",
     "ARrank": 421,
     "ISscore": "4,7",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "25,9",
     "Y1": 2.2294478440343557,
     "Y2": 0.8666765504742652
@@ -5805,7 +5805,7 @@
     "ARscore": "10,1",
     "ARrank": 501,
     "ISscore": "90,3",
-    "ISrank": 104,
+    "International Student Rank": 104,
     "Overall Score": "25,9",
     "Y1": 0.8745241085074819,
     "Y2": -2.5385904492098033
@@ -5818,7 +5818,7 @@
     "ARscore": "6,2",
     "ARrank": 501,
     "ISscore": "23,9",
-    "ISrank": 473,
+    "International Student Rank": 473,
     "Overall Score": "25,8",
     "Y1": 2.288748505354936,
     "Y2": -0.21454037636232545
@@ -5831,7 +5831,7 @@
     "ARscore": "16,3",
     "ARrank": 501,
     "ISscore": "6,7",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "25,8",
     "Y1": 2.5002607673871466,
     "Y2": 0.6195331993880925
@@ -5844,7 +5844,7 @@
     "ARscore": "18,8",
     "ARrank": 432,
     "ISscore": 10,
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "25,7",
     "Y1": 2.222121302044353,
     "Y2": 0.7345211957706385
@@ -5857,7 +5857,7 @@
     "ARscore": "17,5",
     "ARrank": 471,
     "ISscore": "25,4",
-    "ISrank": 466,
+    "International Student Rank": 466,
     "Overall Score": "25,7",
     "Y1": 1.9636869680849798,
     "Y2": -0.06520460468975903
@@ -5870,7 +5870,7 @@
     "ARscore": "9,5",
     "ARrank": 501,
     "ISscore": "4,8",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "25,7",
     "Y1": 2.6516714344032923,
     "Y2": 0.5728849185277948
@@ -5883,7 +5883,7 @@
     "ARscore": "17,6",
     "ARrank": 467,
     "ISscore": "12,3",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "25,6",
     "Y1": 2.3241783511611116,
     "Y2": 0.6009883165530918
@@ -5896,7 +5896,7 @@
     "ARscore": "34,7",
     "ARrank": 230,
     "ISscore": "29,3",
-    "ISrank": 438,
+    "International Student Rank": 438,
     "Overall Score": "25,6",
     "Y1": 0.8575219595454545,
     "Y2": 0.49816921499464173
@@ -5909,7 +5909,7 @@
     "ARscore": "11,4",
     "ARrank": 501,
     "ISscore": "13,7",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "25,6",
     "Y1": 2.5245138516985914,
     "Y2": 0.42748333971717156
@@ -5922,7 +5922,7 @@
     "ARscore": "20,5",
     "ARrank": 395,
     "ISscore": "15,8",
-    "ISrank": 575,
+    "International Student Rank": 575,
     "Overall Score": "25,5",
     "Y1": 1.9829265914218739,
     "Y2": 0.6442741990888086
@@ -5935,7 +5935,7 @@
     "ARscore": "21,5",
     "ARrank": 382,
     "ISscore": "26,8",
-    "ISrank": 456,
+    "International Student Rank": 456,
     "Overall Score": "25,5",
     "Y1": 1.6052582081060154,
     "Y2": 0.11502245655888843
@@ -5948,7 +5948,7 @@
     "ARscore": 11,
     "ARrank": 501,
     "ISscore": "21,5",
-    "ISrank": 502,
+    "International Student Rank": 502,
     "Overall Score": "25,5",
     "Y1": 2.2818831573684157,
     "Y2": -0.026249550079882524
@@ -5961,7 +5961,7 @@
     "ARscore": "4,9",
     "ARrank": 501,
     "ISscore": "4,1",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "25,5",
     "Y1": 2.751658421704189,
     "Y2": 0.5291626065486532
@@ -5974,7 +5974,7 @@
     "ARscore": "6,3",
     "ARrank": 501,
     "ISscore": "2,6",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "25,4",
     "Y1": 2.743895131565299,
     "Y2": 0.573252957744158
@@ -5987,7 +5987,7 @@
     "ARscore": 5,
     "ARrank": 501,
     "ISscore": "79,5",
-    "ISrank": 149,
+    "International Student Rank": 149,
     "Overall Score": "25,3",
     "Y1": 1.1795946658373,
     "Y2": -2.2649580613095903
@@ -6000,7 +6000,7 @@
     "ARscore": "10,4",
     "ARrank": 501,
     "ISscore": "63,9",
-    "ISrank": 224,
+    "International Student Rank": 224,
     "Overall Score": "25,3",
     "Y1": 1.3716910404763223,
     "Y2": -1.6786579577190934
@@ -6013,7 +6013,7 @@
     "ARscore": "10,7",
     "ARrank": 501,
     "ISscore": "56,5",
-    "ISrank": 256,
+    "International Student Rank": 256,
     "Overall Score": "25,3",
     "Y1": 1.4993846646540572,
     "Y2": -1.438531783140145
@@ -6026,7 +6026,7 @@
     "ARscore": "17,5",
     "ARrank": 469,
     "ISscore": "99,9",
-    "ISrank": 23,
+    "International Student Rank": 23,
     "Overall Score": "25,2",
     "Y1": 0.42126874820305077,
     "Y2": -2.814554188694945
@@ -6039,7 +6039,7 @@
     "ARscore": "21,2",
     "ARrank": 386,
     "ISscore": "8,1",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "25,2",
     "Y1": 2.078459216802627,
     "Y2": 0.8932194019751625
@@ -6052,7 +6052,7 @@
     "ARscore": 13,
     "ARrank": 501,
     "ISscore": "6,3",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "25,2",
     "Y1": 2.5838442179200793,
     "Y2": 0.5822294438101712
@@ -6065,7 +6065,7 @@
     "ARscore": "14,4",
     "ARrank": 501,
     "ISscore": "87,8",
-    "ISrank": 115,
+    "International Student Rank": 115,
     "Overall Score": "25,2",
     "Y1": 0.858484974211489,
     "Y2": -2.412739769409734
@@ -6078,7 +6078,7 @@
     "ARscore": "11,9",
     "ARrank": 501,
     "ISscore": "2,1",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "25,2",
     "Y1": 2.6490309916279493,
     "Y2": 0.6479937456062118
@@ -6091,7 +6091,7 @@
     "ARscore": "12,4",
     "ARrank": 501,
     "ISscore": 2,
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "25,2",
     "Y1": 2.6406402876241084,
     "Y2": 0.6558646857437203
@@ -6104,7 +6104,7 @@
     "ARscore": "28,7",
     "ARrank": 291,
     "ISscore": "32,6",
-    "ISrank": 407,
+    "International Student Rank": 407,
     "Overall Score": "25,1",
     "Y1": 1.072558586771739,
     "Y2": 0.13466550018448853
@@ -6117,7 +6117,7 @@
     "ARscore": "16,8",
     "ARrank": 489,
     "ISscore": "57,4",
-    "ISrank": 253,
+    "International Student Rank": 253,
     "Overall Score": "25,1",
     "Y1": 1.3405216382509524,
     "Y2": -1.3675208574255213
@@ -6130,7 +6130,7 @@
     "ARscore": "25,8",
     "ARrank": 323,
     "ISscore": "6,5",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": 25,
     "Y1": 1.8325644330469066,
     "Y2": 1.1117292051765852
@@ -6143,7 +6143,7 @@
     "ARscore": 13,
     "ARrank": 501,
     "ISscore": "1,6",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": 25,
     "Y1": 2.639197781030482,
     "Y2": 0.6688128896715733
@@ -6155,8 +6155,8 @@
     "Continent": "Europe",
     "ARscore": "28,9",
     "ARrank": 286,
-    "ISscore": "",
-    "ISrank": "",
+    "ISscore": "2,5",
+    "International Student Rank": 601,
     "Overall Score": 25,
     "Y1": 1.4717820721800707,
     "Y2": 0.8804706969649825
@@ -6169,7 +6169,7 @@
     "ARscore": 18,
     "ARrank": 458,
     "ISscore": "3,3",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "24,8",
     "Y1": 2.408494470409854,
     "Y2": 0.787206288484632
@@ -6182,7 +6182,7 @@
     "ARscore": "8,9",
     "ARrank": 501,
     "ISscore": "54,9",
-    "ISrank": 262,
+    "International Student Rank": 262,
     "Overall Score": "24,7",
     "Y1": 1.5776477062851624,
     "Y2": -1.4170363572332587
@@ -6195,7 +6195,7 @@
     "ARscore": 24,
     "ARrank": 342,
     "ISscore": 5,
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "24,7",
     "Y1": 1.9456886131462494,
     "Y2": 1.0749782888940864
@@ -6208,7 +6208,7 @@
     "ARscore": "13,7",
     "ARrank": 501,
     "ISscore": "74,8",
-    "ISrank": 169,
+    "International Student Rank": 169,
     "Overall Score": "24,6",
     "Y1": 1.1191777378618728,
     "Y2": -2.01762746060572
@@ -6221,7 +6221,7 @@
     "ARscore": "9,5",
     "ARrank": 501,
     "ISscore": "86,1",
-    "ISrank": 123,
+    "International Student Rank": 123,
     "Overall Score": "24,6",
     "Y1": 0.9998277585787873,
     "Y2": -2.42042087052556
@@ -6234,7 +6234,7 @@
     "ARscore": 8,
     "ARrank": 501,
     "ISscore": "12,6",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "24,5",
     "Y1": 2.6315527239665344,
     "Y2": 0.3977390147953202
@@ -6247,7 +6247,7 @@
     "ARscore": "7,4",
     "ARrank": 501,
     "ISscore": "16,8",
-    "ISrank": 564,
+    "International Student Rank": 564,
     "Overall Score": "24,4",
     "Y1": 2.537576356584689,
     "Y2": 0.19806216145085023
@@ -6260,7 +6260,7 @@
     "ARscore": "6,5",
     "ARrank": 501,
     "ISscore": "75,4",
-    "ISrank": 168,
+    "International Student Rank": 168,
     "Overall Score": "24,4",
     "Y1": 1.2528275534840763,
     "Y2": -2.11998482702057
@@ -6273,7 +6273,7 @@
     "ARscore": "13,4",
     "ARrank": 501,
     "ISscore": "80,9",
-    "ISrank": 143,
+    "International Student Rank": 143,
     "Overall Score": "24,4",
     "Y1": 1.021230767445526,
     "Y2": -2.2168086226907584
@@ -6286,7 +6286,7 @@
     "ARscore": "15,4",
     "ARrank": 501,
     "ISscore": "10,4",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "24,4",
     "Y1": 2.5178151006119327,
     "Y2": 0.5268824157293238
@@ -6299,7 +6299,7 @@
     "ARscore": "12,5",
     "ARrank": 501,
     "ISscore": "79,4",
-    "ISrank": 151,
+    "International Student Rank": 151,
     "Overall Score": "24,4",
     "Y1": 1.0678774218948683,
     "Y2": -2.1750388642067593
@@ -6312,7 +6312,7 @@
     "ARscore": "21,5",
     "ARrank": 383,
     "ISscore": "70,8",
-    "ISrank": 188,
+    "International Student Rank": 188,
     "Overall Score": "24,4",
     "Y1": 0.7124222400926957,
     "Y2": -1.5398852602287962
@@ -6325,7 +6325,7 @@
     "ARscore": 34,
     "ARrank": 236,
     "ISscore": 2,
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "24,2",
     "Y1": 1.4971378232493173,
     "Y2": 1.4740635967108222
@@ -6338,7 +6338,7 @@
     "ARscore": "16,9",
     "ARrank": 485,
     "ISscore": 6,
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "24,1",
     "Y1": 2.498377314697444,
     "Y2": 0.6592257236762569
@@ -6351,7 +6351,7 @@
     "ARscore": "20,8",
     "ARrank": 392,
     "ISscore": "21,9",
-    "ISrank": 499,
+    "International Student Rank": 499,
     "Overall Score": 24,
     "Y1": 1.8156846653982657,
     "Y2": 0.2950289871983084
@@ -6364,7 +6364,7 @@
     "ARscore": "33,6",
     "ARrank": 239,
     "ISscore": "34,4",
-    "ISrank": 391,
+    "International Student Rank": 391,
     "Overall Score": 24,
     "Y1": 0.8146836614635499,
     "Y2": 0.21263900631185612
@@ -6377,7 +6377,7 @@
     "ARscore": "16,1",
     "ARrank": 501,
     "ISscore": 7,
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "23,9",
     "Y1": 2.5546976926024545,
     "Y2": 0.5947783687163442
@@ -6390,7 +6390,7 @@
     "ARscore": "28,8",
     "ARrank": 289,
     "ISscore": "5,1",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "23,9",
     "Y1": 1.7238597049891051,
     "Y2": 1.2372102643872054
@@ -6403,7 +6403,7 @@
     "ARscore": "23,2",
     "ARrank": 356,
     "ISscore": "24,1",
-    "ISrank": 472,
+    "International Student Rank": 472,
     "Overall Score": "23,9",
     "Y1": 1.5996471526563392,
     "Y2": 0.276528059213737
@@ -6416,7 +6416,7 @@
     "ARscore": "15,6",
     "ARrank": 501,
     "ISscore": "6,2",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "23,8",
     "Y1": 2.575436111169606,
     "Y2": 0.6029442789658918
@@ -6429,7 +6429,7 @@
     "ARscore": "34,9",
     "ARrank": 229,
     "ISscore": "23,7",
-    "ISrank": 476,
+    "International Student Rank": 476,
     "Overall Score": "23,7",
     "Y1": 1.029360556022237,
     "Y2": 0.7069577209882707
@@ -6442,7 +6442,7 @@
     "ARscore": "8,2",
     "ARrank": 501,
     "ISscore": "31,5",
-    "ISrank": 417,
+    "International Student Rank": 417,
     "Overall Score": "23,7",
     "Y1": 2.1336273815360665,
     "Y2": -0.5224233750880133
@@ -6455,7 +6455,7 @@
     "ARscore": "10,7",
     "ARrank": 501,
     "ISscore": "10,6",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "23,7",
     "Y1": 2.6243426771050635,
     "Y2": 0.4606451922891269
@@ -6468,7 +6468,7 @@
     "ARscore": "4,9",
     "ARrank": 501,
     "ISscore": "2,5",
-    "ISrank": 601,
+    "International Student Rank": 601,
     "Overall Score": "23,6",
     "Y1": 2.8224025581489376,
     "Y2": 0.5425175746430666
@@ -6481,7 +6481,7 @@
     "ARscore": "15,9",
     "ARrank": 501,
     "ISscore": "47,8",
-    "ISrank": 300,
+    "International Student Rank": 300,
     "Overall Score": "23,6",
     "Y1": 1.6170696370974487,
     "Y2": -1.0936758794424486
@@ -6494,7 +6494,7 @@
     "ARscore": "12,7",
     "ARrank": 501,
     "ISscore": "69,4",
-    "ISrank": 193,
+    "International Student Rank": 193,
     "Overall Score": "23,5",
     "Y1": 1.2676738328247958,
     "Y2": -1.864710606537296
