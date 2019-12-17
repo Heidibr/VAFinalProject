@@ -425,7 +425,27 @@ function updateTableData(data){
   filteredDataset = data
   titles = d3.keys(data[0]);
 
-  
+  // List of groups (here I have one group per column)
+  var allGroup = d3.selectAll('option');
+  // add the options to the button
+  d3.select("#dd")
+    .selectAll('myOptions')
+    .data(allGroup)
+    .enter()
+    .append('option')
+    .text(function (d) { return d; }) // text showed in the menu
+    .attr("value", function (d) { return d; })
+
+    
+  // When the button is changed, we run the redraw to get the newly sorted data
+  d3.select("#dd").on("change", function(d) {
+      // recover the option that has been chosen
+      var selectedOption = d3.select(this).property("value")
+      console.log(selectedOption)
+      // run the updateChart function with this selected option
+      rows.sort( (a, b) => a[selectedOption] - b[selectedOption]);
+      redraw(0)
+  })
 
   var rows = d3.select("table").selectAll("tr")
       .remove()
