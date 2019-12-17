@@ -50,14 +50,12 @@ svg.append("text")
 
 
 function drawScatter(data) {
+    console.log(data)
+    cValue = function (d) {
+        console.log(d.Continent)
+        return d.Continent;
+    }
 
-  console.log(data)
-  cValue = function (d) {
-    console.log(d.Continent)  
-    return d.Continent;
-      
-  }
-  
   color = d3.scaleOrdinal(d3.schemeCategory10);
   //Update the scale
   var maxHeight = d3.max(data, function (d) {
@@ -89,9 +87,9 @@ function drawScatter(data) {
       .attr("r", 3)
       .attr("class", "knncircle")
       .style("fill", function (d) {
-         
+
               return color(cValue(d));
-  
+
       })
       .attr("cx", function (d) {
           return x_scatter(d.Y1);
@@ -99,7 +97,7 @@ function drawScatter(data) {
       .attr("cy", function (d) {
           return y_scatter(d.Y2)
       })
-      
+
 
   var legend = focus.selectAll(".legend")
       .data(color.domain())
@@ -114,7 +112,8 @@ function drawScatter(data) {
       .attr("x", width_scatter - 5)
       .attr("width", 10)
       .attr("height", 10)
-      .style("fill", color);
+      .style("fill", color)
+
 
   // draw legend text
   legend.append("text")
@@ -126,6 +125,20 @@ function drawScatter(data) {
       .text(function (d) {
           return d;
       })
+      .on('click', function(d){
+            var currentContinent = d
+           update(currentContinent, fullDataSet)
+      })
+}
+
+function update(currentContinent, dataset) {
+
+      // Create new data with the selection?
+      var dataFilter = dataset.filter(function(d){
+          return d.Continent==currentContinent})
+
+      // Give these new data to update line
+      updateTableData(dataFilter)
 }
 
 ////////////////////////// Brush initialization (scatter plot) /////////////////////////////////
@@ -142,6 +155,9 @@ focus.append("g")
     .call(brushTot);
 
 ///////////////////////selection function of brush (scatter plot) ///////////////////////////////
+
+
+
 
 function selected() {
     dataSelection = []
@@ -161,6 +177,8 @@ function selected() {
                     return "red";
                 }
             })
+            focus.selectAll(".legend").remove();
+
 
        // g.selectAll("circle").remove();
 
@@ -200,7 +218,7 @@ function selected() {
         //lineChart(dataSelection);
       console.log(dataSelection)
       updateTableData(dataSelection)
-      
+
       }
     //Nothing is selected by the brush
     else {
@@ -209,6 +227,39 @@ function selected() {
         focus.selectAll("circle")
             .style("fill", function (d) {
                 return color(cValue(d));
+            })
+
+            // put back the legend
+
+            var legend = focus.selectAll(".legend")
+                .data(color.domain())
+                .enter().append("g")
+                .attr("class", "legend")
+                .attr("transform", function (d, i) {
+                    return "translate(0," + i * 17 + ")";
+                });
+
+            // draw legend colored rectangles
+            legend.append("rect")
+                .attr("x", width_scatter - 5)
+                .attr("width", 10)
+                .attr("height", 10)
+                .style("fill", color)
+
+
+            // draw legend text
+            legend.append("text")
+                .attr("x", width_scatter - 15)
+                .attr("y", 6)
+                .attr("dy", ".35em")
+                .style("text-anchor", "end")
+                .style("font-size", "0.8em")
+                .text(function (d) {
+                    return d;
+                })
+                .on('click', function(d){
+                      var currentContinent = d
+                     update(currentContinent, fullDataSet)
             })
 
         console.log("reset");
@@ -263,36 +314,10 @@ function selected() {
         // remove the knn lines
         //focus.selectAll(".knnline").remove()
         //lineChart(null);
-        //remove old lines 
-        
+        //remove old lines
 
-        // put back the legend
 
-    var legend = focus.selectAll(".legend")
-    .data(color.domain())
-    .enter().append("g")
-    .attr("class", "legend")
-    .attr("transform", function (d, i) {
-        return "translate(0," + i * 17 + ")";
-    });
 
-    // draw legend colored rectangles
-    legend.append("rect")
-        .attr("x", width_scatter - 5)
-        .attr("width", 10)
-        .attr("height", 10)
-        .style("fill", color);
-
-    // draw legend text
-    legend.append("text")
-        .attr("x", width_scatter - 15)
-        .attr("y", 6)
-        .attr("dy", ".35em")
-        .style("text-anchor", "end")
-        .style("font-size", "0.8em")
-        .text(function (d) {
-            return d;
-        })
     }
 }
 
@@ -308,12 +333,12 @@ function getCountry(name){
   } else {
     return false;
   }
-  
+
 }
 function nameChanged(){
   console.log(currentCountry)
   return true;
-  
+
 }*/
 
 /////////////////////////////////////////TABLE\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
@@ -343,7 +368,7 @@ function drawTable(data){
     .text(function (d) { return d; }) // text showed in the menu
     .attr("value", function (d) { return d; })
 
-    
+
   // When the button is changed, we run the redraw to get the newly sorted data
   d3.select("#dd").on("change", function(d) {
       // recover the option that has been chosen
@@ -358,16 +383,16 @@ function drawTable(data){
     var changesText= d3.select(this).property("value")
     console.log(changesText)
   })*/
-  
- 
-  
+
+
+
   body = d3.select("#table-holder");
   //Eventuelt sette columns statisk slik at vi får fullt navn på dem??
   titles = d3.keys(data[0]);
   table = body.append("table");
   thead = table.append('thead');
   tbody = table.append("tbody");
-  
+
   drawHeader()
 
   var rows = tbody.selectAll("tr")
@@ -379,7 +404,7 @@ function drawTable(data){
     .data(function(d){
       //TODO: does not work
       return titles.map(function(column){
-        //shows countries. 
+        //shows countries.
         return{
           'value':d[column],
           name: column
@@ -394,23 +419,23 @@ function drawTable(data){
     .text(function(d){
       return d.value
   })
-    
 
-    
+
+
   d3.select("#buttons").datum({portion : 0});
   // the chain select here pushes the datum onto the up and down buttons also
   d3.select("#buttons").select("#up").on ("click", function(d) {
     d.portion -= 16;
     redraw (d.portion);
-    
+
   });
     d3.select("#buttons").select("#down").on ("click", function(d) {
     d.portion += 16;
     redraw (d.portion);
   })
-  
+
   redraw(0);
-    
+
 }
 
 function redraw (start) {
@@ -425,12 +450,12 @@ function updateTableData(data){
   filteredDataset = data
   titles = d3.keys(data[0]);
 
-  
+
 
   var rows = d3.select("table").selectAll("tr")
       .remove()
       console.log('ROOOWS in Update', rows)
-    
+
   rows = d3.select("table").selectAll("tr")
     .data(data)
     .enter()
@@ -440,7 +465,7 @@ function updateTableData(data){
     .data(function(d){
       //TODO: does not work
       return titles.map(function(column){
-        //shows countries. 
+        //shows countries.
         return{
           'value':d[column],
           name: column
@@ -455,9 +480,10 @@ function updateTableData(data){
     .text(function(d){
       return d.value
   })
-  
+
   redraw(0)
 }
+
 
 
 var body;
@@ -466,12 +492,10 @@ var titles;
 var table;
 var thead;
 var tbody;
-
+var fullDataSet;
 ////////////////////// GETTING DATA FROM JSON FILE\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 d3.json("./pca/full_dataset_pca.json", function(data){
-  var fullDataSet = data
+  fullDataSet = data
   drawTable(fullDataSet)
-  drawScatter(fullDataSet)      
+  drawScatter(fullDataSet)
 })
-
-
