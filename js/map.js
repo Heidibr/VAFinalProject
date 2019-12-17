@@ -135,6 +135,8 @@
       ;
 
 
+      var  countryName ;
+      var countries;
       // get map data
       d3.json(
         "https://raw.githubusercontent.com/andybarefoot/andybarefoot-www/master/maps/mapdata/custom50.json",
@@ -173,6 +175,12 @@
             .on("click", function(d, i) {
                 d3.selectAll(".country").classed("country-on", false);
                 d3.select(this).classed("country-on", true);
+                countryName = d.properties.name
+                updateTable(countryName)
+                d3.csv("./data/convertcsv.csv", function(data){
+                  getCountry(countryName, data)
+                })
+                d3.select('#current').text(d.properties.name)
             boxZoom(path.bounds(d), path.centroid(d), 20);
             });
           // Add a label group to each feature/country. This will contain the country name and a background rectangle
@@ -204,6 +212,7 @@
                 d3.select("#country" + d.properties.iso_a3).classed("country-on", true);
               boxZoom(path.bounds(d), path.centroid(d), 20);
             });
+
           // add the text to the label group showing country name
           countryLabels
             .append("text")
