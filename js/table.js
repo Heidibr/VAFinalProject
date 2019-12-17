@@ -10,6 +10,7 @@ margin_scatter = {
   x_scatter = d3.scaleLinear().range([0, width_scatter]),
   y_scatter = d3.scaleLinear().range([height_scatter, 0]),
 
+
   xAxis_scatter = d3.axisBottom(x_scatter),
   yAxis_scatter = d3.axisLeft(y_scatter);
 
@@ -346,12 +347,13 @@ d3.select("#dd")
   
   var body = d3.select("#table-holder");
   //Eventuelt sette columns statisk slik at vi får fullt navn på dem??
-  var titles = d3.keys(data[0])
+  var titles = d3.keys(data[0]);
   var table = body.append("table");
-  var thead = table.append("thead")
+  var thead = table.append('thead');
   var tbody = table.append("tbody");
 
-    header = thead.append("tr")
+
+   header = thead.append("tr")
       .selectAll("th")
       .data(titles)
       .enter()
@@ -386,7 +388,8 @@ d3.select("#dd")
         return d.value
       })
 
-      
+      console.log('dette er thead:', titles);
+
       d3.select("#buttons").datum({portion : 0});
       // the chain select here pushes the datum onto the up and down buttons also
       d3.select("#buttons").select("#up").on ("click", function(d) {
@@ -436,4 +439,17 @@ drawScatter(fullDataSet)
 
       
 })
+
+      
+
+      function redraw (start) {
+        d3.select("table").selectAll("tr")
+          .style("display", function(d,i) {
+            return i >= start && i < start + 16 ? null : "none";
+          })
+      }
+      redraw(0);
+
+
+
 
