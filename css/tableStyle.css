@@ -12,12 +12,28 @@ tr,td,th{
     border:1px solid grey;
     text-align: left;
     padding: 4px;
+
     border-collapse:collapse;
     vertical-align:middle;
     background: white;
 }
 
+th:last-child, td:last-child { display: none }
+th:nth-last-child(2), td:nth-last-child(2) { display: none }
 
-thead {
-       display: table-header-group;
-   }
+thead{
+    border:1px solid grey;
+    text-align: left;
+    padding: 4px;
+    border-collapse:collapse;
+    vertical-align:middle;
+    background: orange;
+}
+
+table, td, th {
+    border-collapse: collapse;
+    border: 1px solid #000;
+}
+table + tableHeader, table + tableHeader tr:first-child th, table + tableHeader tr:first-child td {
+    border-top: 0;
+}
