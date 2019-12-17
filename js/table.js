@@ -151,6 +151,7 @@ function selected() {
 
                     dataSelection.push(d);
                     return "green";
+
                 } else {
                     return "red";
                 }
@@ -193,6 +194,7 @@ function selected() {
        // RadarChart(".radarChart", dataSelection, radarChartOptions);
         //lineChart(dataSelection);
       console.log(dataSelection)
+      updateTableData(dataSelection)
       
       }
     //Nothing is selected by the brush
@@ -214,7 +216,7 @@ function selected() {
 
         g.selectAll("circle").remove();
 
-        if (flag_s == false) {
+        //if (flag_s == false) {
             g.selectAll("circle")
                 .data(datap)
                 .enter().append("circle", "image")
@@ -229,7 +231,7 @@ function selected() {
                         d.lat,
                     ]) + ")";
                 })
-        } else {
+        //} else {
             g.selectAll("circle")
                 .data(datap)
                 .enter().append("circle", "image")
@@ -246,7 +248,7 @@ function selected() {
 
                     ]) + ")";
                 })
-        }
+        //}
         //  remove the rader cgart when click on the empty area of the scatter plot
         //onceForRadar_flag = false;
         //RadarChart(".radarChart", onceForRadar, radarChartOptions, onceForRadar_flag);
@@ -366,6 +368,7 @@ d3.select("#dd")
       console.log(rows)
     var cells = rows.selectAll("td")
       .data(function(d){
+        //TODO: does not work
         return titles.map(function(column){
           //shows countries. 
           return{
@@ -394,19 +397,34 @@ d3.select("#dd")
         d.portion += 16;
         redraw (d.portion);
       })
-      
-      
-
-
-      function redraw (start) {
-        d3.select("table").selectAll("tr")
-          .style("display", function(d,i) {
-            return i >= start && i < start + 16 ? null : "none";
-          })
-      }
       redraw(0);
     
 }
+
+function redraw (start) {
+  d3.select("table").selectAll("tr")
+    .style("display", function(d,i) {
+      return i >= start && i < start + 16 ? null : "none";
+    })
+}
+
+function updateTableData(data, titles){
+  console.log(data)
+  d3.select("table").selectAll("tr")
+  .data(data)
+  .selectAll("td")
+  .data(function(row) {
+    return titles.map(function(column) {
+      return {
+        column: column,
+        value: row[column]
+      };
+    });
+  })
+  .text(function(d) {return d.value;});
+  redraw(0)
+}
+
 
 d3.json("./data/csvjsonPCA.json", function(data){
 var fullDataSet = data
