@@ -4,8 +4,8 @@ margin_scatter = {
   bottom: 40,
   left: 40
 },
-  width_scatter = 380 - margin_scatter.left - margin_scatter.right,
-  height_scatter = 300.16 - margin_scatter.top - margin_scatter.bottom,
+  width_scatter = 800 - margin_scatter.left - margin_scatter.right,
+  height_scatter = 631,92 - margin_scatter.top - margin_scatter.bottom,
 
   x_scatter = d3.scaleLinear().range([0, width_scatter]),
   y_scatter = d3.scaleLinear().range([height_scatter, 0]),
@@ -229,6 +229,7 @@ function selected() {
                 return color(cValue(d));
             })
 
+            updateTableData(fullDataSet)
             // put back the legend
 
             var legend = focus.selectAll(".legend")
@@ -486,7 +487,7 @@ function updateTableData(data){
     .data(function(d){
       //TODO: does not work
       return titles.map(function(column){
-        //shows countries.
+        
         return{
           'value':d[column],
           name: column
