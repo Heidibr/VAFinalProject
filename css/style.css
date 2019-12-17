@@ -1,5 +1,5 @@
 body {
-  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   font-weight: 300;
 }
 
@@ -9,17 +9,19 @@ header {
     margin-bottom: 5px;
 }
 
+
 #container {
     display: flex;
     align-items: center;
     align-content: center;
     justify-content: space-around;
 }
+/*
 #textmap{
   display: flex;
   align-content: flex-start;
   align-items: center;
-}
+}*/
 
 #table {
     width: 100vw;
@@ -33,4 +35,3 @@ header {
     padding: 10px;
     margin: 5px;
   }
-  
