@@ -17,8 +17,7 @@ tr,td,th{
     background: white;
 }
 
-@@media print {
-    thead {
-           display: table-header-group;
-       }
-}
+
+thead{
+       display: table-header-group;
+   }

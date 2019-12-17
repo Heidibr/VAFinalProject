@@ -1,5 +1,5 @@
 
-var dd = d3.select("#dd")
+
 
 d3.csv("./data/convertcsv.csv", function(data){
 
@@ -25,15 +25,16 @@ d3.select("#dd")
       redraw(0)
   })
 
-  
+
   var body = d3.select("#table-holder");
   //Eventuelt sette columns statisk slik at vi får fullt navn på dem??
-  var titles = d3.keys(data[0])
+  var titles = d3.keys(data[0]);
   var table = body.append("table");
-  var thead = table.append("thead")
+  var thead = table.append('thead');
   var tbody = table.append("tbody");
 
-    header = thead.append("tr")
+
+   header = thead.append("tr")
       .selectAll("th")
       .data(titles)
       .enter()
@@ -51,7 +52,7 @@ d3.select("#dd")
     var cells = rows.selectAll("td")
       .data(function(d){
         return titles.map(function(column){
-          //shows countries. 
+          //shows countries.
           //console.log(row["Country"])
           return{
            'value':d[column],
@@ -68,7 +69,7 @@ d3.select("#dd")
         return d.value
       })
 
-      
+
       d3.select("#buttons").datum({portion : 0});
       // the chain select here pushes the datum onto the up and down buttons also
       d3.select("#buttons").select("#up").on ("click", function(d) {
@@ -79,8 +80,8 @@ d3.select("#dd")
         d.portion += 16;
         redraw (d.portion);
       })
-      
 
+      console.log('dette er thead:', titles);
 
       function redraw (start) {
         d3.select("table").selectAll("tr")
@@ -89,8 +90,7 @@ d3.select("#dd")
           })
       }
       redraw(0);
-    
-      
-    
-})
 
+
+
+})
