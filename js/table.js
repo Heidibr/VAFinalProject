@@ -351,6 +351,7 @@ function drawHeader(){
     .data(titles)
     .enter()
     .append("th")
+    .style('width', '650px')
     .text(function(d,i){
       return d;
     })
