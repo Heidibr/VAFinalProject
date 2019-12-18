@@ -47,6 +47,7 @@ h1 {
 
 .legend{
   cursor: pointer;
+  color: #2A2C39;
 }
 
 
@@ -56,9 +57,7 @@ h1 {
     padding: 10px;
     align-self: center;
   }
-  svg rect {
-    fill: white;   /* map background colour */
-  }
+  
   .country{
     fill: #2A2C39;   /* country colour */
     stroke: #d0d0d0; /* country border colour */

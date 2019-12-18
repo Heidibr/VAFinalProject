@@ -149,7 +149,8 @@
             .attr("x", 0)
             .attr("y", 0)
             .attr("width", w)
-            .attr("height", h);
+            .attr("height", h)
+            .style('fill', 'white');
 
           // draw a path for each feature/country
           countries = countriesGroup

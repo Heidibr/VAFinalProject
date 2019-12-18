@@ -10,17 +10,14 @@ margin_scatter = {
   x_scatter = d3.scaleLinear().range([0, width_scatter]),
   y_scatter = d3.scaleLinear().range([height_scatter, 0]),
 
-
   xAxis_scatter = d3.axisBottom(x_scatter),
   yAxis_scatter = d3.axisLeft(y_scatter);
-
 
 svg = d3.select("#scatterArea").append("svg")
   .attr("width", width_scatter + margin_scatter.left + margin_scatter.right)
   .attr("height", height_scatter + margin_scatter.top + margin_scatter.bottom)
   .attr("transform", "translate(" + 20 + "," + 0 + ")")
   
-
 focus = svg.append("g")
   .attr("class", "focus")
   .attr("transform", "translate(" + margin_scatter.left + "," + margin_scatter.top + ")");
@@ -51,11 +48,11 @@ svg.append("text")
 
 
 function drawScatter(data) {
-    console.log(data)
-    cValue = function (d) {
-        console.log(d.Continent)
-        return d.Continent;
-    }
+  console.log(data)
+  cValue = function (d) {
+    console.log(d.Continent)
+    return d.Continent;
+  }
 
   color = d3.scaleOrdinal(d3.schemeCategory10);
   //Update the scale
@@ -79,259 +76,153 @@ function drawScatter(data) {
   xAxis.transition().call(xAxis_scatter);
   yAxis_scatter.scale(y_scatter);
   yAxis.transition().call(yAxis_scatter);
-  
+
   focus.selectAll("circle").remove();
 
   dots = focus.selectAll("circle").data(data);
 
   dots.enter().append("circle")
-      .attr("r", 3)
-      .attr("class", "knncircle")
-      .style("fill", function (d) {
-
-              return color(cValue(d));
-
+    .attr("r", 3)
+    .attr("class", "knncircle")
+    .style("fill", function (d) {
+      return color(cValue(d));
       })
-      .attr("cx", function (d) {
-          return x_scatter(d.Y1);
+    .attr("cx", function (d) {
+      return x_scatter(d.Y1);
       })
-      .attr("cy", function (d) {
-          return y_scatter(d.Y2)
+    .attr("cy", function (d) {
+      return y_scatter(d.Y2)
       })
-
 
   var legend = focus.selectAll(".legend")
-      .data(color.domain())
-      .enter().append("g")
-      .attr("class", "legend")
-      .attr("transform", function (d, i) {
-          return "translate(0," + i * 17 + ")";
-      });
+    .data(color.domain())
+    .enter().append("g")
+    .attr("class", "legend")
+    .attr("transform", function (d, i) {
+        return "translate(0," + i * 17 + ")";
+    });
 
   // draw legend colored rectangles
   legend.append("rect")
-      .attr("x", width_scatter - 5)
-      .attr("width", 10)
-      .attr("height", 10)
-      .style("fill", color)
-
+    .attr("x", width_scatter - 5)
+    .attr("width", 10)
+    .attr("height", 10)
+    .style("fill", color)
 
   // draw legend text
   legend.append("text")
-      .attr("x", width_scatter - 15)
-      .attr("y", 6)
-      .attr("dy", ".35em")
-      .style("text-anchor", "end")
-      .style("font-size", "0.8em")
-      .text(function (d) {
-          return d;
-      })
-      .on('click', function(d){
-            var currentContinent = d
-           update(currentContinent, fullDataSet)
-      })
+    .attr("x", width_scatter - 15)
+    .attr("y", 6)
+    .attr("dy", ".35em")
+    .style("text-anchor", "end")
+    .style("font-size", "0.8em")
+    .text(function (d) {
+        return d;
+    })
+    .on('click', function(d){
+          var currentContinent = d
+          update(currentContinent, fullDataSet)
+    })
 }
 
 function update(currentContinent, dataset) {
-
-      // Create new data with the selection?
-      var dataFilter = dataset.filter(function(d){
-          return d.Continent==currentContinent})
-
-      // Give these new data to update line
-      updateTableData(dataFilter)
-      drawScatter(dataFilter)
+  // Create new filtered dataset
+  var dataFilter = dataset.filter(function(d){
+      return d.Continent==currentContinent})
+  // Give these new data to update line
+  updateTableData(dataFilter)
+  drawScatter(dataFilter)
 }
 
-////////////////////////// Brush initialization (scatter plot) /////////////////////////////////
+////////////////////////// Adding Brush to ScatterPlot \\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 brushTot = d3.brush()
-    .extent([
-        [0, 0],
-        [width_scatter, height_scatter]
-    ])
-    .on("end", selected)
+  .extent([
+      [0, 0],
+      [width_scatter, height_scatter]
+  ])
+  .on("end", selected)
 
 focus.append("g")
-    .attr("class", "brushT")
-    .call(brushTot);
+  .attr("class", "brushT")
+  .call(brushTot);
 
-///////////////////////selection function of brush (scatter plot) ///////////////////////////////
-
-
-
+//////////////////////// Handling selected plots \\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 function selected() {
-    dataSelection = []
+  dataSelection = []
+  var selection = d3.event.selection;
+  if (selection != null) {
+      focus.selectAll("circle")
+          .style("fill", function (d) {
+              if (x_scatter(d.Y1) > selection[0][0] && x_scatter(d.Y1) < selection[1][0] &&
+                  y_scatter(d.Y2) > selection[0][1] && y_scatter(d.Y2) < selection[1][1]) {
 
-    var selection = d3.event.selection;
+                  dataSelection.push(d);
+                  return "green";
 
-    if (selection != null) {
-        focus.selectAll("circle")
-            .style("fill", function (d) {
-                if (x_scatter(d.Y1) > selection[0][0] && x_scatter(d.Y1) < selection[1][0] &&
-                    y_scatter(d.Y2) > selection[0][1] && y_scatter(d.Y2) < selection[1][1]) {
+              } else {
+                  return "red";
+              }
+          })
+    focus.selectAll(".legend").remove();
+    updateTableData(dataSelection);
+  }else {
+    //No data selected
+    dataSelection = [];
 
-                    dataSelection.push(d);
-                    return "green";
+    focus.selectAll("circle")
+        .style("fill", function (d) {
+            return color(cValue(d));
+        })
 
-                } else {
-                    return "red";
-                }
-            })
-            focus.selectAll(".legend").remove();
+        updateTableData(fullDataSet)
+        drawScatter(fullDataSet)
+        // put back the legend
 
+    var legend = focus.selectAll(".legend")
+        .data(color.domain())
+        .enter().append("g")
+        .attr("class", "legend")
+        .attr("transform", function (d, i) {
+            return "translate(0," + i * 17 + ")";
+        });
 
-       // g.selectAll("circle").remove();
-
-        /*
-            g.selectAll("circle")
-                .data(dataSelection)
-                .enter().append("circle", "image")
-                .attr("r", 2)
-                .style("fill", "red")
-                .on("mousemove", showTooltip2)
-                .on("mouseout", hideTooltip2)
-                .attr("transform", function (d) {
-                    return "translate(" + projection([
-                        d.lon,
-                        d.lat,
-                    ]) + ")";
-                })
-        //} else {
-            g.selectAll("circle")
-                .data(dataSelection)
-                .enter().append("circle", "image")
-                .attr("r", 8 / k)
-                .style("fill", "green")
-                .on("mousemove", showTooltip2)
-                .on("mouseout", hideTooltip2)
-
-                .attr("transform", function (d) {
-
-                    return "translate(" + projection([
-                        d.lon,
-                        d.lat,
-
-                    ]) + ")";
-                })
-        /}*/
-       // RadarChart(".radarChart", dataSelection, radarChartOptions);
-        //lineChart(dataSelection);
-      console.log(dataSelection)
-      updateTableData(dataSelection)
-      
-
-      }
-    //Nothing is selected by the brush
-    else {
-        dataSelection = [];
-
-        focus.selectAll("circle")
-            .style("fill", function (d) {
-                return color(cValue(d));
-            })
-
-            updateTableData(fullDataSet)
-            drawScatter(fullDataSet)
-            // put back the legend
-
-            var legend = focus.selectAll(".legend")
-                .data(color.domain())
-                .enter().append("g")
-                .attr("class", "legend")
-                .attr("transform", function (d, i) {
-                    return "translate(0," + i * 17 + ")";
-                });
-
-            // draw legend colored rectangles
-            legend.append("rect")
-                .attr("x", width_scatter - 5)
-                .attr("width", 10)
-                .attr("height", 10)
-                .style("fill", color)
+    // draw legend colored rectangles
+    legend.append("rect")
+        .attr("x", width_scatter - 5)
+        .attr("width", 10)
+        .attr("height", 10)
+        .style("fill", color)
 
 
-            // draw legend text
-            legend.append("text")
-                .attr("x", width_scatter - 15)
-                .attr("y", 6)
-                .attr("dy", ".35em")
-                .style("text-anchor", "end")
-                .style("font-size", "0.8em")
-                .text(function (d) {
-                    return d;
-                })
-                .on('click', function(d){
-                      var currentContinent = d
-                     update(currentContinent, fullDataSet)
-                     
-            })
+    // draw legend text
+    legend.append("text")
+        .attr("x", width_scatter - 15)
+        .attr("y", 6)
+        .attr("dy", ".35em")
+        .style("text-anchor", "end")
+        .style("font-size", "0.8em")
+        .text(function (d) {
+            return d;
+        })
+        .on('click', function(d){
+              var currentContinent = d
+            update(currentContinent, fullDataSet)
+            
+        })
 
-        console.log("reset");
+    if (flag_s == false) {
+        datap = filtered_data;
+    } else {
+        datap = contained_points;
+    }
 
-        if (flag_s == false) {
-            datap = filtered_data;
-        } else {
-            datap = contained_points;
-        }
-
-        g.selectAll("circle").remove();
-
-        //if (flag_s == false) {
-            g.selectAll("circle")
-                .data(datap)
-                .enter().append("circle", "image")
-                .attr("r", 2)
-                .style("fill", "red")
-                .on("mousemove", showTooltip2)
-                .on("mouseout", hideTooltip2)
-
-                .attr("transform", function (d) {
-                    return "translate(" + projection([
-                        d.lon,
-                        d.lat,
-                    ]) + ")";
-                })
-        //} else {
-            g.selectAll("circle")
-                .data(datap)
-                .enter().append("circle", "image")
-                .attr("r", 8 / k)
-                .style("fill", "red")
-                .on("mousemove", showTooltip2)
-                .on("mouseout", hideTooltip2)
-
-                .attr("transform", function (d) {
-
-                    return "translate(" + projection([
-                        d.lon,
-                        d.lat,
-
-                    ]) + ")";
-                })
-        //}
-        //  remove the rader cgart when click on the empty area of the scatter plot
-        //onceForRadar_flag = false;
-        //RadarChart(".radarChart", onceForRadar, radarChartOptions, onceForRadar_flag);
-        // remove the table
-        //d3.selectAll(".table-remove").remove();
-        //$(".html_table").css("display", "table");
-        // remove the knn lines
-        //focus.selectAll(".knnline").remove()
-        //lineChart(null);
-        //remove old lines
-
-
-
+    g.selectAll("circle").remove();
     }
 }
 
-
-
-
-
-
+/////////////////////////////////Getting countryname from map and Filtering Table \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 function getCountryNameFromMap(currentCountry){
   
   var dataFilter = fullDataSet.filter(function(d){
@@ -340,12 +231,12 @@ function getCountryNameFromMap(currentCountry){
 
 }
 
+/////////////////////////////////////TABLE\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+var header;
+
 function resetTable(){
   updateTableData(fullDataSet)
 }
-
-/////////////////////////////////////////TABLE\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-var header;
 
 function drawHeader(){
   header = d3.select('#tableHeader').append("tr")
@@ -386,12 +277,6 @@ function drawTable(data){
       rows.sort( (a, b) => a[selectedOption] - b[selectedOption]);
       redraw(0)
   })
-
-  /*d3.select('#current').on('change', function(d){
-    var changesText= d3.select(this).property("value")
-    console.log(changesText)
-  })*/
-
 
 
   body = d3.select("#table-holder");
@@ -520,14 +405,15 @@ function updateTableData(data){
 }
 
 
-
+//Setting global variables to access data anywhare when displaying the visualsation 
 var body;
-//Eventuelt sette columns statisk slik at vi får fullt navn på dem??
 var titles;
 var table;
 var thead;
 var tbody;
 var fullDataSet;
+
+
 ////////////////////// GETTING DATA FROM JSON FILE\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 d3.json("./pca/full_dataset_pca.json", function(data){
   fullDataSet = data
