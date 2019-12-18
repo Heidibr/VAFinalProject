@@ -48,9 +48,7 @@ svg.append("text")
 
 
 function drawScatter(data) {
-  console.log(data)
   cValue = function (d) {
-    console.log(d.Continent)
     return d.Continent;
   }
 
@@ -272,7 +270,6 @@ function drawTable(data){
   d3.select("#dd").on("change", function(d) {
       // recover the option that has been chosen
       var selectedOption = d3.select(this).property("value")
-      console.log(selectedOption)
       // run the updateChart function with this selected option
       rows.sort( (a, b) => a[selectedOption] - b[selectedOption]);
       redraw(0)
@@ -340,7 +337,6 @@ function redraw (start) {
 }
 
 function updateTableData(data){
-  console.log(data)
   filteredDataset = data
   titles = d3.keys(data[0]);
 
