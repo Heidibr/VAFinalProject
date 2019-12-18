@@ -209,14 +209,6 @@ function selected() {
             update(currentContinent, fullDataSet)
             
         })
-
-    if (flag_s == false) {
-        datap = filtered_data;
-    } else {
-        datap = contained_points;
-    }
-
-    g.selectAll("circle").remove();
     }
 }
 
@@ -361,7 +353,6 @@ function updateTableData(data){
   d3.select("#dd").on("change", function(d) {
       // recover the option that has been chosen
       var selectedOption = d3.select(this).property("value")
-      console.log(selectedOption)
       // run the updateChart function with this selected option
       rows.sort( (a, b) => a[selectedOption] - b[selectedOption]);
       redraw(0)
@@ -370,7 +361,6 @@ function updateTableData(data){
 
   var rows = d3.select("table").selectAll("tr")
       .remove()
-      console.log('ROOOWS in Update', rows)
 
   rows = d3.select("table").selectAll("tr")
     .data(data)
