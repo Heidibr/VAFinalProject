@@ -18,7 +18,8 @@ margin_scatter = {
 svg = d3.select("#scatterArea").append("svg")
   .attr("width", width_scatter + margin_scatter.left + margin_scatter.right)
   .attr("height", height_scatter + margin_scatter.top + margin_scatter.bottom)
-  .attr("transform", "translate(" + 20 + "," + 0 + ")");
+  .attr("transform", "translate(" + 20 + "," + 0 + ")")
+  
 
 focus = svg.append("g")
   .attr("class", "focus")
@@ -78,7 +79,7 @@ function drawScatter(data) {
   xAxis.transition().call(xAxis_scatter);
   yAxis_scatter.scale(y_scatter);
   yAxis.transition().call(yAxis_scatter);
-
+  
   focus.selectAll("circle").remove();
 
   dots = focus.selectAll("circle").data(data);
@@ -139,6 +140,7 @@ function update(currentContinent, dataset) {
 
       // Give these new data to update line
       updateTableData(dataFilter)
+      drawScatter(dataFilter)
 }
 
 ////////////////////////// Brush initialization (scatter plot) /////////////////////////////////
@@ -218,6 +220,7 @@ function selected() {
         //lineChart(dataSelection);
       console.log(dataSelection)
       updateTableData(dataSelection)
+      
 
       }
     //Nothing is selected by the brush
@@ -230,6 +233,7 @@ function selected() {
             })
 
             updateTableData(fullDataSet)
+            drawScatter(fullDataSet)
             // put back the legend
 
             var legend = focus.selectAll(".legend")
@@ -261,6 +265,7 @@ function selected() {
                 .on('click', function(d){
                       var currentContinent = d
                      update(currentContinent, fullDataSet)
+                     
             })
 
         console.log("reset");
@@ -325,22 +330,19 @@ function selected() {
 
 
 
-/*var currentCountry;
 
-function getCountry(name){
-  if(currentCountry != name){
-    currentCountry = name;
-    nameChanged()
-  } else {
-    return false;
-  }
+
+function getCountryNameFromMap(currentCountry){
+  
+  var dataFilter = fullDataSet.filter(function(d){
+    return d.Country==currentCountry})
+  updateTableData(dataFilter)
 
 }
-function nameChanged(){
-  console.log(currentCountry)
-  return true;
 
-}*/
+function resetTable(){
+  updateTableData(fullDataSet)
+}
 
 /////////////////////////////////////////TABLE\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 var header;
@@ -358,7 +360,11 @@ function drawHeader(){
 }
 
 function drawTable(data){
-  console.log('draw', data)
+  
+  d3.select('#resetbtn')
+    .on('click', function(d){
+      updateTableData(fullDataSet)
+    })
   // List of groups (here I have one group per column)
   var allGroup = d3.selectAll('option');
   // add the options to the button
@@ -400,7 +406,8 @@ function drawTable(data){
   var rows = tbody.selectAll("tr")
     .data(data)
     .enter()
-    .append("tr");
+    .append("tr")
+    .style('width', '650px');
 
   var cells = rows.selectAll("td")
     .data(function(d){
@@ -451,6 +458,11 @@ function updateTableData(data){
   console.log(data)
   filteredDataset = data
   titles = d3.keys(data[0]);
+
+  d3.select('#resetbtn')
+    .on('click', function(d){
+      updateTableData(fullDataSet)
+    })
 
   // List of groups (here I have one group per column)
   var allGroup = d3.selectAll('option');

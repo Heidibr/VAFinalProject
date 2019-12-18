@@ -2,7 +2,8 @@
   display: flex;
   align-content: flex-start;
   align-items: center;
-  background-color:grey;
+  background-color:#2A2C39;
+  color: #F0F0F0;
 }
 
 #sortP {

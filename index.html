@@ -14,35 +14,36 @@
 </head>
 
 <body>
-
-    <header>World University Rankings</header>
     <div id = 'container'>
-    <div id = 'table'>
-        <div id='sortTableHeader'>
+        <div id = 'table'>
+            <h1>World University Rankings</h1>
+            <div id='sortTableHeader'>
                 <p id='sortP'>Sort by: </p>
                  <select id = "dd" class="dropdown-content">
                     <option selected >Overall Rank</option>
                     <option >International Student Rank</option>
                 </select>
+                <button id = 'resetbtn'>Reset Country choice</button>
             </div>
 
-        <div id = 'table-holder'>
-            <div id = 'tableHeader'></div>
+            <div id = 'table-holder'>
+                <div id = 'tableHeader'></div>
+            </div>
+
+            <div class="buttonHolder" id = "buttons">
+                <a href="#" id = "up">&#8249;</a>
+                <a href="#" id = "down">&#8250;</a>
+            </div>
         </div>
-
-    <div class="buttonHolder" id = "buttons">
-        <a href="#" id = "up">&#8249;</a>
-        <a href="#" id = "down">&#8250;</a>
-    </div>
-
-    </div>
-
-    <div id="scatterArea"></div>
     
-
+        <div id='containerMapScat'>
+            <div id="scatterArea"></div>
+            <div class="new_line" id ="map-holder"></div>
+        </div>
+    </div>
 
     <script src="js/table.js"> </script>
-    <!--<script src="js/map.js"> </script>-->
+    <script src="js/map.js"> </script>
 
 
 </body>

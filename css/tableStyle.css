@@ -1,37 +1,17 @@
-/*table {
-    
-    border: 1px solid #000;
-    border-collapse:collapse;
-    vertical-align:middle;
-    margin-top: 5px;
-    background: white;
-    height: 890px;
-    width: 100%;
-    table-layout: fixed;
-
-}
-tr,td,th{
-    border:1px solid grey;
-    text-align: left;
-    padding: 4px;
-    width: 40px;
-    border-collapse:collapse;
-    vertical-align:middle;
-    background: white;
-}*/
-
 th:last-child, td:last-child { display: none }
 th:nth-last-child(2), td:nth-last-child(2) { display: none }
 
 
 table, thead, th, tr{
     width: 100%;
-    text-align: left;
+    height: 70px;
+    text-align: center;
     padding: 4px;
     border-collapse:collapse;
     vertical-align:middle;
     background:lightgray;
     table-layout: fixed;
+    border-bottom:1px solid #2A2C39;
 }
 
 

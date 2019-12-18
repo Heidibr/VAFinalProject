@@ -176,11 +176,7 @@
                 d3.selectAll(".country").classed("country-on", false);
                 d3.select(this).classed("country-on", true);
                 countryName = d.properties.name
-                updateTable(countryName)
-                d3.csv("./data/convertcsv.csv", function(data){
-                  getCountry(countryName, data)
-                })
-                d3.select('#current').text(d.properties.name)
+                getCountryNameFromMap(countryName)
             boxZoom(path.bounds(d), path.centroid(d), 20);
             });
           // Add a label group to each feature/country. This will contain the country name and a background rectangle
